@@ -1,0 +1,112 @@
+.PreviousHistory{
+    padding: 10px;
+     border:1px solid #e0e0e0;
+     border-radius: 10px; 
+}
+.TitleText{
+    color: rgb(224, 0, 77);
+    font-weight: bold;
+    padding-left: 0px;
+    padding-top: 10px;
+  text-align: left;
+}
+.DoctorInfo .MuiAvatar-root {
+    height: 55px;
+    width: 55px;
+    border-width: 0.3px;
+    border-color: rgb(224, 0, 77);
+    border-style: solid;
+    float: left;
+    margin-left: 5px;
+    margin-right: 7px;
+}
+.DoctorInfo .Name{
+    font-size: 16px;
+    text-align: left;
+    padding-top: 1px;
+    font-weight: 550;
+    color: #e0004d;
+    margin-bottom: 1px;
+}
+.DoctorInfo .Tags{
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 1px;
+}
+.DoctorInfo .SubTags{
+    font-size: 14px;
+    text-align: left;
+    margin-bottom: 10px;
+}
+.HistorySection{
+    text-align: left;
+    margin-left: 30px;
+    margin-top: 15px;
+}
+.PriceTag{
+   color:#e0004d;
+   font-weight: 500;
+   font-size: 12px;
+   margin-top: 8px;
+}
+.ViewDetails{
+    background: #f9f9f9;
+    font-size: 12px;
+    text-transform: capitalize !important;
+    border-radius: 4px;
+    height: 30px;
+    width: 30px;
+    color: #333333;
+    padding: 2px 8px !important;
+    margin-top: 0px;
+    border: 1px solid #efefef !important;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.16);
+}
+.ViewDetails:hover, .ViewDetails:focus{
+    opacity: 0.9;
+    outline: 1px solid transparent;
+    border: 1px solid #efefef;
+}
+
+.TestTitle{
+    text-align: left;
+    margin-top: 8px;
+}
+.prescLabel{
+    color: #e0004d;
+    font-size: 14px;
+    font-weight: bold;
+}
+.TotalNum{
+    font-size: 17px;
+    margin-left: 10px;
+}
+.Totaltxt{
+    color: #e0004d;
+    font-size: 13px;
+}
+.HistoryList{
+    max-height: 94vh;
+    overflow: hidden;
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+}
+.HistoryList{
+    margin-right: 18px;
+}
+
+  .HistoryList:hover {
+    overflow: auto;
+  }
+  .HistoryList .scrollbox{
+    padding-right: 16px;
+  }
+  .HistoryList:hover .scrollbox {
+    padding-right: 0px;
+  }
+  .NoDataImg{
+    height: 35px;
+    width: 35px;
+    object-fit: cover;
+    margin-bottom: 3px;
+  }

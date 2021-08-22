@@ -1,0 +1,227 @@
+.StatsMain{
+    background-color: #ffffff;
+    width: 320px;
+    height: 320px;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-right: 1px solid #efefef;
+    box-shadow: 1px 0px 5px rgba(0, 0, 0, 0.09);
+
+}
+.StatsTitle{
+    font-size: 14px;
+    font-weight: bold;
+    color: rgb(224, 0, 77);
+    text-align: left;
+    /* margin-top: 5px; */
+    padding-top: 10px;
+    padding-left: 10px;
+}
+.StatsDiv{
+    border: 1px solid #e0d8d8;
+    border-radius: 4px;
+    text-align: left;
+}
+.AppointmentStats{
+  
+    margin-top: 11px;
+
+}
+
+.AppointmentStats canvas{
+    width: 100% !important;
+    display: inline-block;
+    vertical-align: middle;
+    cursor: default;
+    height: 242px !important;
+}
+.AppointmentStats .chartjs-size-monitor-shrink > div{
+    width:100% !important;
+    height: 100% !important;
+}
+.AppointmentTypes canvas {
+    width: 100% !important;
+} 
+.AppointmentTypes{
+    height: 155px !important;
+}
+
+.AppointmentStatus{
+    height: 136px;
+   
+}
+.AppointmentStatus canvas{
+    width: 100% !important;
+}
+.AppointmentBtn{
+    margin-right: 5;
+              float:right;
+              width: 200;
+              background-color: #e0004d;
+              border-color:#e0004d;
+              margin-top: 10px;
+}
+.AppointmentBtn:hover, .AppointmentBtn:focus{
+    border-color:#e0004d;
+    background-color: #c30b4a;
+    outline: 1px solid transparent !important;
+
+}
+.AppointmentDate{
+    float: right;
+    margin-top: 10px;
+}
+.ProgressDiv{
+ border: 1px solid #e0d8d8;
+ border-radius: 4px;
+margin-top: 10px;
+text-align: left;
+    
+}
+.ProgressCard{
+    width: 100%;
+    border: 1px solid #efefef;
+    border-radius: 4px !important;
+    padding: 5px;
+    box-shadow: 14px -1px 22px -2px rgb(0 0 0 / 5%), 0px 1px 1px 0px rgb(107 107 107 / 3%), 0px 1px 3px 0px rgb(0 0 0 / 2%) !important;
+    margin-bottom: 10px;
+}
+.ProgressCard .MuiCardContent-root {
+    padding: 5px;
+}
+.m-0{
+    margin: 0px !important;
+}
+.patientStatus{
+    color: #e0004d;
+    font-size: 14px;
+    font-weight: 550;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+.ProgressCard .MuiAvatar-root {
+    cursor: pointer;
+    width: 65px;
+    height: 65px;
+    object-fit: cover;
+    display: flex;
+    border: 1px solid #e66166;
+    overflow: hidden;
+    position: relative;
+    font-size: 1.25rem;
+    align-items: center;
+    flex-shrink: 0;
+    font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+    line-height: 1;
+    user-select: none;
+    border-radius: 50%;
+    justify-content: center;
+}
+.AgeLabel{
+    font-size: 14px;
+    margin-left: 2px;
+    margin-bottom: 3px;
+}
+.GenderLabel{
+    font-size: 14px;
+    margin-left: 2px;
+}
+.NameLabel{
+    color: #e0004d;
+    text-align: left;
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 1px;
+    margin-top: 4px;
+}
+.ProgressCard .MuiCardActions-root {
+    display: flex;
+    padding: 8px;
+    align-items: center;
+    padding-bottom: 0px;
+}
+.Timelabel{
+    color: #e0004d;
+    font-size: 20px;
+    font-weight: 550;
+}
+.ProgressBar .MuiLinearProgress-root {
+    height: 6px;
+    overflow: hidden;
+    position: relative;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 4px;
+}
+.ProgressBar .MuiLinearProgress-barColorPrimary {
+    background-color: #e3464d;
+}
+.ProgressBar{
+    text-align: center;
+
+}
+.ProgressBar h6{
+    font-weight: 550;
+    margin-top: 5px;
+}
+.CurrentCard{
+    opacity: 1;
+}
+.NextCard{
+    opacity: 0.9;
+}
+
+.locationSelection select{
+ word-wrap: normal;
+height: 30px;
+border-radius: 4px;
+background: #efefef;
+border: 1px solid #c5c2c2;
+padding: 5px;
+color: #7b7878;
+font-size: 14px;
+}
+.locationSelection select:focus, .locationSelection select:hover{
+   outline: 1px solid #e3464d;
+   border-radius: 4px;
+   }
+
+   .TitleLabel{
+    color: #e0004d;
+    font-size: 16px;
+    font-weight: 550;
+   }
+
+
+.QueList .MuiTimeline-root {
+    display: flex;
+    padding: 6px 16px;
+    flex-grow: 1;
+    /* flex-direction: column; */
+    padding-left: 0px;
+    /* scroll-padding-inline-start: 0px !important; */
+    padding-inline-start: 0px !important;
+    margin-block-start: 0px !important;
+    text-align: -webkit-left;
+}
+.QueList .MuiTimeline-root{
+    flex-direction: unset;
+}
+
+.AppointmentTypes .chartjs-render-monitor{
+    display: block;
+    width: 300px !important;
+    height: 150px !important;
+    margin-top: 20px;
+}
+
+.AppointmentStatus .chartjs-render-monitor{
+    display: block;
+    width: 300px !important;
+    height: 150px !important;
+    float: right;
+    margin-top: -20px;
+} 

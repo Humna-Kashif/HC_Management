@@ -1,0 +1,3356 @@
+1,25-Hydroxy Vitamin-D,3-5cc Clotted Blood or Serum,3200,t
+2,ANTI HCV,3-5cc Clotted Blood or Serum,2200,t
+3,ANTI HIV - 1&2,3-5cc Clotted Blood or Serum,2500,t
+4,"Blood C/E (Complete, CBC)",3cc EDTA BLOOD (CBC VIAL),680,t
+5,Blood Glucose Random,Sodium Fluoride Vial (Sugar Vial),300,t
+6,CHOLESTEROL / HDL CHOLESTEROL RATIO,3-5cc Clotted Blood or Serum,700,t
+7,HbA1C (Glycosylated Hemoglobin),3cc EDTA BLOOD (CBC VIAL),1650,t
+8,HBsAg (Quantitative),3-5cc Clotted Blood or Serum,3000,t
+9,HBV BY PCR (Qualitative),10cc EDTA Whole Blood,7000,t
+10,HBV BY PCR (Viral Load / Quantitation),10cc EDTA Whole Blood,11000,t
+11,HCV BY PCR (Viral Load / Quantitation),2 EDTA vials containing 3cc blood in each vial,9500,t
+12,HCV Qualitative PCR,2 EDTA vials containing 3cc blood in each vial,7000,t
+13,Iron / Fe Level (Serum),3-5cc Clotted Blood or Serum,650,t
+14,Lipid Profile,3-5cc Clotted Blood or Serum,2200,t
+15,Liver Function Test With GGT (LFT),3-5cc Clotted Blood or Serum,1650,t
+16,"Urine C/E (Complete, Analysis)",Urine (Random/Spot),400,t
+17,17-OH Progesterone,3-5cc Clotted Blood or Serum,3650,t
+18,25-OH Vitamin D3,3-5cc Clotted Blood or Serum,3200,t
+19,3D Hematology (From NIBD),3cc EDTA Blood & 2 Stain Smear & 1 Unstain,2250,t
+20,3gAllergy Specific IgE Universal Food Allergens Profile,8cc Clotted Blood or Serum,6050,t
+21,3gAllergy Specific IgE Universal Inhalant Allergens Profile,8cc Clotted Blood or Serum,6050,t
+22,5 HIAA (24 Hrs Urine) (5-Hydroxyindoleacetic Acid),24 Hrs Urine,4200,t
+23,A/G Ratio,3-5cc Clotted Blood or Serum,800,t
+24,ABO Isohemagglutinin Titre (IHA),EDTA And Clotted Blood,1650,t
+25,Abscess  for  Bacterial C/S (Aerobic) with Gram Stain,Abscess,1950,t
+26,Absolute Eosinophil Count,3cc EDTA BLOOD (CBC VIAL),220,t
+27,Absolute Lymphocyte Count,3cc EDTA BLOOD (CBC VIAL),220,t
+28,Absolute Monocyte Count,3cc EDTA BLOOD (CBC VIAL),220,t
+29,Absolute Neutrophil Count,3cc EDTA BLOOD (CBC VIAL),220,t
+30,Absolute Values / Cell Count,3cc EDTA BLOOD (CBC VIAL),700,t
+31,Acanthocytes (Spot Urine),Urine (Random/Spot),280,t
+32,ACTH Stimulation Test (for CAH),3 Clotted Blood and 1 EDTA,6600,t
+33,ACTH Stimulation Test (Short Synacthen Test),3 Clotted Blood Samples,3300,t
+34,ADAMTS 13 Activity  (From UK),3-5 ml Frozen Plasma,89100,t
+35,Addiction Therapy      (Home Care),NONE,11000,t
+36,AFB C/S  (Ascitic Fluid  for  (Mycobacterium Tuberculosis),FLUID (All Body Fluid),3950,t
+37,AFB C/S  (Aspiration Fluid  for  (Mycobacterium Tuberculosis),Aspiration Fluid,3950,t
+38,AFB C/S  (Bone  for  Mycobacterium Tuberculosis),Bone,3950,t
+39,AFB C/S  (Bronchial Washingss  for  Mycobacterium Tuberculosis),BRONCHIAL WASHING,3950,t
+40,AFB C/S  (Broncho Alveolar Lavage  for  Mycobacterium Tuberculosis),Broncho Alveolar,3950,t
+41,AFB C/S  (Cervical Swab  for  Mycobacterium Tuberculosis),Cervical Swab,3950,t
+42,AFB C/S  (CSF  for  Mycobacterium Tuberculosis),CSF,3950,t
+43,AFB C/S  (CVP TIP  for  Mycobacterium Tuberculosis),CVP TIP,3950,t
+44,AFB C/S  (Cystic Fluid  for  Mycobacterium Tuberculosis),Pancreatic fluid,3950,t
+45,AFB C/S  (DJ Stent  for  Mycobacterium Tuberculosis),DJ Stent,3950,t
+46,AFB C/S  (Drain  for  Mycobacterium Tuberculosis),DRAIN,3950,t
+47,AFB C/S  (Drain Tip  for  Mycobacterium Tuberculosis),Drain Tip,3950,t
+48,AFB C/S  (Ear Swab  for  Mycobacterium Tuberculosis),SWAB,3950,t
+49,AFB C/S  (Fluid  for  Mycobacterium Tuberculosis) (FLUID NAME?),FLUID (All Body Fluid),3950,t
+50,AFB C/S  (Hairs  for  Mycobacterium Tuberculosis),HAIRS,3950,t
+51,AFB C/S  (Hepatic Fluid  for  Mycobacterium Tuberculosis),HEPATIC FLUID,3950,t
+52,AFB C/S  (Joint Fluid  for  Mycobacterium Tuberculosis),JOINT FLUID,3950,t
+53,AFB C/S  (Milk  for  Mycobacterium Tuberculosis),MILK,3950,t
+54,AFB C/S  (Mycobacterium Tuberculosis) (Specimen name?),ALL TYPE SPECIMEN,3950,t
+55,AFB C/S  (Nail  for  Mycobacterium Tuberculosis),NAIL,3950,t
+56,AFB C/S  (Nasal Swab  for  Mycobacterium Tuberculosis),Nasal Swab,3950,t
+57,AFB C/S  (Pancreatic Fluid  for  Mycobacterium Tuberculosis),Cystic Fluid,3950,t
+58,AFB C/S  (Pericardial Fluid  for  Mycobacterium Tuberculosis),Pericardial Fluid,3950,t
+59,AFB C/S  (Peritoneal Fluid  for  Mycobacterium Tuberculosis),PERITONEAL FLUID,3950,t
+60,AFB C/S  (Pleural Fluid  for  Mycobacterium Tuberculosis),FLUID (All Body Fluid),3950,t
+61,AFB C/S  (PUS SWAB  for  Mycobacterium Tuberculosis),SWAB,3950,t
+62,AFB C/S  (PUS SYRINGE  for  Mycobacterium Tuberculosis),PUS,3950,t
+63,AFB C/S  (Semen  for  Mycobacterium Tuberculosis),SEMEN,3950,t
+64,AFB C/S  (Skin Scrapping  for  Mycobacterium Tuberculosis),SKIN SCRAPPING,3950,t
+65,AFB C/S  (Sputum  for  Mycobacterium Tuberculosis),SPUTUM,3950,t
+66,AFB C/S  (Swab  for  Mycobacterium Tuberculosis) (Specimen Name ?),SWAB,3950,t
+67,AFB C/S  (Synovial Fluid  for  Mycobacterium Tuberculosis),SYNOVIAL FLUID,3950,t
+68,AFB C/S  (Tissue Biopsy  for  Mycobacterium Tuberculosis),TISSUE,3950,t
+69,AFB C/S  (Urine  for  Mycobacterium Tuberculosis),Urine (Random/Spot),3950,t
+70,AFB C/S  (Wound Secretion  for  Mycobacterium Tuberculosis),WOUND SECRETION,3950,t
+71,AFB C/S  (Wound Swab  for  Mycobacterium Tuberculosis),WOUND SWAB,3950,t
+72,AFB Smear/ZN Stain (Specimen Name:,ALL TYPE SPECIMEN,450,t
+73,Albumin (CSF),CSF,600,t
+74,Albumin (Fluid),FLUID (All Body Fluid),500,t
+75,Aldosterone / Direct Renin Ratio (ADRR),3cc Clotted & 3cc EDTA,7800,t
+76,Alkaline Phosphatase,3-5cc Clotted Blood or Serum,500,t
+77,ALT (SGPT),3-5cc Clotted Blood or Serum,450,t
+78,Ambulance Outsource Services Charges at Fixed Location (Home Care),NONE,200000,t
+79,Ambulance Service  ( For  Home Care),NONE,3000,t
+80,Amenorrhoea Profile,3-5cc Clotted Blood or Serum,6050,t
+81,Amphetamine/Methamphetamine,Urine (Random/Spot),1600,t
+82,Amylase (24 Hours Urine),24 Hrs Urine,1100,t
+83,Analog (Pt-5) (Audiology),NONE,16500,t
+84,Androstenedione,3-5cc Clotted Blood or Serum,2550,t
+85,Anemia Profile,2 EDTA & 2 Clotted Samples,6600,t
+86,Anion Gap (Serum),3-5cc Clotted Blood or Serum,1100,t
+87,Antenatal Profile,"2 EDTA, 2 Clotted & 1 Fluoride",18150,t
+88,Antenatal Screen  for  Rh Antibodies,EDTA And Clotted Blood,4400,t
+89,Anti-Chikungunya Virus IgG,3-5cc Clotted Blood or Serum,3000,t
+90,Anti-Chikungunya Virus IgM,3-5cc Clotted Blood or Serum,3000,t
+91,Anti-EBV (EBNA-1) IgG,3-5cc Clotted Blood or Serum,1650,t
+92,Anti-EBV IgG,3-5cc Clotted Blood or Serum,3400,t
+93,Anti-EBV IgM,3-5cc Clotted Blood or Serum,3400,t
+94,Anti-GAD,3-5cc Clotted Blood or Serum,30800,t
+95,Anti-HBc (Total),3-5cc Clotted Blood or Serum,1950,t
+96,Anti-HBc IgM,3-5cc Clotted Blood or Serum,2150,t
+97,Anti-HBe,3-5cc Clotted Blood or Serum,2150,t
+98,Anti-HBs,3-5cc Clotted Blood or Serum,1700,t
+99,Anti-HCV,3-5cc Clotted Blood or Serum,2200,t
+100,Anti-HDV,3-5cc Clotted Blood or Serum,2400,t
+101,Anti-HEV IgG,3-5cc Clotted Blood or Serum,2700,t
+102,Anti-HEV IgM,3-5cc Clotted Blood or Serum,2700,t
+103,Anti-HIV - 1 & 2,3-5cc Clotted Blood or Serum,2500,t
+104,Anti-HSV 1 & 2 IgG (CSF),CSF & 3-5cc Clotted Blood,4350,t
+105,Anti-Insulin Antibodies  (From UK),3-5cc Clotted Blood or Serum,30800,t
+106,Anti-Islet (From UK),3-5cc Clotted Blood or Serum,28600,t
+107,Anti-Measles IgG (CSF),CSF & 3-5cc Clotted Blood,4350,t
+108,"Anti-Neutrophil Cytoplasmic Antibodies (C-ANCA, P-ANCA)",3-5cc Clotted Blood or Serum,7800,t
+109,"Anti-Nuclear Antibodies Group (ANA,AMA,ASMA)",3-5cc Clotted Blood or Serum,4500,t
+110,Anti-Parietal Cells Antibodies,3-5cc Clotted Blood or Serum,2750,t
+111,Anti-Parvovirus B19 IgG,3-5cc Clotted Blood or Serum,3200,t
+112,Anti-Parvovirus B19 IgM,3-5cc Clotted Blood or Serum,3200,t
+113,Anti-Rabies Virus Glycoprotein IgG,3-5cc Clotted Blood or Serum,6600,t
+114,Anti-Scl-70,3-5cc Clotted Blood or Serum,2650,t
+115,Anti-Thrombin,Sodium Citrate Tube (PT Vial),5350,t
+116,Anti-Thyroid Antibodies Profile (ATA),3-5cc Clotted Blood or Serum,4400,t
+117,Antinuclear Antibodies (ANA),3-5cc Clotted Blood or Serum,3500,t
+118,APTT,Sodium Citrate Tube (PT Vial),800,t
+119,APTT Based Clotting Factor Inhibitor Screening,Sodium Citrate Tube (PT Vial),1800,t
+120,Arterial Blood Gases,Heparinized blood,1300,t
+121,Arthritis Profile,3cc Clotted & 3cc EDTA,6550,t
+122,Ascitic Fluid  for  (AFB Smear/ZN Stain),FLUID (All Body Fluid),450,t
+123,Ascitic Fluid  for  (Analysis (LDH+Albumin),FLUID (All Body Fluid),1800,t
+124,Ascitic Fluid  for  (Bacterial C/S (Aerobic) e Gram Stain),FLUID (All Body Fluid),1950,t
+125,Ascitic Fluid  for  (Fungus C/S e Fungus Stain)(KOH),Cystic Fluid,2300,t
+126,Ascitic Fluid  for  (Fungus Stain/Fungal Smear) (KOH),Ascitic Fluid,700,t
+127,Ascitic Fluid  for  (Gram Stain),FLUID (All Body Fluid),450,t
+128,Aspiration Fluid  for  (AFB Smear/ZN Stain),Aspiration Fluid,450,t
+129,Aspiration Fluid  for  (Bacterial C/S (Aerobic) e Gram Stain),Aspiration Fluid,1950,t
+130,Aspiration Fluid  for  (Fungus C/S e Fungus Stain)(KOH),Aspiration Fluid,2300,t
+131,Aspiration Fluid  for  (Fungus Stain/Fungal Smear )(KOH),Aspiration Fluid,700,t
+132,Aspiration Fluid  for  (Gram Stain),Aspiration Fluid,450,t
+133,AST (SGOT),3-5cc Clotted Blood or Serum,450,t
+134,Audio Training          (Home Care),NONE,5500,t
+135,Audiometry / Audiogram,NONE,1650,t
+136,Autism Panel  (From UK),NONE,350000,t
+137,Autism Panel ( From USA),NONE,350000,t
+138,Autoimmune Liver Disease Profile,3-5cc Clotted Blood or Serum,6050,t
+139,B/N Ratio,3cc EDTA BLOOD (CBC VIAL),650,t
+140,Bacterial isolate  for  Biochemical (API) testing,NONE,1750,t
+141,Barbiturates,Urine (Random/Spot),1600,t
+142,Basic Health Profile,"3cc Clotted Blood, 3cc EDTA and Fluoride Sample",8500,t
+143,Basic Heart Parameters Heart Profile,"2 EDTA, 1 Clotted, 1 Sodium Fluoride",800,t
+144,Basic Metabolic Profile (BMP),3cc Serum and Fluoride Sample,2400,t
+145,"Basic Thyroid Profile (FT3, FT4, TSH)",3-5cc Clotted Blood or Serum,3850,t
+146,BCR-ABL By PCR (Quantitation),2 EDTA vials containing 3cc blood in each vial,21450,t
+147,Bed Sore  for  Bacterial C/S (Aerobic) with Gram Stain,Bed Sore,1950,t
+148,Behaviour Therapy     (Home Care),NONE,11000,t
+149,Benzodiazepines,Urine (Random/Spot),1600,t
+150,Beta-2 Glycoprotein-1 IgG,3-5cc Clotted Blood or Serum,2400,t
+151,Beta-2 Glycoprotein-1 IgM,3-5cc Clotted Blood or Serum,2400,t
+152,Bethesda Assay (Factor VIII Inhibitor Quantitative),Sodium Citrate Tube (PT Vial),8500,t
+153,Bicarbonate,3-5cc Clotted Blood or Serum,400,t
+154,Bile Pigment (Fluid),FLUID (All Body Fluid),350,t
+155,Bile Salt (Fluid),FLUID (All Body Fluid),350,t
+156,Bilirubin Conjugated,3-5cc Clotted Blood or Serum,450,t
+157,Bilirubin Total,3-5cc Clotted Blood or Serum,450,t
+158,Bilirubin Total (Fluid),FLUID (All Body Fluid),450,t
+159,Bilirubin Unconjugated,3-5cc Clotted Blood or Serum,450,t
+160,Biopsy  for  H/P (Amputation) with History,BIOPSY (Tissue),8250,t
+161,Biopsy  for  H/P (Extra Large Specimen) with History,BIOPSY (Tissue),6050,t
+162,Biopsy  for  H/P (Large Specimen) with History,BIOPSY (Tissue),5000,t
+163,Biopsy  for  H/P (Medium + Extra Large specimen) with History,BIOPSY (Tissue),7700,t
+164,Biopsy  for  H/P (Medium + Large specimen) with History,BIOPSY (Tissue),6600,t
+165,Biopsy  for  H/P (Medium Specimen) with History,BIOPSY (Tissue),3100,t
+166,Biopsy  for  H/P (Small + Medium specimen) with History,BIOPSY (Tissue),4950,t
+167,Biopsy  for  H/P (Small Specimen) with History,BIOPSY (Tissue),3000,t
+168,Biopsy  for  H/P (Three or More Specimens) with History,BIOPSY (Tissue),5500,t
+169,Biopsy  for  H/P (Two Large Specimens) with History,BIOPSY (Tissue),4950,t
+170,Biopsy  for  H/P (Two Medium Specimens) with History,BIOPSY (Tissue),6050,t
+171,Biopsy  for  H/P (Two Small Specimens) with History,BIOPSY (Tissue),4400,t
+172,Biopsy  for  H/P (Two Specimens Small + Large) with History,BIOPSY (Tissue),4400,t
+173,Biopsy  for  Prepare Blocks & Slides Only (without Reporting),BIOPSY (Tissue),1650,t
+174,"Biopsy, Slide(s) & Block(s)  for  review",SLIDES & BLOCKS,11000,t
+175,BK (Polyomavirus Virus (Quantitative),Urine or 9cc EDTA Blood,12750,t
+176,Bleeding Time (BT),NONE,450,t
+177,Block(s) & Slide (s)  for  Patient (all block(s) charges),BIOPSY (Tissue),500,t
+178,Blood  for  C/S (Aerobic & Anaerobic Two Bottles),BLOOD CULTURE VAIL,4000,t
+179,Blood  for  C/S (Single Bottle),BLOOD CULTURE VAIL,2000,t
+180,Blood  for  Microfilaria,3cc EDTA BLOOD (CBC VIAL),500,t
+181,Blood Alcohol Level,3cc EDTA BLOOD (CBC VIAL),1950,t
+182,Blood C/E e Peripheral Film/Smear,3cc EDTA BLOOD (CBC VIAL),800,t
+183,Blood Group & Cross Match (Donor Name),EDTA And Clotted Blood,1050,t
+184,Blood Group & Rh Factor,EDTA And Clotted Blood,650,t
+185,Blood Lead Level,1 ETDA tube containing 3cc Blood,9350,t
+186,Blood Pressure BP ( for  Home Care Visit),NONE,550,t
+187,Blood Transfusion (At Center),NONE,3300,t
+188,Blood Transfusion (At Home),NONE,5500,t
+189,BMI (Weight & Height),NONE,550,t
+190,BNP,3cc EDTA BLOOD (CBC VIAL),2650,t
+191,Bone  for  Bacterial C/S (Aerobic) with Gram Stain,Bone,1950,t
+192,Bone  for  Fungus C/S with Fungus Stain (KOH),Bone,2300,t
+193,"Bone Age Study ( for Insatitutonal need, Please specify in remarks)",NONE,6800,t
+194,Bone Marrow  for  Bacterial C/S (Aerobic) with Gram Stain,Bone Marrow,1950,t
+195,Bone Marrow  for  Fungus Stain/Fungal Smear (KOH),Bone,700,t
+196,Bone Marrow Biopsy (Procedure & Reporting),NONE,7150,t
+197,Bone Marrow Slide & Block  for  review with history,EDTA+Bone Marrow Aspirate Slides+Trephine biopsy,11000,t
+198,Bone Profile,3cc Clotted & 3cc EDTA,4750,t
+199,BRCA I/II  (From UK),2 EDTA vials containing 3cc blood in each vial,226600,t
+200,Breast Cancer NGS Panel,4cc EDTA 2 Vials,165000,t
+201,Bronchial Washings  for  Analysis.,BRONCHIAL WASHING,1650,t
+202,Bronchial Washings  for  Bacterial C/S (Aerobic) with Gram Stain,BRONCHIAL WASHING,1950,t
+203,Bronchial Washings  for  Fungus C/S with Fungus Stain(KOH),BRONCHIAL WASHING,2300,t
+204,Bronchial Washings  for  Fungus Stain/Fungal Smear (KOH),BRONCHIAL WASHING,700,t
+205,Bronchial Washings  for  Gram Stain,BRONCHIAL WASHING,450,t
+206,Bronchial Washingss  for  AFB Smear/ZN Stain,BRONCHIAL WASHING,450,t
+207,Broncho Alveolar Lavage  for  AFB Smear/ZN Stain,Broncho Alveolar,450,t
+208,Broncho Alveolar Lavage  for  Bacterial C/S (Aerobic) e Gram Stain,Broncho Alveolar,1950,t
+209,Broncho Alveolar Lavage  for  Fungus C/S e Fungus Stain(KOH),Broncho Alveolar,2300,t
+210,Broncho Alveolar Lavage  for  Fungus Stain/Fungal Smear (KOH),Broncho Alveolar,700,t
+211,Broncho Alveolar Lavage  for  Gram Stain,Broncho Alveolar,450,t
+212,BUN (Blood Urea Nitrogen),3-5cc Clotted Blood or Serum,650,t
+213,BUN / Creatinine Ratio (Serum),3 Clotted Blood Samples,1300,t
+214,C2 Monitoring (Whole Blood),3cc EDTA BLOOD (CBC VIAL),6050,t
+215,Calcium & Uric Acid Profile,"2 EDTA, 1 Clotted, 1 Sodium Fluoride",1000,t
+216,Calcium (Spot Urine),Urine (Random/Spot),650,t
+217,CALR Mutation (Exon 9 Mutation)   (Form NIBD),6cc EDTA Blood (2 CBC Vials),19250,t
+218,Cannabinoids,Urine (Random/Spot),1600,t
+219,Cardiac  Enzymes,3-5cc Clotted Blood or Serum,1600,t
+220,Cardiac Profile with Troponin I,3cc Clotted & 3cc EDTA,2750,t
+221,Cardiovascular Risk Profile,PT Vial and 4 cc Clotted Blood,3650,t
+222,Carrier Identification  for  Factor VIII and Factor IX Deficiency        (Form NIBD),Patient & Mother 2 Vials Each EDTA+ Sodium Citrate,55000,t
+223,Catecholamines Group of Tests  (24 Hrs Urine),24 Hrs Urine,9000,t
+224,Catheter  for  Urea (24 Hrs Urine),24 Hrs Urine,650,t
+225,Cautery (Skin Tags),NONE,2200,t
+226,Cautery (Warts),NONE,2200,t
+227,"CBC Blood C/E  for  Dengue Patients (Hb, TLC, Hct, Platelet Count)",3cc EDTA BLOOD (CBC VIAL),90,t
+228,CD Charges - CT (Per Study),NONE,550,t
+229,CD Charges- MRI (Per Study),NONE,550,t
+230,Cervical Swab  for  AFB Smear/ZN Stain,Cervical Swab,450,t
+231,Cervical swab  for  Bacterial C/S (Aerobic) with Gram Stain,Cervical Swab,1950,t
+232,Cervical Swab  for  Fungus C/S with Fungus Stain (KOH),Cervical Swab,2300,t
+233,Cervical Swab  for  Fungus Stain/Fungal Smear (KOH),Cervical Swab,700,t
+234,Cervical Swab  for  Gram Stain,Cervical Swab,450,t
+235,Chem 7 Profile,3cc Serum and Fluoride Sample,2400,t
+236,Chemical Jessners Peeling,NONE,5500,t
+237,Chemical Salicylic Peeling,NONE,3300,t
+238,Chemotherapy-1,NONE,2200,t
+239,Chemotherapy-2,NONE,2750,t
+240,Chemotherapy-3,NONE,3300,t
+241,Chemotherapy-4,NONE,3850,t
+242,Chemotherapy-5,NONE,4400,t
+243,Chemotherapy-6,NONE,4950,t
+244,Chemotherapy-7,NONE,5500,t
+245,Chest Pain Profile,3 cc Clotted & 3 cc Heparinized Blood,3650,t
+246,Chicken Pox Vaxapox Vaccination (Company Cases),NONE,1750,t
+247,Chimerism Donor       (Form NIBD),"4 Buccal Swab of Patient Right & Left, 3cc EDTA Patient & Donor",9350,t
+248,Chitinase-3 like Protein-1,3-5cc Clotted Blood or Serum,5500,t
+249,Chlamydia trachomatis and Neisseria gonorrhoeae (CTNG),Urine in eNAT Tube,10450,t
+250,Chloride,3-5cc Clotted Blood or Serum,400,t
+251,Chloride (24 Hrs Urine),24 Hrs Urine,400,t
+252,Chloride (Fluid),FLUID (All Body Fluid),400,t
+253,Chloride (Spot Urine),Urine (Random/Spot),400,t
+254,Chloride/Creatinine Ratio (Spot Urine),Urine (Random/Spot),1000,t
+255,Cholesterol (Fluid),FLUID (All Body Fluid),600,t
+256,Cholesterol (Serum),3-5cc Clotted Blood or Serum,600,t
+257,Cholinesterase (Serum),3-5cc Clotted Blood or Serum,2750,t
+258,Chromogranin A Level  (From UK),3-5cc Clotted Blood or Serum,60500,t
+259,Chromosome Breakage  for  Fanconi Anaemia with history      (Form NIBD),10cc Sodium Heparin Vial (Three Vials),16400,t
+260,"Cic Aid Digial /Programa Ble, 4 Channels, 12 Bands (Cic 2010, Cic, Trim Tech, Upto 80Db) (Audiology)",NONE,41500,t
+261,CK-MB,3-5cc Clotted Blood or Serum,1450,t
+262,Clotting Time (CT),NONE,400,t
+263,"cMPL Mutation (W515k,W515L) (From NIBD)",10cc EDTA Whole Blood,7150,t
+264,CMV by PCR (Viral Load / Quantitation),10cc EDTA Whole Blood,11550,t
+265,CMV IgG,1 ETDA tube containing 3cc Blood,1300,t
+266,CMV IgG (Cytomegalovirus),3-5cc Clotted Blood or Serum,1750,t
+267,CMV IgM (Cytomegalovirus),3-5cc Clotted Blood or Serum,1750,t
+268,Coagulation Profile,"1 EDTA, 1 Sodium Citrate & Bleeding Time",1800,t
+269,Cocaine,Urine (Random/Spot),1600,t
+270,Cognitive Behaviour            (Home Care),NONE,5500,t
+271,Colonoscopy,NONE,22000,t
+272,Colostomy Bag Replacement ( For  Home Care Visit),NONE,2200,t
+273,Comprehensive Metabolic Profile (CMP),3cc Serum and Fluoride Sample,3650,t
+274,Congo Virus (CCHF) PCR Qualitative,9cc EDTA Blood (3 CBC Vials),7150,t
+275,Conjunctival Swab  for  Bacterial C/S (Aerobic) with Gram Stain,Conjunctive Swab,1950,t
+276,Connective Tissue Disorder Profile,2 EDTA & 2 Clotted Samples,24200,t
+277,Consultation Fee,NAIL,200,t
+278,Coombs Direct (Mono Specific),3cc EDTA BLOOD (CBC VIAL),1100,t
+279,Coombs Direct (Polyspecific),3cc EDTA BLOOD (CBC VIAL),600,t
+280,Corneal  for  Grams stain,ALL TYPE SPECIMEN,450,t
+281,Corneal Scrapping  For  Bacterial C/S (Aerobic) E Gram Stain,Comeal,1950,t
+282,Counselling Therapy       (Home Care),NONE,2200,t
+283,COVID-19 IgG Antibody Test (Potential Plasma Donor),3-5cc Clotted Blood or Serum,2500,t
+284,Covid-19 (CoronaVirus) by PCR Qualitative,(eNAT Tube) Nasal Swab/Throat Swab,7900,t
+285,CPK,3-5cc Clotted Blood or Serum,650,t
+286,Creatinine (24 Hrs Urine),24 Hrs Urine,650,t
+287,Creatinine (Fluid),FLUID (All Body Fluid),650,t
+288,Creatinine (Serum),3-5cc Clotted Blood or Serum,650,t
+289,Creatinine (Spot Urine),Urine (Random/Spot),650,t
+290,Creatinine Clearance (24 Hrs Urine & Serum),24 Hrs urine & Serum,1200,t
+291,Cross Match & Phenotyped\Antigen Negative Packed Red Cells with Screening,6cc EDTA + 3cc Clotted Samples,9350,t
+292,Cross Match & Phenotyped\Antigen Negative Packed Red Cells without Screening,6cc EDTA + 3cc Clotted Samples,3700,t
+293,Cross Matching with Elisa Screening (Donor Name: Mr.,1 EDTA 2 Cloted vials,6500,t
+294,Cryo with Complete Screening (One Bag),NONE,3300,t
+295,CSF  for  AFB Smear/ZN Stain,CSF,450,t
+296,CSF  for  Analysis,CSF,1800,t
+297,CSF  for  Bacterial C/S (Aerobic) with Gram Stain,CSF,1950,t
+298,CSF  for  Gram Stain,CSF,450,t
+299,CSF  for  TLC & DLC,CSF,700,t
+300,CSF ADA,CSF,4300,t
+301,CT 3D KUB (Without Contrast),NONE,12000,t
+302,CT Abdomen &  Pelvis (With & Without I/V Contrast),NONE,20000,t
+303,CT Abdomen &  Pelvis (Without Contrast),NONE,15000,t
+304,CT Abdomen & Pelvis (With I/V Contrast),NONE,18000,t
+305,CT Abdomen With & Without I/V Contrast,NONE,18000,t
+306,CT Abdomen With Contrast,NONE,15000,t
+307,CT Abdomen Without Contrast,NONE,12000,t
+308,CT All Joint 3D (For a Specific Region),NONE,15000,t
+309,CT Angio / Pyelo (Renal Donor),NONE,20000,t
+310,CT Angio Brain +  PNS,NONE,18000,t
+311,CT Angiogram - Abdominal aorta and iliac arteries (with I/V contrast),NONE,20000,t
+312,CT Angiogram - Renal / Mesenteric / Hepatic (With I/V Contrast),NONE,20000,t
+313,CT Angiogram - Thoracic Aorta / Chest (with I/V Contrast),NONE,20000,t
+314,CT Angiogram of Lower Extremities (with I/V contrast),NONE,20000,t
+315,"CT Angiogram run off (Chest,abdomen, pelvis and lower extremities)",NONE,25000,t
+316,CT Angiogram Upper Extremity,NONE,20000,t
+317,CT Angiography ( Neck / Extracranial Carotids (with I/V contrast),NONE,20000,t
+318,CT Angiography Intracranial (with I/V contrast),NONE,20000,t
+319,CT Angiography Neck and Brain,NONE,25000,t
+320,CT Biphasic with Contrast,NONE,20000,t
+321,CT bone / Joint -3D (Specify region in remarks),NONE,15000,t
+322,CT Brain (with  I/V Contrast),NONE,10500,t
+323,CT Brain (with and Without I/V Contrast),NONE,15000,t
+324,CT Brain and Orbits (with I/V Contrast),NONE,12000,t
+325,CT Brain Without Contrast,NONE,8500,t
+326,CT Chest & Abdomen with contrast,NONE,18000,t
+327,CT Chest & Abdomen without contrast,NONE,15000,t
+328,CT Chest High Resolution (HRCT Chest),NONE,10000,t
+329,CT Chest With Contrast,NONE,15000,t
+330,CT Chest Without Contrast,NONE,12000,t
+331,"CT Chest, Abdomen and Pelvis with contrast",NONE,23000,t
+332,"CT Chest, Abdomen and Pelvis without contrast",NONE,18000,t
+333,CT Colonography with contrast,NONE,23000,t
+334,CT Colonography without contrast,NONE,18000,t
+335,CT Contrast Charges 50 ml (Non-Ionic),NONE,1800,t
+336,CT Core Biopsy,NONE,22000,t
+337,CT Coronary Calcium Scoring,NONE,15000,t
+338,CT Duplicate Film (Per Copy),NONE,1000,t
+339,CT Enteroclysis (Enterography)  A+ P,NONE,20000,t
+340,CT Enterography and Colonography,NONE,20000,t
+341,CT Face with & without contrast,NONE,15000,t
+342,CT Face with contrast,NONE,13000,t
+343,CT Face without Contrast,NONE,10000,t
+344,CT Fluoroscopy Guidance for Arthrography,NONE,22000,t
+345,CT FNA & Core biopsy,NONE,22000,t
+346,CT Guidance for Aspiration,NONE,22000,t
+347,CT Guided Bone Biopsy,NONE,22000,t
+348,CT Guided Celiac Axis Block,NONE,22000,t
+349,CT Guided Repeat Biopsy,NONE,15000,t
+350,CT Guided Transbronchial Biopsy,NONE,22000,t
+351,CT Head and Neck (With and Without Contrast),NONE,18000,t
+352,CT Head and Neck with Contrast,NONE,18000,t
+353,CT Head and Neck Without Contrast,NONE,15000,t
+354,CT High Resolution (HRCT) Dynamic,NONE,15000,t
+355,CT Inner Ear & Temporal Bone With & Without Contrast,NONE,15000,t
+356,CT Inner Ear & Temporal Bone With Contrast,NONE,13000,t
+357,CT Inner Ear & Temporal Bone Without Contrast,NONE,10000,t
+358,CT IVU  / Pyelogram With Contrast,NONE,20000,t
+359,CT Limited with Contrast,NONE,10000,t
+360,CT Limited without Contrast,NONE,5500,t
+361,CT Lower limb With and Without contrast  (Single Region),NONE,15000,t
+362,CT Lower Limb with Contrast  (Single Region),NONE,13000,t
+363,CT Lower Limb Without contrast (Single Region),NONE,10000,t
+364,CT Lumbar Spine without contrast,NONE,12000,t
+365,CT Myelography,NONE,16000,t
+366,CT Neck and Chest with Contrast,NONE,18000,t
+367,CT Neck and Chest without Contrast,NONE,15000,t
+368,CT Neck with Contrast,NONE,13000,t
+369,CT Neck without Contrast,NONE,10000,t
+370,"CT Neck, Chest, Abdomen and Pelvis with Contrast",NONE,28000,t
+371,"CT Neck, Chest, Abdomen and Pelvis without Contrast",NONE,25000,t
+372,CT Paranasal Sinuses (FESS Protocol) With Contrast,NONE,13000,t
+373,CT Paranasal sinuses (FESS Protocol) Without Contrast,NONE,10000,t
+374,CT Pelvis with & Without Contrast,NONE,15000,t
+375,CT Pelvis with Contrast,NONE,13000,t
+376,CT Pelvis without Contrast,NONE,10000,t
+377,CT Perfusion (Specify region in remarks),NONE,13000,t
+378,CT PNS With and Without IV Contrast,NONE,15000,t
+379,CT PNS with contrast,NONE,13000,t
+380,CT PNS Without Contrast,NONE,10000,t
+381,CT Pulmonary Angiogram with IV Contrast,NONE,20000,t
+382,CT Renal Protocol (Non - Contrast),NONE,12000,t
+383,CT Scan & Guided biopsy (any one region),NONE,25000,t
+384,CT Scan Comparison Studies,NONE,5000,t
+385,CT Scan Contrast Charges- 100 ml (non lonic),NONE,3000,t
+386,CT Scan Reporting only (Per Study),NONE,3000,t
+387,CT Scan Reporting Three Regions or more,NONE,5000,t
+388,CT Scan Reporting Two Regions,NONE,4000,t
+389,CT Scanogram,NONE,6500,t
+390,CT Sinogram,NONE,15000,t
+391,CT Skull base Plain,NONE,10000,t
+392,CT Skull Base With Contrast,NONE,13000,t
+393,CT Spine Double Without Contrast (Specify region in remarks),NONE,20000,t
+394,CT Spine Plain (Single Region),NONE,12000,t
+395,CT Spine Single Without Contrast (Specify region in remarks),NONE,12000,t
+396,CT Thorax With & Without Contrast,NONE,18000,t
+397,CT Thorax with Contrast,NONE,15000,t
+398,CT Thorax without Contrast,NONE,12000,t
+399,CT Triphasic Abdomen (Especially for transplant patients),NONE,25000,t
+400,CT Triphasic Abdomen (liver / Pancreas),NONE,20000,t
+401,CT Upper Limb with Contrast (Specify region in remarks),NONE,15000,t
+402,CT Upper Limb without Contrast (Specify region in remarks),NONE,12000,t
+403,CT Urography (Multiphasic),NONE,20000,t
+404,CT Venography Lower Limbs,NONE,20000,t
+405,CT Virtual Bronchoscopy Without Contrast,NONE,15000,t
+406,"CT Whole Body (Head, Neck, Chest, Abdomen & Pelvis) With Contrast",NONE,35000,t
+407,"CT Whole Body (Head, Neck, Chest, Abdomen & Pelvis) Without Contrast",NONE,30000,t
+408,CVP Tip  for  AFB Smear/ZN Stain,Conjunctive Swab,450,t
+409,CVP Tip  for  Bacterial C/S (Aerobic) with Gram Stain,ALL TYPE SPECIMEN,1950,t
+410,CVP Tip  for  Fungus C/S e Fungus Stain (KOH),CVP TIP,2300,t
+411,CVP Tip  for  Fungus Stain/Fungal Smear (KOH),CVP TIP,700,t
+412,Cyclosporine (Whole Blood),3cc EDTA BLOOD (CBC VIAL),6050,t
+413,Cystic Fluid  for  AFB Smear/ZN Stain,Pancreatic fluid,450,t
+414,Cystic Fluid  for  Bacterial C/S (Aerobic) with Gram Stain,Cystic Fluid,1950,t
+415,Cystic Fluid  for  Fungus C/S with Fungus Stain(KOH),Pancreatic fluid,2300,t
+416,Cystic Fluid  for  Fungus Stain/Fungal Smear (KOH),Pancreatic fluid,700,t
+417,Cystic Fluid  for  Gram Stain,Pancreatic fluid,450,t
+418,Cytology  for  any Specimen (Specimen Name:,ALL TYPE SPECIMEN,1600,t
+419,Dengue NS1 Antigen,3-5cc Clotted Blood or Serum,2650,t
+420,Dengue Profile,2 EDTA & 1 Clotted Blood (Serum),8250,t
+421,Dengue RNA by PCR,2 EDTA vials containing 3cc blood in each vial,6050,t
+422,Dengue Virus Genotyping on PCR,9cc EDTA Blood (3 CBC Vials),6050,t
+423,Dengue Virus IgG,3-5cc Clotted Blood or Serum,1600,t
+424,Dengue Virus IgM,3-5cc Clotted Blood or Serum,1600,t
+425,DermaPen (Dermatolog),NONE,4400,t
+426,Dermaroller (Dermatolog),NONE,3300,t
+427,Dexa Scan (BMD & Whole Body Composition),NONE,7500,t
+428,Dexa Scan (Whole Spine),NONE,6000,t
+429,Dexa Scan for One Region Scan (For example Lumber Spine / Femur/ Forearm etc),NONE,5000,t
+430,Dexamethasone Suppression Test,2 Samples of 3-5 CC Clotted Blood or Serum,2000,t
+431,Diabetes Profile,"3 cc EDTA, 3 cc Clotted and Spot Urine",2050,t
+432,Dialysis Profile,NAIL,7050,t
+433,"Digital / Programa Ble,2 Channels, 4 Bands (P-660, Mini. Bte, Dac4 Mx, Upto 120Db)  (Audiology)",NONE,37500,t
+434,Digital With Trimmers (E.Tune Se-Bte-Dsp-Upto 75Db) (Audiology),NONE,23500,t
+435,Digital With-3 Trimmers (E.Tune Pps-Bte-Dsp-Upto 120Db)  (Audiology),NONE,27500,t
+436,DJ Stent  for  Bacterial C/S (Aerobic) with Gram Stain,DJ Stent,1950,t
+437,DJ Stent  for  Fungus C/S with Fungus Stain (KOH),DJ Stent,2300,t
+438,DJ Stent  for  Fungus Stain/Fungal Smear (KOH),DJ Stent,700,t
+439,DJ Stent  for  Gram Stain,DJ Stent,450,t
+440,DLC,3cc EDTA BLOOD (CBC VIAL),450,t
+441,DNA Mutation  for  Alpha Thalassaemia in Blood      (Form NIBD),3cc EDTA Patient & Father & Mother,5400,t
+442,DNA Mutation  for  Beta Thalassaemia in Blood       (Form NIBD),3cc EDTA Patient & Father & Mother,4950,t
+443,DNA Mutation  for  Thalassaemia in CVS      (Form NIBD),Vignal Tissue+3CC EDTA Patient (3cc EDTA Father & Mother),6600,t
+444,"Donor Screening: HBsAg , HCV, HIV, HBc,VDRL, MP, HB",EDTA (Plasma) OR SERUM,4950,t
+445,Doppler Ultrasound: Both Arms Doppler Arterial,NONE,6000,t
+446,Doppler Ultrasound: Both Legs Doppler (Arterial ),NONE,6000,t
+447,Doppler Ultrasound: Both Legs Doppler (Venous),NONE,6000,t
+448,Doppler Ultrasound: Single Leg Arterial Doppler,NONE,3000,t
+449,Doppler Ultrasound: Single Leg Varicose Veins,NONE,3000,t
+450,Doppler Ultrasound: Single Leg Venous Doppler,NONE,3000,t
+451,Doppler: Both Arms Venous Doppler Ultrasound,NONE,3000,t
+452,Doppler: Single Arm Venous Doppler Usg,NONE,3000,t
+453,Double Lumen Tube  for  Bacterial C/S (Aerobic) with Gram Stain,Double Lumen,1950,t
+454,Drain  for  AFB Smear/ZN Stain,Drain Tip,450,t
+455,Drain  for  Fungus C/S e Fungus Stain(KOH),DRAIN,2300,t
+456,Drain  for  Fungus Stain/Fungal Smear (KOH),Drain Tip,700,t
+457,Drain  for  Gram Stain,Drain Tip,450,t
+458,Drain Fluid  for  Bacterial C/S (Aerobic) with Gram Stain,Drain Tip,1950,t
+459,Drain Tip  for  Fungus C/S with Fungus Stain (KOH),Drain Tip,2300,t
+460,Drain Tip  for  Fungus Stain/Fungal Smear (KOH),Drain Tip,700,t
+461,Drain Tip  for  Gram Stain,Drain Tip,450,t
+462,Drain Urine  for  Urea,Urine (Random/Spot),650,t
+463,Dressing   ( For  On Center Visit),NONE,200,t
+464,Dressing-1   ( For  Home Care Visit),NONE,500,t
+465,Dressing-2   ( For  Home Care Visit),NONE,1000,t
+466,Dressing-3   ( For  Home Care Visit),NONE,2000,t
+467,Drip Iv 500Ml ( For  On Center Visit),NONE,750,t
+468,Drip Iv 500Ml 3-4 Hours (Home Care Visit),NONE,2000,t
+469,Drip Iv 500Ml Within 2 Hours (Home Care Visit),NONE,1500,t
+470,Drugs Screen Profile,Urine (Random/Spot),5400,t
+471,Dynamic  MRI of Abdomen (Especially for liver or Pancreas),NONE,20900,t
+472,Ear Swab  for  AFB Smear/ZN Stain,EAR SWAB,450,t
+473,Ear Swab  for  Bacterial C/S (Aerobic) with Gram Stain,SWAB,1950,t
+474,Ear Swab  for  Fungus C/S with Fungus Stain (KOH),EAR SWAB,2300,t
+475,Ear Swab  for  Fungus Stain/Fungal Smear (KOH),EAR SWAB,700,t
+476,Ear Swab  for  Gram Stain,Ascitic Fluid & 4cc Clotted Blood,450,t
+477,EBV by PCR (Quantitative),9cc EDTA Blood (3 CBC Vials),7150,t
+478,ECG ( for  On Center Visit),NONE,700,t
+479,ECG Female Staff (Home Care),NONE,2000,t
+480,ECG Male Staff (Home Care),NONE,1500,t
+481,ECG TEST (Outsource),NONE,1000,t
+482,Echo for Aortic Stenosis,NONE,4950,t
+483,Echo for Cor Pulmonate,NONE,4950,t
+484,Echo for DCMP,NONE,4950,t
+485,Echo for HOCM,NONE,4950,t
+486,Echo for Hypertension,NONE,4950,t
+487,Echo for Ischemic Heart Disease,NONE,4950,t
+488,Echo for Mirtal Stenosis,NONE,4950,t
+489,Echocardiography,NONE,4950,t
+490,Electrolytes (Serum),3-5cc Clotted Blood or Serum,1200,t
+491,ENA Quantrix 25 IgG,3-5cc Clotted Blood or Serum,6500,t
+492,Endoscopy,NONE,15000,t
+493,Eneema (Home Care),NONE,1500,t
+494,Entamoeba Histolytica ABs (Amoebiasis),3-5cc Clotted Blood or Serum,3400,t
+495,Eosinophil Count (Sputum),SPUTUM,400,t
+496,"ER/PR Receptors (Estrogen,Progesterone Receptors)",SLIDES & BLOCKS,5000,t
+497,Erythropoietin (EPO),3-5cc Clotted Blood or Serum,6600,t
+498,ESR,3cc EDTA BLOOD (CBC VIAL),300,t
+499,Estimated Glomerular Filtration Rate (eGFR),3-5cc Clotted Blood or Serum,1300,t
+500,ETT Test (Exercise Tolerance Test),NONE,5500,t
+501,Everolimus,3cc EDTA BLOOD (CBC VIAL),6050,t
+502,Evoked Response Audiometry (ERA) (Audiology),NONE,5500,t
+503,Executive Health Checkup,"2 EDTA,2 Clotted,Fluoride, Spot Urine",29500,t
+504,Executive Profile (Female),"2 EDTA,2 Clotted,Fluoride, Spot Urine",17050,t
+505,Executive Profile (Male),"2 EDTA,2 Clotted,Fluoride, Spot Urine",17050,t
+506,"Extended Thyroid Profile (FT3, FT4, TSH,Total T3,Total T4)",3-5cc Clotted Blood or Serum,5500,t
+507,Eye Examination & Hearing Test,PUS,1650,t
+508,Factor II Level,Sodium Citrate Tube (PT Vial),2150,t
+509,Factor IX Level,Sodium Citrate Tube (PT Vial),2150,t
+510,Factor V,Sodium Citrate Tube (PT Vial),2150,t
+511,Factor V Leiden Screening,Sodium Citrate Tube (PT Vial),5400,t
+512,Factor VII Level,Sodium Citrate Tube (PT Vial),2150,t
+513,Factor VIII Level,Sodium Citrate Tube (PT Vial),2150,t
+514,Factor X Level,Sodium Citrate Tube (PT Vial),2150,t
+515,Female Infertility Profile,10.0cc Clotted Blood (Not Serum),15750,t
+516,FFP Preparation,NONE,1450,t
+517,FFP's with Complete Screening (One Bag),EDTA (Plasma) OR SERUM,3300,t
+518,Fibrinogen,Sodium Citrate Tube (PT Vial),1700,t
+519,Fibroblast growth factor 23 (FGF 23)  (From UK),3-5 ml Frozen EDTA Plasma,50600,t
+520,First Aid Training ( For  Home Care),NONE,33000,t
+521,Fitness Freaks Health Profile,"2 EDTA, 1 Clotted, 1 Pap Smear, Sodium Fluoride, Spot Urine",3600,t
+522,FLT 3 Mutation by PCR       (Form NIBD),10cc EDTA Whole Blood,10250,t
+523,Fluid  for  AFB Smear/ZN Stain (Fluid Name:,FLUID (All Body Fluid),450,t
+524,Fluid  for  Analysis (LDH+Albumin) Fluid Name:-,FLUID (All Body Fluid),1800,t
+525,Fluid  for  Bacterial C/S (Aerobic) with Gram Stain,FLUID (All Body Fluid),1950,t
+526,Fluid  for  Fungus C/S with Fungus Stain (KOH) (Fluid Name:,FLUID (All Body Fluid),2300,t
+527,Fluid  for  Fungus Stain/Fungal Smear (KOH) (Specimen Name:,FLUID (All Body Fluid),700,t
+528,Fluid  for  Gram Stain (Specimen Name:,FLUID (All Body Fluid),450,t
+529,Fluid ADA,ANY SPECIMEN,4300,t
+530,Fluid for Amylase,FLUID (All Body Fluid),1100,t
+531,Fluid for RA Factor,FLUID (All Body Fluid),1100,t
+532,Fluid Slides  for  Review with Gram Stain & ZN Stain,SLIDES,1800,t
+533,Fluoride Level  (From UK),Urine (Random/Spot),39600,t
+534,FNAC (Procedure & Reporting),NONE,3850,t
+535,FNAC (Received Slides  for  Review),SLIDES,2750,t
+536,Foley's Catheter (for On Center Visit),NONE,800,t
+537,Foley's Catheter (Home Care),NONE,1650,t
+538,Food Detective,1 ETDA tube containing 3cc Blood,13200,t
+539,Fraction Sodium Excretion,Spot Urine and Clotted Blood,1000,t
+540,Fragile X Syndrome  (From UK),8cc Clotted Blood or Serum,83600,t
+541,Free Androgen Index (FAI),3-5cc Clotted Blood or Serum,4200,t
+542,Free Cortisol (24 Hrs Urine),24 Hrs Urine,2400,t
+543,Free Protein S,Sodium Citrate Tube (PT Vial),4600,t
+544,Frozen Section (Additional One Specimen Charges),SLIDES & BLOCKS,3000,t
+545,Frozen Section (One Specimen) & Biopsy  For  H/P,BIOPSY (Tissue),6000,t
+546,Fructosamine    (From UK),3 Clotted Blood Samples,23100,t
+547,Fulguration (Facial Worts),NONE,2200,t
+548,Fulguration (Freckles),NONE,2200,t
+549,Fulguration (Moles),NONE,2200,t
+550,Fungitell Level      (Form NIBD),3-5cc Clotted Blood or Serum,20900,t
+551,Fungus C/S with Fungus Stain (KOH) (Specimen Name:,ALL TYPE SPECIMEN,2300,t
+552,Fungus Stain/Fungal Smear (KOH) (Specimen Name:,SWAB,700,t
+553,G6PD Qualitative,3cc EDTA BLOOD (CBC VIAL),1600,t
+554,Gastrin Level Fasting,3-5cc Clotted Blood or Serum,5050,t
+555,Gastrointestinal Infectious Panel,STOOL,44000,t
+556,Gene Analysis of Fator VIII       (Form NIBD),EDTA + Sodium Citrate (PT) 2 Vails Each,48400,t
+557,Gene Expert MTB-RIF,Body Fluids or Sputum or CSF,4000,t
+558,Gene Sequencing of Factor IX (Genotyping Hemophilia B)       (Form NIBD),4cc EDTA 2 Vials,28600,t
+559,Gene Sequencing of Factor VIII (Genotyping Hemophilia A)       (Form NIBD),4cc EDTA 2 Vials,55000,t
+560,General Physical  Medical Examination (Special Project),NONE,1650,t
+561,GGT,3-5cc Clotted Blood or Serum,500,t
+562,Giemsa Stain (Specimen Name,ALL TYPE SPECIMEN,450,t
+563,Globulins,3-5cc Clotted Blood or Serum,550,t
+564,Glucagon (From UK),3cc EDTA BLOOD (CBC VIAL),28600,t
+565,Glucose (CSF),CSF,300,t
+566,Glucose (Fluid),3-5cc Clotted Blood or Serum,300,t
+567,Glycosylated Hemoglobin (HbA1C),3cc EDTA BLOOD (CBC VIAL),1650,t
+568,Gonorrhoea Screening (Gram Stain) (Urethral Swab),SWAB,450,t
+569,Gram Stain (Specimen Name:,ALL TYPE SPECIMEN,450,t
+570,Growth Hormone Stimulation Test (By Exercise),3-5cc Clotted Blood or Serum,4850,t
+571,Growth Hormone Stimulation Test (by L-DOPA/CarbiDOPA),5 Clotted Blood Samples,7700,t
+572,Growth Hormone Stimulation Test By Insulin,6 Clotted & 6 Sodium Fluoride Samples,16500,t
+573,"GTT (After 75 Grams Glucose load (Fasting, 75 grm Glucouse, 2 hours ) ( for  General Population)",Sodium Fluoride Vial (Sugar Vial),550,t
+574,"GTT / GCT (75 Grams Glucose Tolerance Test ( for  Pregnant Patient) (Fasting, 75gm Glucose 1 Hours, 2 Hours)",Sodium Fluoride Vial (Sugar Vial),850,t
+575,Hairs  for  Fungus C/S with Fungus Stain (KOH),HAIRS,2300,t
+576,Hairs  for  Fungus Stain/Fungal Smear (KOH),HAIRS,700,t
+577,HAV IgG,3-5cc Clotted Blood or Serum,2100,t
+578,HAV IgM,3-5cc Clotted Blood or Serum,2100,t
+579,Hb,3cc EDTA BLOOD (CBC VIAL),400,t
+580,HB. Electrophoresis,3cc EDTA BLOOD (CBC VIAL),2200,t
+581,HB. Electrophoresis  (For Reporting only),3cc EDTA BLOOD (CBC VIAL),2200,t
+582,HBeAg,3-5cc Clotted Blood or Serum,1700,t
+583,HBsAg,3-5cc Clotted Blood or Serum,1400,t
+584,HBV PCR (Qualitative),10cc EDTA Whole Blood,7000,t
+585,HBV PCR (Viral Load / Quantitation),10cc EDTA Whole Blood,11000,t
+586,HCT,3cc EDTA BLOOD (CBC VIAL),450,t
+587,HCV Antigen,3-5cc Clotted Blood or Serum,4400,t
+588,HCV Genotyping By PCR,3 EDTA vials containing 3cc blood in each vial,13750,t
+589,HCV PCR (Qualitative),2 EDTA vials containing 3cc blood in each vial,7000,t
+590,HCV PCR (Viral Load / Quantitation),2 EDTA vials containing 3cc blood in each vial,9500,t
+591,HDL (Cholesterol),3-5cc Clotted Blood or Serum,600,t
+592,HDV PCR (Qualitative),6cc EDTA Blood (2 CBC Vials),6600,t
+593,HDV PCR (Viral Load / Quantitation),2 EDTA vials containing 3cc blood in each vial,10450,t
+594,Healthy Heart Profile,"2 EDTA, 1 Clotted, 1 Sodium Fluoride",5500,t
+595,Healthy Pregnancy Profile,NAIL,55000,t
+596,Heart Disease Profile,"3cc Clotted Blood, 3cc EDTA and Fluoride Sample",5400,t
+597,Height,NONE,280,t
+598,Hemoglobin (Spot Urine),Urine (Random/Spot),280,t
+599,Hemosiderin (Urine),Urine (Random/Spot),1800,t
+600,"HEP B, C DIABETES PACKAGE",1 EDTA 2 Cloted vials,27100,t
+601,Hepatic Fluid  for  AFB Smear/ZN Stain,FLUID (All Body Fluid),450,t
+602,Hepatic Fluid  for  Fungus C/S with Fungus Stain (KOH),HEPATIC FLUID,2300,t
+603,Hepatic Fluid  for  Fungus Stain/Fungal Smear (KOH),HEPATIC FLUID,700,t
+604,Hepatic Fluid  for  Gram Stain,Pancreatic fluid,450,t
+605,"Hepatitis ""B"" Profile",3-5cc Clotted Blood or Serum,9700,t
+606,"Hepatitis ""B"" Vaccination",NONE,900,t
+607,Her 2-Neu / Ki67 (Staining),SLIDES & BLOCKS,5000,t
+608,Herpes (HSV 1 & 2) PCR (Qualitative),EDTA OR CSF OR Lession,7150,t
+609,Herpes IgM (HSV),3-5cc Clotted Blood or Serum,1500,t
+610,HEV BY PCR (Quantitation),9cc EDTA Blood (3 CBC Vials),7150,t
+611,HIV BY PCR (Viral Load / Quantitation),6cc EDTA Blood (2 CBC Vials),10450,t
+612,HLA 1 & 2 (Donor) HLA Tissue Typing      (Form NIBD),10cc EDTA Whole Blood,28500,t
+613,HLA 1 & 2 (Patient) HLA Tissue Typing       (Form NIBD),10cc EDTA Whole Blood,28500,t
+614,HLA B27 Allele by PCR,1 ETDA tube containing 3cc Blood,13550,t
+615,HLA High Resolution (Donor)       (Form NIBD),10cc EDTA (Patient & Donor Each),88000,t
+616,HLA High Resolution (Patient)      (Form NIBD),10cc EDTA (Patient & Donor Each),88000,t
+617,HLA QD2 & QD8 Genetic Test  for  Celiac Disease      (Form NIBD),10cc EDTA Whole Blood,19250,t
+618,HMD-HFE Comman Mutation  (From UK),2 EDTA vials containing 3cc blood in each vial,52800,t
+619,HPV DNA Test,Cervical Swab for Female / Lesion Swab for Male  (in PreservCyt Solution Collection tube),6600,t
+620,HSV IgG,3-5cc Clotted Blood or Serum,1500,t
+621,Human Herpes Virus-6 (HHV-6)      (Form NIBD),6cc EDTA Blood (2 CBC Vials),18700,t
+622,Human Immunodeficiency Virus (HIV) Confirmatory Test,1 ETDA tube containing 3cc Blood,14500,t
+623,HVS for Bacterial C/S (Aerobic) with Wet Smear,SWAB,1950,t
+624,HVS for Gram Stain/Wet Smear,SWAB,450,t
+625,Hydrafacial (Dermatolog),NONE,6600,t
+626,Hygiene Card,NONE,450,t
+627,Hypertension & Cardio Physician,1 EDTA 2 Cloted vials,4300,t
+628,Immature Platelet Fraction (IPF),3cc EDTA BLOOD (CBC VIAL),1500,t
+629,Immuno-Chemistry (Bone Marrow Trephine) with History,EDTA+Bone Marrow Aspirate Slides+Trephine biopsy,11000,t
+630,Immuno-Chemistry (Slides / Blocks),SLIDES & BLOCKS,11000,t
+631,Immunofixation Electropherosis / Immunotyping,3-5cc Clotted Blood or Serum,6600,t
+632,"Immunoglobulins (IgA,IgG,IgM)",3-5cc Clotted Blood or Serum,2550,t
+633,Incision and Drainage of Abscess (Home Care),NONE,2750,t
+634,Influenza Vaccination,NONE,700,t
+635,Influenza Vaccination ( For  Home Visit),NONE,1100,t
+636,Injection 100ml (Home Care),NONE,850,t
+637,Insulin (œ Hrs After 75 Grams Glucose),3-5cc Clotted Blood or Serum,2650,t
+638,Insulin (1 Hrs after 75 Grams Glucose),3-5cc Clotted Blood or Serum,2650,t
+639,Insulin (1œ Hrs after 75 Grams Glucose),3-5cc Clotted Blood or Serum,2650,t
+640,Insulin (2 Hrs after 75 Grams Glucose),3-5cc Clotted Blood or Serum,2650,t
+641,Insulin (2œ Hrs after 75 Grams Glucose),3-5cc Clotted Blood or Serum,2650,t
+642,Insulin (3 Hrs after 75 Grams Glucose),3-5cc Clotted Blood or Serum,2650,t
+643,Insulin (4 Hrs after 75 Grams Glucose),3-5cc Clotted Blood or Serum,2650,t
+644,Insulin (5 Hrs after 75 Grams Glucose),3-5cc Clotted Blood or Serum,2650,t
+645,Insulin Resistance Test (After 75 Grams Glucose),3cc Serum and Fluoride Sample,6050,t
+646,Intramuscular Ijection Im ( For  On Center Visit),NONE,200,t
+647,Intramuscular Ijection Im (Home Care Visit),NONE,550,t
+648,Intramuscular Injection(I/M) (Home Care),NONE,550,t
+649,Intravenous Injection (I/V) Plus Branulla (Home Care),NONE,1100,t
+650,Inversion of Factor Vlll Intron 22  (Form NIBD),3cc EDTA Patient & Father & Mother,16500,t
+651,Iodine (Sport Urine)  (From UK),Urine (Random/Spot),22000,t
+652,Iron Status Profile,3-5cc Clotted Blood or Serum,2400,t
+653,IUCD for Bacterial C/S (Aerobic) with Gram Stain,ETT TIP,1950,t
+654,IV Infusion / IV Abx. (At Center),NONE,1100,t
+655,IV Injection Per Visit (Home Care),NONE,550,t
+656,IV Stat (At Center),NONE,250,t
+657,JAK-2 Exon 12 (From NIBD),9cc EDTA Blood (3 CBC Vials),7150,t
+658,JAK-2V617F Mutation by PCR,EDTA (One Tube),9450,t
+659,JC Virus (John Cunningham) PCR (Quantitation),EDTA plasma 2 vials 3ml each,8800,t
+660,Joint Fluid for AFB Smear/ZN Stain,FLUID (All Body Fluid),450,t
+661,Joint Fluid for Analysis e Uric Acid Crystals,FLUID (All Body Fluid),1800,t
+662,Joint Fluid for Bacterial C/S (Aerobic) with Gram Stain,FLUID (All Body Fluid),1950,t
+663,Joint Fluid for Fungus C/S e Fungus Stain (KOH),JOINT FLUID,2300,t
+664,Joint Fluid for Fungus Stain/Fungal Smear (KOH),JOINT FLUID,700,t
+665,Joint Fluid for Gram Stain,FLUID (All Body Fluid),450,t
+666,Ketones (Blood),3-5cc Clotted Blood or Serum,280,t
+667,Ketones (Spot Urine),Urine (Random/Spot),280,t
+668,Lactate Leve (Fluid),FLUID (All Body Fluid),1200,t
+669,Lactate Level (CSF),CSF,1200,t
+670,Language Therapy     (Home Care),NONE,11000,t
+671,LDH (CSF),CSF,600,t
+672,LDH (Fluid),FLUID (All Body Fluid),600,t
+673,LDH (Serum),3-5cc Clotted Blood or Serum,600,t
+674,LDL (Cholesterol),3-5cc Clotted Blood or Serum,600,t
+675,Leishmania Antibodies  (From UK),3-5cc Clotted Blood or Serum,23100,t
+676,Leukocyte Filter,NONE,4950,t
+677,Lipase (Fluid),FLUID (All Body Fluid),1100,t
+678,Liver Abscess for Bacterial C/S (Aerobic) with Gram Stain,liver Abscess,1950,t
+679,Liver Aspirate for Bacterial C/S (Aerobic) with Gram Stain,Liver Aspirate,1950,t
+680,Liver Function Test With GGT,3-5cc Clotted Blood or Serum,1650,t
+681,Lumbar Puncture (Home Care),NONE,1650,t
+682,Lupus Anticoagulant,Sodium Citrate Tube (PT Vial),5400,t
+683,Lyme IgG/IgM (From UK),3cc-5cc Clotted or Serum (Fasting),16500,t
+684,Magnesium (24 Hrs Urine),24 Hrs Urine,650,t
+685,Malarial Antigen / ICT Malaria (Whole Blood),3cc EDTA BLOOD (CBC VIAL),1200,t
+686,Malarial Parasite (MP),3cc EDTA BLOOD (CBC VIAL),600,t
+687,Malarial Parasite (Thick & Thin),3cc EDTA BLOOD (CBC VIAL),600,t
+688,Male Infertility Profile,3-5cc Clotted Blood or Serum,10350,t
+689,Mammogram + Complimentary Ultrasound of the Both Breast,NONE,6000,t
+690,Mammogram + Complimentary Ultrasound of the Single Breast,NONE,3000,t
+691,Mammogram Both Breasts (CC/MLO) Views,NONE,6000,t
+692,Mammogram Left Breast (CC/MLO) Views,NONE,3000,t
+693,Mammogram Right Breast (CC/MLO) Views,NONE,3000,t
+694,Mammography Lexicon (Abnormal ),NONE,3000,t
+695,Mantoux Test (PPD),NULL,600,t
+696,MCH,3cc EDTA BLOOD (CBC VIAL),400,t
+697,MCHC,3cc EDTA BLOOD (CBC VIAL),400,t
+698,MCV,3cc EDTA BLOOD (CBC VIAL),400,t
+699,Measles IgG Antibodies,3-5cc Clotted Blood or Serum,2000,t
+700,Measles IgM Antibodies,3-5cc Clotted Blood or Serum,2000,t
+701,Medical Certificates,NONE,550,t
+702,Medical Certificates (Special Project),NONE,850,t
+703,Medical Examination,10.0cc Clotted Blood (Not Serum),1100,t
+704,Meningitis / Encephalitis Infectious Panel,CSF,44000,t
+705,Menopause Profile,3-5cc Clotted Blood or Serum,11550,t
+706,Mesotherapy (Dermatolog),NONE,7700,t
+707,Metabolic Studies for Stone,24 Hrs urine & Serum,1980,t
+708,Methadone,Urine (Random/Spot),1600,t
+709,MHD-Complete without Meds,NONE,5500,t
+710,MHD-Discounted,NONE,4950,t
+711,Micro Needling,NONE,5500,t
+712,Microalbumin (24 Hrs Urine),24 Hrs Urine,1000,t
+713,Milk for AFB Smear/ZN Stain,MILK,450,t
+714,Milk for Bacterial C/S (Aerobic) with Gram Stain,MILK,1950,t
+715,Milk for Cytology,MILK,1600,t
+716,Milk for Fungus C/S e Fungus Stain(KOH),MILK,2300,t
+717,Milk for Fungus Stain/Fungal Smear (KOH),MILK,700,t
+718,Milk for Gram Stain,MILK,450,t
+719,"Mini Canal Aid Digial /Programa BLE, 2 Channels, 12 Bands (CE 2005, ITC, Trim Tech, Upto 80db) Analog (Audiology)",NONE,40500,t
+720,"Mini Canal Aid Digial /Programa BLE, 2 Channels, 12 Bands (CE 2005, ITC, Trim Tech, Upto 80db) Digital (Audiology)",NONE,41800,t
+721,Mixing Studies with History,Sodium Citrate Tube (PT Vial),1800,t
+722,MLL Gene Arrangment (Bone Marrow)      (Form NIBD),Bone Marrow,8550,t
+723,MMR Colorectal Cancer    (From UK),Biopsy Tissue,138600,t
+724,Morphine Derivatives  (Urine),Urine (Random/Spot),1600,t
+725,MPN Profile     (Form NIBD),10cc EDTA Whole Blood,43550,t
+726,MR Angiography of Spine,NONE,18300,t
+727,MR Continuation Scan with contrast,NONE,3300,t
+728,MR Mammography With Contrast,NONE,20000,t
+729,MRA Brain Without Contrast,NONE,12000,t
+730,MRA Carotid Without Contrast,NONE,12000,t
+731,MRA Chest With Contrast,NONE,20000,t
+732,MRA Circle of Willis With Contrast,NONE,15000,t
+733,MRA Circle of Willis Without Contrast,NONE,12000,t
+734,MRA Head  and Neck Without Contrast,NONE,15000,t
+735,MRA Leg With Contrast,NONE,15000,t
+736,MRA Leg Without Contrast,NONE,12000,t
+737,MRCP (MRI),NONE,15000,t
+738,MRCP + MRI Pancreas with contrast,NONE,20000,t
+739,MRI Abdomen & Pelvis With and Without Contrast,NONE,23000,t
+740,MRI Abdomen & Pelvis With Contrast,NONE,23000,t
+741,MRI Abdomen & Pelvis Without Contrast,NONE,20000,t
+742,MRI Abdomen With Contrast,NONE,15000,t
+743,MRI Abdomen Without Contrast,NONE,12000,t
+744,MRI Angiogram of abdomen with contrast,NONE,20000,t
+745,MRI Angiogram of abdomen without contrast,NONE,15000,t
+746,MRI Angiogram of Chest without Contrast,NONE,15000,t
+747,MRI Angiogram of Head & Neck With Contrast,NONE,20000,t
+748,MRI Angiogram of lower limb without contrast,NONE,15000,t
+749,MRI Angiogram of Upper limb without Contrast,NONE,15000,t
+750,MRI Any Joint of Lower Limb Without Contrast,NONE,12000,t
+751,MRI Arthogram (Specify Region in Remarks),NONE,25000,t
+752,MRI Both Knees,NONE,22000,t
+753,MRI Both Shoulders With Contrast,NONE,25000,t
+754,MRI Both Shoulders Without Contrast,NONE,22000,t
+755,MRI Brachial Plexus With Contrast,NONE,18000,t
+756,MRI Brachial Plexus Without Contrast,NONE,15000,t
+757,MRI Brain & Neck With Contrast,NONE,23000,t
+758,MRI Brain & Neck Without Contrast,NONE,20000,t
+759,MRI Brain and PNS with Contrast,NONE,20000,t
+760,MRI Brain and PNS without Contrast,NONE,17000,t
+761,MRI Brain I.A.C / I.A.M Without Contrast,NONE,12000,t
+762,MRI Brain Perfusion Scan,NONE,18000,t
+763,MRI Brain Pituitary Fossa With Contrast,NONE,15000,t
+764,MRI Brain Pituitary Fossa Without Contrast,NONE,12000,t
+765,MRI Brain With and Without Contrast,NONE,15000,t
+766,MRI Brain With Contrast,NONE,15000,t
+767,MRI Brain Without Contrast,NONE,10000,t
+768,MRI Breasts With Contrast,NONE,20000,t
+769,MRI Cervical Spine With and Without Contrast,NONE,15000,t
+770,MRI Cervical Spine With Contrast,NONE,15000,t
+771,MRI Cervical Spine Without Contrast,NONE,10000,t
+772,MRI Cervico Dorsal Spine Without Contrast,NONE,17000,t
+773,MRI Cervico-Dorsal and Lumbar Spine,NONE,15000,t
+774,MRI Chest Without Contrast,NONE,12000,t
+775,MRI Clavicle With Contrast,NONE,15000,t
+776,MRI Clavicle Without Contrast,NONE,12000,t
+777,MRI Contrast Charges,NONE,3000,t
+778,MRI Dorsal Spine With & Without Contrast,NONE,15000,t
+779,MRI Dorsal Spine Without Contrast,NONE,10000,t
+780,MRI Dorso + Lumbar Spine Without Contrast,NONE,20000,t
+781,MRI Dorsolumbar Spine,NONE,20000,t
+782,MRI Duplicate Film (Per Copy),NONE,1000,t
+783,MRI Elbow With Contrast,NONE,15000,t
+784,MRI Elbow Without Contrast,NONE,12000,t
+785,MRI Enterogram with contrast,NONE,20000,t
+786,MRI Face and Neck with Contrast,NONE,15000,t
+787,MRI Face and Neck without contrast,NONE,12000,t
+788,MRI Foot With Contrast,NONE,15000,t
+789,MRI Foot Without Contrast,NONE,12000,t
+790,MRI Hand With Contrast,NONE,15000,t
+791,MRI Hand without Contrast,NONE,12000,t
+792,MRI Hip Joint Without  Contrast,NONE,12000,t
+793,MRI Hip Joint Without Contrast,NONE,12000,t
+794,MRI Humerus With Contrast,NONE,15000,t
+795,MRI Humerus Without Contrast,NONE,12000,t
+796,MRI Internal Auditory Canal (IAC) With Contrast,NONE,15000,t
+797,MRI Internal Auditory Canal (IAC) Without Contrast,NONE,12000,t
+798,MRI Knee Joint With Contrast,NONE,15000,t
+799,MRI Knee Joint Without Contrast,NONE,10000,t
+800,MRI Left Ankle With Contrast,NONE,15000,t
+801,MRI Left Ankle Without Contrast,NONE,12000,t
+802,MRI Left Arm Without Contrast,NONE,12000,t
+803,MRI Left Calf Without Contrast,NONE,12000,t
+804,MRI Left Knee With Contrast,NONE,15000,t
+805,MRI Left Knee Without Contrast,NONE,10000,t
+806,MRI Leg With Contrast,NONE,15000,t
+807,MRI Limited,NONE,8500,t
+808,MRI Limited With Contrast (Specify region in Remarks),NONE,10000,t
+809,MRI Liver Dynamic,NONE,20000,t
+810,MRI Lower Limb With Contrast (Specify Region in Remarks),NONE,15000,t
+811,MRI Lowr Limb Without Contrast (Specify Region in Remarks),NONE,12000,t
+812,MRI Lumbar Spine With Contrast,NONE,15000,t
+813,MRI Lumbar Spine Without Contrast,NONE,10000,t
+814,MRI Lumbar Spine + SI Joint,NONE,15000,t
+815,MRI Neck With Contrast,NONE,15000,t
+816,MRI Neck Without Contrast,NONE,12000,t
+817,MRI Orbit and Face With Contrast,NONE,15000,t
+818,MRI Orbit and Face Without Contrast,NONE,12000,t
+819,MRI Orbit With Contrast,NONE,15000,t
+820,MRI Orbit Without Contrast,NONE,12000,t
+821,MRI Pelvis (Dynamic) With Contrast,NONE,20000,t
+822,MRI Pelvis With and Without Contrast,NONE,15000,t
+823,MRI Pelvis With Contrast,NONE,15000,t
+824,MRI Pelvis Without Contrast,NONE,12000,t
+825,MRI Peripheral Angiograms With Contrast,NONE,20000,t
+826,MRI Peripheral Angiograms Without Contrast,NONE,15000,t
+827,MRI Plain Any Region,NONE,12000,t
+828,MRI PNS With Contrast,NONE,15000,t
+829,MRI PNS Without Contrast,NONE,12000,t
+830,MRI Reporting only (BDWI) (Per Study),NONE,3000,t
+831,MRI Reporting Only (Per Study),NONE,3000,t
+832,MRI Reporting three or more Regions,NONE,6000,t
+833,MRI Reporting Two regions,NONE,5000,t
+834,MRI Right Ankle With Contrast,NONE,15000,t
+835,MRI Right Ankle Without Contrast,NONE,12000,t
+836,MRI Right Arm With Contrast,NONE,15000,t
+837,MRI Right Arm Without Contrast,NONE,12000,t
+838,MRI Right Calf Without Contrast,NONE,12000,t
+839,MRI Right Knee With Contrast,NONE,15000,t
+840,MRI Right Knee Without Contrast,NONE,10000,t
+841,MRI Sacroiliac Joint With Contrast,NONE,15000,t
+842,MRI Sacroiliac Joint Without Contrast,NONE,12000,t
+843,MRI Shoulder With Contrast,NONE,15000,t
+844,MRI Shoulder Without  Contrast,NONE,12000,t
+845,MRI Spectroscopy (Brain ),NONE,15000,t
+846,MRI Spectroscopy Prostate,NONE,15000,t
+847,MRI Sternoclavicular With Contrast,NONE,15000,t
+848,MRI Sternoclavicular Without Contrast,NONE,12000,t
+849,MRI Temporo - mandibular Joint (TMJ),NONE,15000,t
+850,MRI Thigh With Contrast,NONE,15000,t
+851,MRI Thigh Without Contrast,NONE,12000,t
+852,MRI Thoracic Spine With & Without Contrast,NONE,15000,t
+853,MRI Thoracic Spine with Contrast,NONE,15000,t
+854,MRI Thoracic Spine without Contrast,NONE,10000,t
+855,MRI Thoraco / Lumbar Spine With Contrast,NONE,20000,t
+856,MRI Upper limb with Contrast (Specify region in remarks),NONE,15000,t
+857,MRI Upper limb without Contrast (Specify region in remarks),NONE,12000,t
+858,MRI Venogram With Contrast (Specify regions in remarks),NONE,20000,t
+859,MRI Venogram Without Contrast (Specify regions in remarks),NONE,15000,t
+860,MRI With Contrast (Any Region),NONE,15000,t
+861,MRI Wrist (Single) Without Contrast,NONE,12000,t
+862,MRI Wrist Both With Contrast,NONE,25000,t
+863,MRI Wrist Both Without Contrast,NONE,22000,t
+864,MRI Wrist Single Without Contrast,NONE,12000,t
+865,MRI  Anal Fistua (FIA) With Contrast,NONE,20000,t
+866,MRI Anal Fistua (FIA) Without Contrast,NONE,15000,t
+867,MRSA PCR (Methicillin Resistant Staphylococcus Aureus),Nasal Swab,11000,t
+868,MRV Brain With Contrast,NONE,15000,t
+869,MRV Brain Without Contrast,NONE,12000,t
+870,MTB PCR Qualitative,FLUID (All Body Fluid),4850,t
+871,Mumps IgG Antibodies (Serum),3-5cc Clotted Blood or Serum,2200,t
+872,Mumps IgM Antibodies (Serum),3-5cc Clotted Blood or Serum,2200,t
+873,Muscle Enzymes Profile,3-5cc Clotted Blood or Serum,3000,t
+874,Mycoplasma Pneumoniae IgG,3-5cc Clotted Blood or Serum,2400,t
+875,Mycoplasma Pneumoniae IgM,3-5cc Clotted Blood or Serum,2400,t
+876,Nail for Fungus C/S with Fungus Stain (KOH),NAIL,2300,t
+877,Nail for Fungus Stain/Fungal Smear (KOH),NAIL,700,t
+878,Nasal Secretions for Glucose,Nasal Secretion,280,t
+879,Nasal Swab AFB Smear/ZN Stain,Nasal Swab,450,t
+880,Nasal Swab for Bacterial C/S (Aerobic),Nasal Swab,1950,t
+881,Nasal Swab for Fungus C/S with Fungus Stain (KOH),Nasal Swab,2300,t
+882,Nasal Swab for Fungus Stain/Fungal Smear (KOH),Nasal Swab,700,t
+883,Nasal Swab for Gram Stain,Nasal Swab,450,t
+884,Nebulization (Home Care),NONE,1100,t
+885,Nephrology,1 EDTA 2 Cloted vials,5850,t
+886,NG Tube (for  Home Care Visit),NONE,2200,t
+887,NG Tube (for  On Center Visit),NONE,1100,t
+888,NGS Inherited Panel      (Form NIBD),10cc EDTA Whole Blood,220000,t
+889,NIPT (Harmony / Prenatal Safe)    (From UK),3-5cc Clotted Blood or Serum,72600,t
+890,NIPT Service Charge  ( Online Payment 99 USD),NONE,20000,t
+891,NLP     (Home Care),NONE,5500,t
+892,Non HDL (Cholesterol),3-5cc Clotted Blood or Serum,550,t
+893,NPM     (Form NIBD),6cc EDTA Blood (2 CBC Vials),7500,t
+894,NT-ProBNP,3-5cc-Lithium Heparin Vial,3000,t
+895,Nucleated Rbcs,3cc EDTA BLOOD (CBC VIAL),240,t
+896,Nurse 12hrs/month,1 ETDA tube containing 3cc Blood,82500,t
+897,Nursing Assisting 12hrs /month,1 ETDA tube containing 3cc Blood,49500,t
+898,Opiates,Urine (Random/Spot),1600,t
+899,Osteoporosis Profile,3-5cc Clotted Blood or Serum,4200,t
+900,P-640 BTE (Audiology),NONE,27000,t
+901,P2Y12 Blockade Test,Sodium Citrate Tube (PT Vial),7700,t
+902,Pack cell Preparation,NONE,1450,t
+903,Pack Cell with Complete Screening (One Bag),NONE,4400,t
+904,Package 1  Nurse + Assistant 24hrs 10 Days,1 ETDA tube containing 3cc Blood,49500,t
+905,Pancreatic Fluid for AFB Smear/ZN Stain,Cystic Fluid,450,t
+906,Pancreatic fluid for Bacterial C/S (Aerobic) with Gram Stain,Pancreatic fluid,1950,t
+907,Pancreatic Fluid for Fungus C/S with Fungus Stain (KOH),Cystic Fluid,2300,t
+908,Pancreatic Fluid for Fungus Stain/Fungal Smear (KOH),Cystic Fluid,700,t
+909,Pancreatic Fluid for Gram Stain,Cystic Fluid,450,t
+910,PAP Smear for Cytological Examination (Slides),SLIDES,2750,t
+911,PAP Smear for LBC,NONE,2000,t
+912,Paracetamol level  (From UK),3 Clotted Blood Samples,33000,t
+913,PAS Stain (Specimen Name:,SLIDES,600,t
+914,Pepsi Cola Pakcage,NAIL,9300,t
+915,Pericardial Fluid for AFB Smear/ZN Stain,Pericardial Fluid,450,t
+916,Pericardial Fluid for Bacterial C/S (Aerobic) with Gram Stain,Pericardial Fluid,1950,t
+917,Pericardial Fluid for Fungus C/S with Fungus Stain (KOH),Pericardial Fluid,2300,t
+918,Pericardial Fluid for Fungus Stain/Fungal Smear (KOH),Pericardial Fluid,700,t
+919,Pericardial Fluid for Gram Stain,Pericardial Fluid,450,t
+920,Peritoneal Fluid  for  Gram Stain,FLUID (All Body Fluid),450,t
+921,Peritoneal Fluid for AFB Smear/ZN Stain,Pancreatic fluid,450,t
+922,Peritoneal Fluid for Analysis,FLUID (All Body Fluid),1800,t
+923,Peritoneal Fluid for Bacterial C/S (Aerobic) with Gram Stain,FLUID (All Body Fluid),1950,t
+924,Peritoneal Fluid for Fungus C/S with Fungus Stain (KOH),PERITONEAL FLUID,2300,t
+925,Peritoneal Fluid for Fungus Stain/Fungal Smear (KOH),PERITONEAL FLUID,700,t
+926,pH &  Reducing Substances (Urine),Urine (Random/Spot),350,t
+927,pH & Reducing Substances (Stool),STOOL,350,t
+928,pH (CSF),CSF,280,t
+929,pH (Fluid),FLUID (All Body Fluid),280,t
+930,pH (Urine),Urine (Random/Spot),280,t
+931,Phencyclidine,Urine (Random/Spot),1600,t
+932,Phlebotomy  For  Polycythemia Patient,NONE,900,t
+933,Phosphate (24 Hrs Urine),24 Hrs Urine,600,t
+934,Phosphate (Spot Urine),Urine (Random/Spot),600,t
+935,Phospholipid Syndrome Profile,PT Vial and 4 cc Clotted Blood,17600,t
+936,Physical Examination & Medical Certificate (Special Project),NONE,2250,t
+937,Physiotherapist Home Care Session-1 (Per Day Visit),NONE,1500,t
+938,Physiotherapist Home Care Session-2 (Per Day Visit),NONE,2000,t
+939,Physiotherapist Home Care Session-3 (Per Day Visit),NONE,2500,t
+940,Physiotherapist Home Care Session-4 (Per Day Visit),NONE,4000,t
+941,Physiotherapist Home Care Session-5 (Per Day Visit),NONE,1000,t
+942,Pink Ribbon Key Chain (Breast Cancer),NONE,200,t
+943,Pink Ribbon Wrist Band (Breast Cancer),NONE,100,t
+944,Pituitary Function Profile,3-5cc Clotted Blood or Serum,7150,t
+945,PIVKA - II,3-5cc Clotted Blood or Serum,1950,t
+946,Plasma ACTH,3cc EDTA BLOOD (CBC VIAL),3000,t
+947,Plasma Ammonia,Heparinized or EDTA Blood,1450,t
+948,Plasma Direct Renin,3cc EDTA BLOOD (CBC VIAL),3850,t
+949,Plasma Exchange Procedure,NAIL,26500,t
+950,Plasma FDPs (D-Dimer),Sodium Citrate Tube (PT Vial),2400,t
+951,Plasma Glucose (1 hour after 50 g Glucose),Sodium Fluoride Vial (Sugar Vial),350,t
+952,Plasma Glucose (2 hours postprandial),Sodium Fluoride Vial (Sugar Vial),300,t
+953,Plasma Glucose (After Dinner),Sodium Fluoride Vial (Sugar Vial),300,t
+954,Plasma Glucose (After Lunch),Sodium Fluoride Vial (Sugar Vial),300,t
+955,Plasma Glucose (Before Dinner),Sodium Fluoride Vial (Sugar Vial),300,t
+956,Plasma Glucose (Before Lunch),Sodium Fluoride Vial (Sugar Vial),300,t
+957,Plasma Glucose (Fasting),Sodium Fluoride Vial (Sugar Vial),300,t
+958,Plasma Glucose (Random),Sodium Fluoride Vial (Sugar Vial),300,t
+959,Plasma Intact Parathyroid Hormone (iPTH),3cc EDTA BLOOD (CBC VIAL),2200,t
+960,Plasma Lactate,Sodium Fluoride Vial (Sugar Vial),1200,t
+961,Platelet Aggregation Study with History,NONE,3300,t
+962,Platelet Concentrate Single Unit (Random Donor),NULL,2400,t
+963,Platelet Count,3cc EDTA BLOOD (CBC VIAL),450,t
+964,Platelet Rich Plasma for Platelet count,3-5cc Clotted Blood or Serum,450,t
+965,Platelets by Cell Seperator (Donor Name:,NONE,26500,t
+966,Platelets by Cryofuge (Donor Name:,NONE,1450,t
+967,Pleural Fluid for AFB Smear/ZN Stain,FLUID (All Body Fluid),450,t
+968,Pleural Fluid for Analysis,FLUID (All Body Fluid),1800,t
+969,Pleural Fluid for Bacterial C/S (Aerobic) with Gram Stain,FLUID (All Body Fluid),1950,t
+970,Pleural Fluid for Fungus C/S with Fungus Stain (KOH),PLEURAL FLUID,2300,t
+971,Pleural Fluid for Fungus Stain/Fungal Smear (KOH),PLEURAL FLUID,700,t
+972,Pleural Fluid for Gram Stain,FLUID (All Body Fluid),450,t
+973,Polycystic Ovary Syndrome Profile,3cc Serum and Fluoride Sample,15750,t
+974,Polycystic Ovary Syndrome Profile (PCOS),3cc Serum and Fluoride Sample,5700,t
+975,Porphobilinogen (24 Hrs Urine),24 Hrs Urine,800,t
+976,Porphyrin (Blood)  (From UK),9cc EDTA Blood (Clinical History Essential),45100,t
+977,Porphyrin (Stool)  (From UK),Stool (Clinical History Essential),28600,t
+978,Potassium,3-5cc Clotted Blood or Serum,450,t
+979,Potassium (24 hours Urine),24 Hrs Urine,450,t
+980,Potassium (Fluid),FLUID (All Body Fluid),450,t
+981,Potassium (Urine),Urine (Random/Spot),450,t
+982,Pre-Marital Profile,NAIL,7250,t
+983,Pre-Ramadan Health Checkup,"2 EDTA, 1 Clotted, 1 Sodium Fluoride",3300,t
+984,Prealbumin (From UK),3-5cc Clotted Blood or Serum,23100,t
+985,Pregnancy Associated Plasma Protein-A (PAPP-A),3-5cc Clotted Blood or Serum,3500,t
+986,Pregnancy Induced Growth Factor (PIGF),24 Hrs Urine,6500,t
+987,Pregnancy Test (Urine),Urine (Random/Spot),400,t
+988,Prenatal Profile,"2 EDTA,2 Clotted,Fluoride, Spot Urine",12100,t
+989,Procedure-A (Dermatolog),NONE,1000,t
+990,Procedure-B (Dermatolog),NONE,3000,t
+991,Procedure-C (Dermatolog),NONE,5000,t
+992,Project Keep Lahore,1 EDTA 2 Cloted vials,200,t
+993,Protein (CSF),CSF,600,t
+994,Protein (Fluid),FLUID (All Body Fluid),600,t
+995,Protein (Spot Urine),Urine (Random/Spot),600,t
+996,Protein C,Sodium Citrate Tube (PT Vial),4600,t
+997,Protein Electrophoresis (Serum),3-5cc Clotted Blood or Serum,1450,t
+998,Protein/Creatinine Ratio (Spot Urine),Urine (Random/Spot),1250,t
+999,Prothrombin Time (PT with INR),Sodium Citrate Tube (PT Vial),750,t
+1000,PRP (If Less than 10cc)  (Home Care),NONE,1100,t
+1001,PRP (If LMore than 10cc)  (Home Care),NONE,1650,t
+1002,PRP (Platelet Rich Plasma) Treatment Face,NONE,11000,t
+1003,PRP (Platelet Rich Plasma) Treatment Scalp,NONE,11000,t
+1004,PRP (Platelets Rich Plasma)  (Only  for  national hospital ),NAIL,3300,t
+1005,PsychoTherapy     (Home Care),NONE,11000,t
+1006,Pura Tone Audiometry (PTA) (Audiology),NONE,1200,t
+1007,Pure Tone Audiometry (PTA) & Tympanaometry (Tymp) (Audiology),NONE,2000,t
+1008,PUS SWAB for AFB Smear/ZN Stain,SWAB,450,t
+1009,PUS SWAB for Bacterial C/S (Aerobic) with Gram Stain (Specimen Name:,SWAB,1950,t
+1010,PUS SWAB for Cytology,SWAB,1600,t
+1011,PUS SWAB for Fungus C/S with Fungus Stain (KOH),SWAB,2300,t
+1012,PUS SWAB for Fungus Stain/Fungal Smear (KOH),SWAB,700,t
+1013,PUS SWAB for Gram Stain,SWAB,450,t
+1014,PUS SYRINGE for AFB Smear/ZN stain,PUS,450,t
+1015,PUS SYRINGE for Bacterial C/S (aerobic) with Gram Stain,PUS,1950,t
+1016,PUS SYRINGE for cytology,PUS,1600,t
+1017,PUS SYRINGE for Fungus C/S with Fungus Stain (KOH),PUS,2300,t
+1018,PUS SYRINGE for Fungus Stain/Fungal Smear (KOH),PUS,700,t
+1019,PUS SYRINGE for Gram Stain,PUS,450,t
+1020,Pyruvate (From UK),5cc Clotted Blood Or 3cc Serum,33000,t
+1021,Quantiferon TB Gold Plus,8cc-Lithium Heparin Vial (Two Vials),9000,t
+1022,RBC Morphology,3cc EDTA BLOOD (CBC VIAL),550,t
+1023,Red Cell Antibody Identification,3cc EDTA & 7cc Clotted Blood,3300,t
+1024,Red Cell Antibody Screen / Indirect Coombs,3cc EDTA & 7cc Clotted Blood,1000,t
+1025,Red Cell Folic Acid (Whole Blood),3cc EDTA BLOOD (CBC VIAL),1700,t
+1026,Red Cell Phenotyping (From NIBD),EDTA And Clotted Blood,9000,t
+1027,Renal Biopsy  for  H/P & (Immunofluorescence and Light Microscopy),BIOPSY (Tissue),8800,t
+1028,Renal Function Tests,3-5cc Clotted Blood or Serum,1200,t
+1029,Respiratory Pathogen,Throat swab,27500,t
+1030,Reticulin Stain (Histo),NULL,1800,t
+1031,Reticulocytes,3cc EDTA BLOOD (CBC VIAL),500,t
+1032,Rh Antibodies (Anti D Antibodies) Titer,EDTA And Clotted Blood,650,t
+1033,Rheumatology Profile (Rheumatoid Disease),2 EDTA & 2 Clotted Samples,7500,t
+1034,Ristocetin Cofactor Activity,Sodium Citrate Tube (PT Vial),1950,t
+1035,Rotavirus & Adenovirus Antigen,STOOL,3450,t
+1036,Rubella IgG,3-5cc Clotted Blood or Serum,1450,t
+1037,Rubella IgM,3-5cc Clotted Blood or Serum,1450,t
+1038,SAAG (Serum Ascites Albumin Gap),Ascitic Fluid & 4cc Clotted Blood,850,t
+1039,Samples Transpotration Out of Country Charges,NONE,18150,t
+1040,Screening Package of Hepatitis (B & C),NULL,3300,t
+1041,Semen for Analysis,SEMEN,2200,t
+1042,Semen for Bacterial C/S (Aerobic) with Gram Stain,SEMEN,1950,t
+1043,Semen for Fungus C/S e Fungus Stain (KOH),SEMEN,2300,t
+1044,Semen for Fungus Stain/Fungal Smear (KOH),SEMEN,700,t
+1045,Semen for Gram Stain,SEMEN,450,t
+1046,Senior Citizen Men Health Profile,"3cc Clotted Blood, 3cc EDTA and Fluoride Sample",4850,t
+1047,Senior Citizen Women Health Profile,"2 EDTA, 1 Clotted, 1 Pap Smear, Sodium Fluoride, Spot Urine",6600,t
+1048,Septicemia ( Blood ) Infectious Panel,BLOOD CULTURE VAIL,44000,t
+1049,Sequencing of Factor VIII     (Form NIBD),4cc EDTA 2 Vials,48400,t
+1050,Serm IgA,3-5cc Clotted Blood or Serum,900,t
+1051,Serum Acetylcholine Receptor Antibodies (ACRA),3-5cc Clotted Blood or Serum,9000,t
+1052,Serum ADA,3-5cc Clotted Blood or Serum,4300,t
+1053,Serum AFP,3-5cc Clotted Blood or Serum,2400,t
+1054,Serum Albumin,3-5cc Clotted Blood or Serum,500,t
+1055,Serum Aldolase,3-5cc Clotted Blood or Serum,1650,t
+1056,Serum Aldosterone,3-5cc Clotted Blood or Serum,3650,t
+1057,Serum Alpha-1 Antitrypsin,3-5cc Clotted Blood or Serum,2050,t
+1058,Serum AMH,3-5cc Clotted Blood or Serum,5400,t
+1059,Serum Amylase,3-5cc Clotted Blood or Serum,1100,t
+1060,Serum Angiotensin Converting Enzyme (ACE),3-5cc Clotted Blood or Serum,3650,t
+1061,Serum Anti Leptospiral IgG,3-5cc Clotted Blood or Serum,3300,t
+1062,Serum Anti Leptospiral IgM,3-5cc Clotted Blood or Serum,3300,t
+1063,Serum Anti MPO  (p-ANCA),3-5cc Clotted Blood or Serum,3650,t
+1064,Serum Anti Thyroid Peroxidase(Anti-TPO),3-5cc Clotted Blood or Serum,1000,t
+1065,Serum Anti-Cardiolipin IgG,3-5cc Clotted Blood or Serum,3650,t
+1066,Serum Anti-Cardiolipin IgM,3-5cc Clotted Blood or Serum,3650,t
+1067,Serum Anti-CCP,3-5cc Clotted Blood or Serum,3300,t
+1068,Serum Anti-dsDNA,3-5cc Clotted Blood or Serum,5000,t
+1069,Serum Anti-Endomysial IgA,3-5cc Clotted Blood or Serum,2050,t
+1070,Serum Anti-GBM,3-5cc Clotted Blood or Serum,3650,t
+1071,Serum Anti-Gliadin IgA (Anti-DGP IgA),3-5cc Clotted Blood or Serum,2400,t
+1072,Serum Anti-Gliadin IgG (Anti-DGP IgG),3-5cc Clotted Blood or Serum,2400,t
+1073,Serum Anti-LKM Antibodies,3-5cc Clotted Blood or Serum,2150,t
+1074,Serum Anti-Phospholipid IgG,3-5cc Clotted Blood or Serum,2650,t
+1075,Serum Anti-Phospholipid IgM,3-5cc Clotted Blood or Serum,2650,t
+1076,Serum Anti-PR3 (c-ANCA),3-5cc Clotted Blood or Serum,3650,t
+1077,Serum Anti-Sperm Antibodies,3-5cc Clotted Blood or Serum,3300,t
+1078,Serum Anti-Thyroglobulin (Anti-Tg),3-5cc Clotted Blood or Serum,1000,t
+1079,Serum Anti-Tissue Transglutaminase IgA,3-5cc Clotted Blood or Serum,2000,t
+1080,Serum Anti-Tissue Transglutaminase IgG,3-5cc Clotted Blood or Serum,2000,t
+1081,Serum ASO,3-5cc Clotted Blood or Serum,1000,t
+1082,Serum Beta hCG,3-5cc Clotted Blood or Serum,1700,t
+1083,Serum Beta hCG (Male),3-5cc Clotted Blood or Serum,1700,t
+1084,Serum Beta-2 Microglobulin,3-5cc Clotted Blood or Serum,3300,t
+1085,Serum Bile Acid,3cc-5cc Clotted or Serum (Fasting),3300,t
+1086,Serum Brucella IgG,3-5cc Clotted Blood or Serum,1000,t
+1087,Serum Brucella IgM,3-5cc Clotted Blood or Serum,1000,t
+1088,Serum C-Peptide,3-5cc Clotted Blood or Serum,2850,t
+1089,Serum CA 125,3-5cc Clotted Blood or Serum,3650,t
+1090,Serum CA 15-3,3-5cc Clotted Blood or Serum,2700,t
+1091,Serum CA 19-9,3-5cc Clotted Blood or Serum,3650,t
+1092,Serum Calcium (Corrected),3-5cc Clotted Blood or Serum,1000,t
+1093,Serum Calcium (Ionized),3-5cc Clotted Blood or Serum,1000,t
+1094,Serum Calcium (Total),3-5cc Clotted Blood or Serum,650,t
+1095,Serum Carbamazepine (Tegretol),3-5cc Clotted Blood or Serum,1450,t
+1096,Serum CEA,3-5cc Clotted Blood or Serum,2600,t
+1097,Serum Ceruloplasmin,3-5cc Clotted Blood or Serum,1750,t
+1098,Serum Chlamydia IgG,3-5cc Clotted Blood or Serum,2850,t
+1099,Serum Chlamydia IgM,3-5cc Clotted Blood or Serum,2850,t
+1100,Serum Complement-3 (C3),3-5cc Clotted Blood or Serum,1450,t
+1101,Serum Complement-4  (C4),3-5cc Clotted Blood or Serum,1450,t
+1102,Serum Copper,3-5cc Clotted Blood or Serum,1800,t
+1103,Serum Cortisol (Evening),3-5cc Clotted Blood or Serum,1450,t
+1104,Serum Cortisol (Morning),3-5cc Clotted Blood or Serum,1450,t
+1105,Serum CRP,3-5cc Clotted Blood or Serum,1500,t
+1106,Serum DHEA-SO4,3-5cc Clotted Blood or Serum,2150,t
+1107,Serum Digoxin,3-5cc Clotted Blood or Serum,1600,t
+1108,Serum Dihydrotestosterone (DHT),3-5cc Clotted Blood or Serum,3300,t
+1109,Serum Echinococcus IgG,3-5cc Clotted Blood or Serum,3200,t
+1110,Serum Estradiol (E2),3-5cc Clotted Blood or Serum,1600,t
+1111,Serum Ferritin,3-5cc Clotted Blood or Serum,1700,t
+1112,Serum Folic Acid (Folate),3-5cc Clotted Blood or Serum,1800,t
+1113,Serum Free T3,3-5cc Clotted Blood or Serum,2000,t
+1114,Serum Free T4,3-5cc Clotted Blood or Serum,2000,t
+1115,Serum Free Testosterone,3-5cc Clotted Blood or Serum,2750,t
+1116,Serum FSH,3-5cc Clotted Blood or Serum,1800,t
+1117,Serum FTA-Absorption (Fluorescent Treponemal Antibodies),3-5cc Clotted Blood or Serum,4700,t
+1118,Serum Growth Hormone,3-5cc Clotted Blood or Serum,1950,t
+1119,Serum Haptoglobin,3-5cc Clotted Blood or Serum,1100,t
+1120,Serum Helicobacter Pylori IgA,3-5cc Clotted Blood or Serum,2100,t
+1121,Serum Helicobacter Pylori IgG,3-5cc Clotted Blood or Serum,2100,t
+1122,Serum Homocysteine,3-5cc Clotted Blood or Serum,1750,t
+1123,Serum Human IgG 4,3-5cc Clotted Blood or Serum,8500,t
+1124,Serum IgE,3-5cc Clotted Blood or Serum,1750,t
+1125,Serum IGF-1,3-5cc Clotted Blood or Serum,6800,t
+1126,Serum IgG,3-5cc Clotted Blood or Serum,900,t
+1127,Serum IgM,3-5cc Clotted Blood or Serum,900,t
+1128,Serum Insulin (Fasting),3-5cc Clotted Blood or Serum,2650,t
+1129,Serum Iron,3-5cc Clotted Blood or Serum,650,t
+1130,Serum LH,3-5cc Clotted Blood or Serum,1650,t
+1131,Serum Lipase,3-5cc Clotted Blood or Serum,1100,t
+1132,Serum Lipoprotein (a),3-5cc Clotted Blood or Serum,1450,t
+1133,Serum Lithium,3-5cc Clotted Blood or Serum,1200,t
+1134,Serum Magnesium,3-5cc Clotted Blood or Serum,650,t
+1135,Serum Monospot,3-5cc Clotted Blood or Serum,1000,t
+1136,Serum Mycodot IgG,3-5cc Clotted Blood or Serum,1600,t
+1137,Serum Mycodot IgM,3-5cc Clotted Blood or Serum,1600,t
+1138,Serum Osmolality,3cc Serum and Fluoride Sample,1050,t
+1139,Serum Phenytoin (Dilantin),3-5cc Clotted Blood or Serum,1450,t
+1140,Serum Phosphate,3-5cc Clotted Blood or Serum,600,t
+1141,Serum Procalcitonin (PCT),3-5cc Clotted Blood or Serum,6350,t
+1142,Serum Progesterone,3-5cc Clotted Blood or Serum,1600,t
+1143,Serum PSA,3-5cc Clotted Blood or Serum,2200,t
+1144,Serum RA Factor,3-5cc Clotted Blood or Serum,1100,t
+1145,Serum RPR/VDRL,3-5cc Clotted Blood or Serum,1500,t
+1146,Serum SHBG,3-5cc Clotted Blood or Serum,1800,t
+1147,Serum TIBC,3-5cc Clotted Blood or Serum,900,t
+1148,Serum Total Prolactin,3-5cc Clotted Blood or Serum,1750,t
+1149,Serum Total T3,3-5cc Clotted Blood or Serum,1200,t
+1150,Serum Total T4,3-5cc Clotted Blood or Serum,1200,t
+1151,Serum Transferrin,3-5cc Clotted Blood or Serum,600,t
+1152,Serum Treponema pallidum Antibodies (Syphilis),3-5cc Clotted Blood or Serum,1500,t
+1153,Serum TSH,3-5cc Clotted Blood or Serum,1300,t
+1154,Serum TSH Receptor Antibody,3-5cc Clotted Blood or Serum,3450,t
+1155,Serum Typhidot IgG,3-5cc Clotted Blood or Serum,1600,t
+1156,Serum Typhidot IgM,3-5cc Clotted Blood or Serum,1600,t
+1157,Serum Valproic Acid (Epival),3-5cc Clotted Blood or Serum,1450,t
+1158,Serum Vancomycin,3-5cc Clotted Blood or Serum,1450,t
+1159,Serum Vitamin B12,3-5cc Clotted Blood or Serum,1900,t
+1160,Services Charges Home Sampling,NONE,220,t
+1161,Sickling Test,3cc EDTA BLOOD (CBC VIAL),450,t
+1162,Sigmoidoscopy,NONE,8800,t
+1163,Sinus Screation for Bacterial C/S (Aerobic) WITH Gram Stain,NONE,1950,t
+1164,Sirolimus (Whole Blood),3cc EDTA BLOOD (CBC VIAL),6050,t
+1165,Skin Biopsy for H/P & (Immunofluorescence and Light Microscopy),BIOPSY (Tissue),8000,t
+1166,Skin Scrapping for Fungus C/S with Fungus Stain (KOH),SKIN SCRAPPING,2300,t
+1167,Skin Scrapping for Fungus Stain/Fungal Smear (KOH),SKIN SCRAPPING,700,t
+1168,Slide for H & E Stain,SLIDES,450,t
+1169,Sodium,3-5cc Clotted Blood or Serum,450,t
+1170,Sodium (Fluid),FLUID (All Body Fluid),450,t
+1171,Sodium (Urine),Urine (Random/Spot),450,t
+1172,"Special Histo Stains (Iron Stain, Trichrome Stain ,Reticulum Stain,Cooper Stain,GMS stain and Amyloid stain)",SLIDES & BLOCKS,3300,t
+1173,Specific Gravity (CSF),CSF,280,t
+1174,Specific Gravity (Spot Urine),Urine (Random/Spot),280,t
+1175,Speech Therapy  (Home Care),NONE,11000,t
+1176,Spirometry,NONE,1650,t
+1177,Spot Urine Amylase,Urine (Random/Spot),1100,t
+1178,Spot Urine Osmolality,Urine (Random/Spot),1050,t
+1179,Spot Urine Urea,Urine (Random/Spot),650,t
+1180,Sputum for AFB Smear/ZN Stain,SPUTUM,450,t
+1181,Sputum for Bacterial C/S (Aerobic),SPUTUM,1950,t
+1182,Sputum for Cytology,SPUTUM,1600,t
+1183,Sputum for D/R,SPUTUM,800,t
+1184,Sputum for Fungus C/S with Fungus Stain (KOH),SPUTUM,2300,t
+1185,Sputum for Fungus Stain/Fungal Smear (KOH),SPUTUM,700,t
+1186,Sputum for Gram Stain,SPUTUM,450,t
+1187,SSCD-1 Nephrology Profile (Package),NONE,2800,t
+1188,SSCD-2 Cardiology Profile (Package),NONE,950,t
+1189,SSCD-3 Diabitis Profile (Package),NONE,1550,t
+1190,STD Female Profile,"2 Clotted, Spot Urine & 1 HVS for C/S",15750,t
+1191,STD Male Profile,2 Clotted & Spot Urine,15750,t
+1192,Stem Cell Procedure (In Case Of Additional Charged),NONE,22000,t
+1193,Stem Cells Preparation (Through Plasma Phoresis),NONE,242000,t
+1194,Stone for Chemical Analysis,STONE,2500,t
+1195,Stool  for  Occult Blood,STOOL,350,t
+1196,Stool  for  Undigested Food Particles,STOOL,350,t
+1197,Stool  for Pancreatic Elastase-1,STOOL,5700,t
+1198,Stool for C/E With Occult Blood,STOOL,450,t
+1199,Stool for C/S (Salmonella/Shigella/Vibrio spp.),STOOL,1950,t
+1200,Stool for Calprotectin,STOOL,4200,t
+1201,Stool for Clostridium-Difficile Toxin,STOOL,3000,t
+1202,Stool for Helicobacter Pylori Antigen,STOOL,5500,t
+1203,"Stroke Package ( MRI Brain, MRA +Doppler Carotids)",NONE,19800,t
+1204,Swab for AFB Smear/ZN Stain,SWAB,450,t
+1205,Swab for Fungus C/S with Fungus Stain (KOH) (Specimen Name:,SWAB,2300,t
+1206,Swab for Fungus Stain/Fungal Smear (KOH) (Specimen Name:,SWAB,700,t
+1207,Swab for Gram Stain (Specimen Name:,SWAB,450,t
+1208,Swine Flu PCR (H1N1),Nasal Swab/Throat Swab,9600,t
+1209,Synovial Fluid for AFB Smear/ZN Stain,FLUID (All Body Fluid),450,t
+1210,Synovial Fluid for Analysis with Uric Acid Crystals,FLUID (All Body Fluid),1800,t
+1211,Synovial Fluid for Bacterial C/S (Aerobic) with Gram Stain,FLUID (All Body Fluid),1950,t
+1212,Synovial Fluid for Fungus C/S with Fungus Stain (KOH),SYNOVIAL FLUID,2300,t
+1213,Synovial Fluid for Fungus Stain/Fungal Smear (KOH),SYNOVIAL FLUID,700,t
+1214,Synovial Fluid for Gram Stain,FLUID (All Body Fluid),450,t
+1215,Systemic Lupus Erythematosus Profile,3cc EDTA & 7cc Clotted Blood,21800,t
+1216,T-Spot TB Test,8cc-Lithium Heparin Vial (Two Vials),8250,t
+1217,Tacrolimus (Whole Blood),3cc EDTA BLOOD (CBC VIAL),6050,t
+1218,Test Case,1 ETDA tube containing 3cc Blood,550,t
+1219,Testfomathtml,Sodium Fluoride Vial (Sugar Vial),1000,t
+1220,Thalassaemia Genetic Profile in Blood       (Form NIBD),3cc EDTA Patient & Father & Mother,9700,t
+1221,Thinkpink Band (Breast Cancer),NONE,50,t
+1222,Thiopurine Methyl Transferase (From UK),10cc EDTA Whole Blood,44000,t
+1223,Throat Swab for Bacterial C/S (Aerobic),SWAB,1950,t
+1224,Thrombophilia Profile,"1 EDTA, 3 Sodium Citrate Vials & Bleeding Time",25300,t
+1225,"Thyroid Function Test (T3, T4, TSH)",3-5cc Clotted Blood or Serum,3300,t
+1226,Tissue Biopsy for AFB Smear/ZN Stain,TISSUE,450,t
+1227,Tissue Biopsy for Bacterial C/S (Aerobic) with Gram Stain,BIOPSY (Tissue),1950,t
+1228,Tissue Biopsy for Fungus C/S with Fungus Stain (KOH),TISSUE,2300,t
+1229,Tissue Biopsy for Fungus Stain/Fungal Smear (KOH),TISSUE,700,t
+1230,Tissue Biopsy for Gram Stain,FLUID (All Body Fluid),450,t
+1231,TKI Domain Mutations (From NIBD),2 EDTA vials containing 3cc blood in each vial,12650,t
+1232,Torch Profile with Herpes IgM,3-5cc Clotted Blood or Serum,7150,t
+1233,Total Protein (Serum),3-5cc Clotted Blood or Serum,600,t
+1234,Total Protein Group,3-5cc Clotted Blood or Serum,850,t
+1235,Total RBC,3cc EDTA BLOOD (CBC VIAL),400,t
+1236,Total Testosterone,3-5cc Clotted Blood or Serum,1650,t
+1237,Toxoplasma IgG,3-5cc Clotted Blood or Serum,1500,t
+1238,Toxoplasma IgM,3-5cc Clotted Blood or Serum,1500,t
+1239,Tracheal Secretions for Bacterial C/S (Aerobic) with Gram Stain,Tracheal Secretion,1950,t
+1240,Tracheostomy Swab for Bacterial C/S (Aerobic) with Gram Stain,Tracheostomy Swab,1950,t
+1241,Transferrin Saturation,3-5cc Clotted Blood or Serum,1300,t
+1242,Treponema pallidum Antibodies (Syphilis) (CSF),CSF,1500,t
+1243,Tricyclic Antidepressants,Urine (Random/Spot),1600,t
+1244,Triglycerides (Fluid),FLUID (All Body Fluid),600,t
+1245,Triglycerides (Serum),3-5cc Clotted Blood or Serum,600,t
+1246,Triple Test with (Ultra Sound Report) Profile   (From AKU),3-5cc Clotted Blood or Serum,15150,t
+1247,Troponin I (cTnI),Heparinized or EDTA Blood,1950,t
+1248,Troponin-T  (cTnT),3-5cc-Lithium Heparin Vial,1950,t
+1249,Tympanaometry (Tymp) (Audiology),NONE,1200,t
+1250,Type,NONE,350,t
+1251,Typhoid Vaccination,NONE,650,t
+1252,Ultra Sound (USG): Abdomen,NONE,2000,t
+1253,Ultra Sound (USG): Abdomen &  Prostate,NONE,2500,t
+1254,Ultra Sound (USG): Abdomen & Pelvis,NONE,2500,t
+1255,Ultra Sound (USG): Abdominal USG (Paeds),NONE,2200,t
+1256,Ultra Sound (USG): Antenatal Fetal Feet USG,NONE,2000,t
+1257,Ultra Sound (USG): Ascitic Tap,NONE,5000,t
+1258,Ultra Sound (USG): Aspiration Under USG Control,NONE,9000,t
+1259,Ultra Sound (USG): Both Breasts,NONE,3500,t
+1260,Ultra Sound (USG): Carotid  Doppler USG,NONE,5000,t
+1261,Ultra Sound (USG): Chest,NONE,2500,t
+1262,Ultra Sound (USG): Cirrhotic Liver Color Doppler,NONE,3500,t
+1263,Ultra Sound (USG): Color Doppler (Both Lower Extremities),NONE,6000,t
+1264,Ultra Sound (USG): Color Doppler Ultrasound of Both Lower Extremities For DVT,NONE,8000,t
+1265,Ultra Sound (USG): Color Doppler USG Transplanted Kidney,NONE,4000,t
+1266,Ultra Sound (USG): Cranial,NONE,3000,t
+1267,Ultra Sound (USG): DOPPLER EVALUATION OF AVF,NONE,4000,t
+1268,Ultra Sound (USG): FNAC (Procedure),NONE,7000,t
+1269,Ultra Sound (USG): for Residual Urine Only,NONE,1000,t
+1270,Ultra Sound (USG): Gall Bladder,NONE,2000,t
+1271,Ultra Sound (USG): Groin,NONE,3000,t
+1272,Ultra Sound (USG): Iliac Vessels Doppler Studies,NONE,3000,t
+1273,Ultra Sound (USG): KUB,NONE,2000,t
+1274,Ultra Sound (USG): Left Breast,NONE,2000,t
+1275,Ultra Sound (USG): Marking for Aspiration,NONE,1000,t
+1276,Ultra Sound (USG): Neck (GENERAL),NONE,3000,t
+1277,Ultra Sound (USG): Obstetrical 3rd Trimester USG With Fetal Doppler & BPP,NONE,3000,t
+1278,Ultra Sound (USG): Obstetrical Triplets USG Third Trimester With Biophysical Profile Color Doppler,NONE,5000,t
+1279,Ultra Sound (USG): Obstetrical Ultrasound Third Trimester (Twins) With Biophysical Profile,NONE,5000,t
+1280,Ultra Sound (USG): Obstetrical USG 2nd Trimester with Anomaly Scan,NONE,2500,t
+1281,Ultra Sound (USG): Obstetrical USG First Trimester,NONE,2000,t
+1282,Ultra Sound (USG): Obstetrical USG First Trimester (Triplets),NONE,3000,t
+1283,Ultra Sound (USG): Obstetrical USG First Trimester (TWINS),NONE,3000,t
+1284,Ultra Sound (USG): Obstetrical USG Second Trimester (Triplets),NONE,4000,t
+1285,Ultra Sound (USG): Obstetrical USG Second Trimester (TWINS),NONE,4000,t
+1286,Ultra Sound (USG): PCN (Percutaneous Nephrostomy),NONE,10000,t
+1287,Ultra Sound (USG): Pelvis,NONE,2000,t
+1288,Ultra Sound (USG): Penile doppler Ultrasound,NONE,5000,t
+1289,Ultra Sound (USG): Pleural Tap,NONE,7000,t
+1290,Ultra Sound (USG): Renal Doppler,NONE,5000,t
+1291,Ultra Sound (USG): Repeat Scan for Gallbladder After Fasting,NONE,1000,t
+1292,Ultra Sound (USG): Right Breast,NONE,2000,t
+1293,Ultra Sound (USG): Right Lower Extremity Color Doppler,NONE,3000,t
+1294,Ultra Sound (USG): Saphenous Vein Mapping,NONE,3000,t
+1295,Ultra Sound (USG): Scrotal Doppler USG,NONE,4000,t
+1296,Ultra Sound (USG): Single Arm Arterial Color Doppler,NONE,3000,t
+1297,Ultra Sound (USG): SUPERFICIAL LUMP,NONE,3000,t
+1298,Ultra Sound (USG): Superficial lump / Small Parts,NONE,3000,t
+1299,Ultra Sound (USG): Therapeutic TAP,NONE,5000,t
+1300,Ultra Sound (USG): Thyroid,NONE,3000,t
+1301,Ultra Sound (USG): Trans-rectal (Trus),NONE,6000,t
+1302,Ultra Sound (USG): TRUCUT USG Guided Biopsy,NONE,10000,t
+1303,Ultra Sound (USG): TRUS (Transrectal) USG Guided Biopsy,NONE,10000,t
+1304,Ultra Sound (USG): TVS (Transvaginal),NONE,3000,t
+1305,Ultra Sound (USG): TVS Guided Aspiration / Biopsy,NONE,7000,t
+1306,Ultra Sound (USG): Ultrasound ankle joint /foot,NONE,3000,t
+1307,Ultra sound (USG): Ultrasound Doppler Abdomen,NONE,3000,t
+1308,Ultra Sound (USG): Ultrasound Elbow Joint/forearm,NONE,3000,t
+1309,Ultra Sound (USG): Ultrasound for AVF Mapping,NONE,4000,t
+1310,Ultra Sound (USG): Ultrasound for liver post transplant,NONE,3500,t
+1311,Ultra Sound (USG): Ultrasound for preoperative liver transplant,NONE,3500,t
+1312,Ultra Sound (USG): Ultrasound knee joint/leg,NONE,3000,t
+1313,Ultra Sound (USG): Ultrasound Lexicon (BREAST ULTRASOUND),NONE,2500,t
+1314,Ultra Sound (USG): Ultrasound Musculoskeletal,NONE,3000,t
+1315,Ultra Sound (USG): Ultrasound Neonatal Hip Joints,NONE,2000,t
+1316,Ultra Sound (USG): Ultrasound saphenous vein mapping,NONE,75000,t
+1317,Ultra Sound (USG): Ultrasound Shoulder Joint/Arm,NONE,3000,t
+1318,Ultra Sound (USG): Ultrasound wrist joint and hand,NONE,3000,t
+1319,Ultra Sound (USG):Bilateral Leg Varicose Viens,NONE,6000,t
+1320,Ultra Sound (USG):Renal  Arteries Color Doppler,NONE,5000,t
+1321,Ultra Sound (USG):Scrotal Scan (Non doppler),NONE,3000,t
+1322,Ultra Sound (USG):Ultrasound Adult Hip Joint,NONE,2000,t
+1323,Ultra Sound (USG):Ultrasound neonatal spine,NONE,4000,t
+1324,Ultra Sound (USG):Ultrasound palpable soft tissue masses,NONE,3000,t
+1325,Unstable Hemoglobin,"2 Eech Vials of EDTA, Clotted, PT",1800,t
+1326,Urea (24 Hrs Urine),24 Hrs Urine,650,t
+1327,Urea (Fluid),FLUID (All Body Fluid),650,t
+1328,Urea (Serum),3-5cc Clotted Blood or Serum,650,t
+1329,Urea Breath Test (Heliprobe),UBT KIT (Pre sample + Post Sample),6600,t
+1330,Urea Clearance,24 Hrs urine & Serum,1000,t
+1331,Urea Clot Lysis ( For  Factor Xlll Screening),Sodium Citrate Tube (PT Vial),1200,t
+1332,Urethral Discharge Swab for Bacterial C/S (Aerobic) with Gram Stain,Urethral Discharge Swab,1950,t
+1333,Urethral Swab for Bacterial C/S (Aerobic) with Gram Stain,Urethral Swab,1950,t
+1334,Urethral Swab for Gonorrhea C/S,Urethral Discharge Swab,1950,t
+1335,Uric Acid (Fluid),FLUID (All Body Fluid),700,t
+1336,Uric Acid (Serum),3-5cc Clotted Blood or Serum,700,t
+1337,Uric Acid (Spot Urine),Urine (Random/Spot),700,t
+1338,Uric Acid/Creatinine Ratio (Spot Urine),Urine (Random/Spot),1300,t
+1339,Urinary Calcium (24 hours),24 Hrs Urine,650,t
+1340,Urinary Calcium/Creatinine Ratio (Spot),Urine (Random/Spot),1100,t
+1341,Urinary Citrate (24 hours),24 Hrs Urine,3000,t
+1342,Urinary Oxalate (24 hours),24 Hrs Urine,3300,t
+1343,Urinary Protein (24 hours),24 Hrs Urine,600,t
+1344,Urinary Sodium (24 hours),24 Hrs Urine,450,t
+1345,Urinary Uric Acid (24 hours),24 Hrs Urine,700,t
+1346,Urine Bile Pigment,Urine (Random/Spot),350,t
+1347,Urine Bile Salt,Urine (Random/Spot),350,t
+1348,Urine for AFB Smear/ZN Stain,Urine (Random/Spot),450,t
+1349,Urine for Bacterial C/S (Aerobic),URINE,1800,t
+1350,Urine for Fungus C/S with Fungus Stain (KOH),Urine (Random/Spot),2300,t
+1351,Urine for Fungus Stain/Fungal Smear (KOH),Urine (Random/Spot),700,t
+1352,Urine for Gram Stain,Urine (Random/Spot),450,t
+1353,Urine Legionella,Urine (Random/Spot),5400,t
+1354,Urine Microalbumin / ACR,Urine (Random/Spot),1000,t
+1355,Urine Porphobilinogen (Spot),Urine (Random/Spot),800,t
+1356,Urine Sugar œ  Hrs,Urine (Random/Spot),300,t
+1357,Urine Sugar 1 Hrs,Urine (Random/Spot),300,t
+1358,Urine Sugar 1œ  Hrs,Urine (Random/Spot),300,t
+1359,Urine Sugar 2 Hrs,Urine (Random/Spot),300,t
+1360,Urine Sugar 2œ  Hrs,Urine (Random/Spot),300,t
+1361,Urine Sugar 3 Hrs,Urine (Random/Spot),300,t
+1362,Urine Sugar Fasting,Urine (Random/Spot),300,t
+1363,Urine Sugar Random,Urine (Random/Spot),300,t
+1364,Vaccination Charges,NONE,50,t
+1365,Vaccination Charges (Company Cases),NONE,100,t
+1366,Vaccination Charges (Home Care),NONE,280,t
+1367,Vanillylmandelic Acid (VMA) (24 Hrs Urine),24 Hrs Urine,2400,t
+1368,Varicella Zoster Virus (Chicken Pox) IgG,3-5cc Clotted Blood or Serum,3400,t
+1369,Varicella Zoster Virus (Chicken Pox) IgG Antibodies (CSF),CSF & 3-5cc Clotted Blood,3950,t
+1370,Varicella Zoster Virus (Chicken Pox) IgM Antibodies,3-5cc Clotted Blood or Serum,3950,t
+1371,Venous Blood Gases,Heparinized Venous Blood,1300,t
+1372,Vision Assessment,NONE,1100,t
+1373,Vitamin A Level  (From UK),3-5cc Clotted Blood or Serum,26400,t
+1374,Vitamin E (From UK),3-5cc Clotted Blood or Serum,61600,t
+1375,Vitreous Aspirate for Bacterial C/S (Aerobic) with Gram Stain,Vitreous Aspirate,1950,t
+1376,Vitreous Tap for Bacterial C/S (Aerobic) with Gram Stain,Vitreous Tap,1950,t
+1377,VLDL,3-5cc Clotted Blood or Serum,550,t
+1378,Voice Therapy           (Home Care),NONE,5500,t
+1379,von Willebrand Antigen,Sodium Citrate Tube (PT Vial),2150,t
+1380,vWF Gene Sequencing     (Form NIBD),"2 Eech Vials of EDTA, Clotted, PT",36300,t
+1381,Washed RBC's Pack Cell,NONE,2200,t
+1382,WBC Count (TLC),3cc EDTA BLOOD (CBC VIAL),450,t
+1383,WBC Count (TLC) (Fluid),FLUID (All Body Fluid),450,t
+1384,WBC's Morphology,3cc EDTA BLOOD (CBC VIAL),450,t
+1385,Weight,NONE,280,t
+1386,Well Women Health Profile,"2 EDTA, 1 Clotted, 1 Pap Smear, Sodium Fluoride, Spot Urine",7700,t
+1387,Widal Test,3-5cc Clotted Blood or Serum,1450,t
+1388,Wound Secreaion for Gram Stain,FLUID (All Body Fluid),450,t
+1389,Wound Secretion for Bacterial C/S (Aerobic) with Gram Stain,SWAB,1950,t
+1390,Wound Secretion for Fungus C/S with Fungus Stain (KOH),WOUND SECRETION,2300,t
+1391,Wound Secretion for Fungus Stain/Fungal Smear (KOH),WOUND SECRETION,700,t
+1392,Wound Swab for AFB Smear/ZN Stain,WOUND SWAB,450,t
+1393,Wound Swab for Bacterial C/S (Aerobic) with Gram Stain (Specimen Name:,SWAB,1950,t
+1394,Wound Swab for Fungus C/S with Fungus Stain (KOH),WOUND SWAB,2300,t
+1395,Wound Swab for Fungus Stain/Fungal Smear (KOH),WOUND SWAB,700,t
+1396,Wound Swab for Gram Stain,SWAB,450,t
+1397,X-Proc Barium Swallow Study  With Powder,NONE,6500,t
+1398,X-Proc Barium Swallow Study without Powder,NONE,3500,t
+1399,X-Proc IVP without Medicines,NONE,3000,t
+1400,X-Proc IVP ,NONE,5000,t
+1401,X-Ray (Outsource),NONE,1200,t
+1402,X-Ray : Reporting,NONE,1200,t
+1403,X-Ray Sacral Spine - Ap View,NONE,1200,t
+1404,X-Ray Sacral Spine - Lat view,NONE,1200,t
+1405,X-Ray Sacrum Spine - AP View,NONE,1200,t
+1406,X-Ray:  ForeArm Ap/Lat,NONE,1500,t
+1407,X-Ray: Abdomen Erect PA View,NONE,1200,t
+1408,X-Ray: Abdomen Supine,NONE,1200,t
+1409,X-Ray: Ankle Ap View,NONE,1200,t
+1410,X-Ray: Ankle Ap/Lat,NONE,1500,t
+1411,X-Ray: Ankle Lat View,NONE,1200,t
+1412,X-Ray: Big Toe,NONE,1200,t
+1413,X-Ray: Bone Age studies,NONE,1500,t
+1414,X-Ray: Both Knees Ap / Lat View,NONE,2700,t
+1415,X-Ray: Both Knees Ap View (Standing),NONE,1500,t
+1416,X-Ray: Both Knees Lat View,NONE,1500,t
+1417,X-Ray: Calcaneus -AP & LAT,NONE,1500,t
+1418,X-Ray: Cervical Spine AP View,NONE,1200,t
+1419,X-Ray: Cervical Spine AP/ LAT View,NONE,1500,t
+1420,X-Ray: Cervical Spine LAT View,NONE,1200,t
+1421,X-Ray: Chest Ap,NONE,1200,t
+1422,X-Ray: Chest LAT View,NONE,1200,t
+1423,X-Ray: Chest Pa (Special Project),NONE,1500,t
+1424,X-Ray: Chest PA View,NONE,1200,t
+1425,X-Ray: Clavicle Ap View,NONE,1200,t
+1426,X-Ray: Coccyx Spine AP / LAT View,NONE,1500,t
+1427,X-Ray: Copy Of X-Ray Film,NONE,500,t
+1428,X-Ray: Cr (1X2),NONE,1500,t
+1429,X-Ray: Cr (1X4),NONE,3000,t
+1430,X-Ray: Dorsal Lumbar Spine Ap View,NONE,1200,t
+1431,X-Ray: Dorsal Lumbar Spine Lat View,NONE,1200,t
+1432,X-Ray: Dorsal Lumber Spine Ap / Lat,NONE,1500,t
+1433,X-Ray: Ear Both,NONE,1500,t
+1434,X-Ray: Elbow Ap/Lat,NONE,1500,t
+1435,X-Ray: Facial bones,NONE,1200,t
+1436,X-Ray: Femur Ap/Lat,NONE,1500,t
+1437,X-Ray: Finger Ap View,NONE,1200,t
+1438,X-Ray: Flexion and Extension View,NONE,1500,t
+1439,X-Ray: Foot Ap,NONE,1200,t
+1440,X-Ray: Foot Ap/Lat,NONE,1500,t
+1441,X-Ray: Foot Lat View,NONE,1200,t
+1442,X-Ray: Forearm  Ap & Lat View,NONE,1500,t
+1443,X-Ray: Forearm Lat View,NONE,1200,t
+1444,X-Ray: Hand AP / LAT View,NONE,1500,t
+1445,X-Ray: Heal Lat,NONE,1200,t
+1446,X-Ray: Heel Ap & Lat View,NONE,1500,t
+1447,X-Ray: Heel Ap View,NONE,1200,t
+1448,X-Ray: Hip Ap & Lat View,NONE,1500,t
+1449,X-Ray: Hip Ap View,NONE,1200,t
+1450,X-Ray: Humerus Ap View,NONE,1200,t
+1451,X-Ray: Humerus Ap/Lat,NONE,1500,t
+1452,X-Ray: Humerus Lat View,NONE,1200,t
+1453,X-Ray: Knee AP View,NONE,1200,t
+1454,X-Ray: Knee Lat View,NONE,1200,t
+1455,X-Ray: Knee Skyline View,NONE,1200,t
+1456,X-Ray: KUB,NONE,1200,t
+1457,X-Ray: Leg Ap,NONE,1200,t
+1458,X-Ray: Leg Ap/Lat,NONE,1500,t
+1459,X-Ray: Limb Salvage Study  ( Specific region in remarks),NONE,1200,t
+1460,X-Ray: Lower Extremity of infant,NONE,1500,t
+1461,X-Ray: Lumbar Spine AP / LAT View,NONE,1500,t
+1462,X-Ray: Lumbar Spine Ap View,NONE,1200,t
+1463,X-Ray: Lumbar Spine Lat View,NONE,1200,t
+1464,X-Ray: Mandible,NONE,1200,t
+1465,X-Ray: Mandible Ap & Lat View,NONE,1500,t
+1466,X-Ray: Mandible Ap View,NONE,1200,t
+1467,X-Ray: Mandible Lat View,NONE,1200,t
+1468,X-Ray: Mastoid  Lat View,NONE,1200,t
+1469,X-Ray: Mastoid Ap View,NONE,1200,t
+1470,X-Ray: Mastoid Ap& Lat View,NONE,1500,t
+1471,X-Ray: Nasal Bone,NONE,1200,t
+1472,X-Ray: Neck Lat,NONE,1200,t
+1473,X-Ray: Orbit Ap & Lat View,NONE,1500,t
+1474,X-Ray: Orbit Ap View,NONE,1200,t
+1475,X-Ray: Orbit Lat View,NONE,1200,t
+1476,X-Ray: Pelvis & Hip - Child,NONE,2000,t
+1477,X-Ray: Pelvis Ap,NONE,1200,t
+1478,X-Ray: Pelvis Ap View,NONE,1200,t
+1479,X-Ray: Pelvis Ap/Lat (Peads),NONE,1500,t
+1480,X-Ray: Pelvis Lat View,NONE,1200,t
+1481,X-Ray: Pituitary fossa or sella turcica,NONE,2000,t
+1482,X-Ray: Pns  45 degree,NONE,1200,t
+1483,X-Ray: Portaable (Cxr) (1X2),NONE,6000,t
+1484,X-Ray: Portaable (Cxr) (1X3),NONE,7000,t
+1485,X-Ray: Portaable (Cxr) (1X4),NONE,8000,t
+1486,X-Ray: Portable Chest Ap View,NONE,5000,t
+1487,X-Ray: Portable radiography (Per film),NONE,5000,t
+1488,X-Ray: Ribs  Ap & Lat View,NONE,1500,t
+1489,X-Ray: Ribs- Unilateral,NONE,1200,t
+1490,X-Ray: Sacrum Spine - AP & LAT  View,NONE,1500,t
+1491,X-Ray: Scapula - AP & LAT,NONE,1500,t
+1492,X-Ray: Shoulder - Ap View,NONE,1200,t
+1493,X-Ray: Shoulder - Lat View,NONE,1200,t
+1494,X-Ray: Shoulder Ap,NONE,1200,t
+1495,X-Ray: Shoulder Ap/Lat,NONE,1500,t
+1496,X-Ray: Shoulder Both AP View,NONE,1500,t
+1497,X-Ray: Shoulder Both Lat View,NONE,1500,t
+1498,X-Ray: Skeletal Survey,NONE,15000,t
+1499,X-Ray: Skull AP View,NONE,1200,t
+1500,X-Ray: Skull AP/ LAT View,NONE,1500,t
+1501,X-Ray: Skull Lat,NONE,1200,t
+1502,X-Ray: Soft Tissue Neck,NONE,1200,t
+1503,X-Ray: Sternoclavicular Joint,NONE,2000,t
+1504,X-Ray: Sternum - AP & LAT,NONE,1800,t
+1505,X-Ray: Stn,NONE,1200,t
+1506,X-Ray: Thoracic Spine - Ap View,NONE,1200,t
+1507,X-Ray: Thoracic Spine - Lat View,NONE,1200,t
+1508,X-Ray: Thoracic Spine AP/ LAT View,NONE,1500,t
+1509,X-Ray: Thumb,NONE,1200,t
+1510,X-Ray: Tibia Fibula - Lat View,NONE,1200,t
+1511,X-Ray: Tibia Fibula Ap/Lat,NONE,1500,t
+1512,X-Ray: Tibia Fibula Both Ap / Lat View,NONE,3000,t
+1513,X-Ray: Tibia Fibula Both Ap View,NONE,1500,t
+1514,X-Ray: Toe,NONE,1200,t
+1515,X-Ray: Visa,NONE,1200,t
+1516,X-Ray: Wrist - Lat View,NONE,1200,t
+1517,X-Ray: Wrist -Ap View,NONE,1200,t
+1518,X-Ray: Wrist Ap/Lat,NONE,1500,t
+1519,X-Ray: Wrists Both  Ap / Lat View,NONE,3000,t
+1520,X-Ray:Elbow Ap View,NONE,1200,t
+1521,X-Ray:Elbow Lat View,NONE,1200,t
+1522,X-Ray:Forearm Ap View,NONE,1200,t
+1523,X-Ray:Hand  Ap View,NONE,1200,t
+1524,X-Ray:Hand Lat View,NONE,1200,t
+1525,X-Ray:Hip Lat view,NONE,1200,t
+1526,X-Ray:Single knee ap and lat view,NONE,1500,t
+1527,X-Ray:Tibia Fibula -Ap View,NONE,1200,t
+1528,XMN Polymorphism (Thalassaemia)      (Form NIBD),3cc EDTA Patient & Father & Mother,5400,t
+1529,Young Health Profile,"3cc Clotted Blood, 3cc EDTA and Fluoride Sample",6050,t
+1530,Zinc Level (24 Hrs Urine),24 Hrs Urine,2850,t
+1531,Zinc Level (Blood),3-5cc-Sodium Heparin Vial,2850,t
+1532,ASCA,SERUM,1750,t
+1533,Secretion For C/S,NONE,700,t
+1534,17-Hydroxy Corticosteroids,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1535,17-Hydroxy Progesterone,3-5 CC CLOTTED BLOOD / SERUM,2040,t
+1536,17-Ketosteroids (24 Hrs Urine),24 HRS URINE,1500,t
+1537,17-OH Progestron,3-5 CC CLOTTED BLOOD / SERUM,2040,t
+1538,24 Hour Copper,24 HOUR URINE,1620,t
+1539,24 Hour Cortisol(URINE),25 HOUR URINE,1500,t
+1540,24 Hour Urinary Cortisol,26 HOUR URINE,840,t
+1541,24 hour Urine Protien Creatinine Clearance,27 HOUR URINE,500,t
+1542,24 hour Urine Protiene Creatinine Ratio,28 HOUR URINE,500,t
+1543,24 Hrs Urinary Phosphate,29 HOUR URINE,300,t
+1544,5 HIAA (5 HYDROXYINDOIEACETIC ACID),3-5 CC CLOTTED BLOOD / SERUM,1620,t
+1545,Abdominal Fluid For C/E,FLUID,1000,t
+1546,Abdominal Fluid For Cytology,FLUID,1200,t
+1547,Abdominal Fluid For AFB C/S,FLUID,1200,t
+1548,Abdominal Fluid For AFB Stain / ZN Stain,FLUID,300,t
+1549,Abdominal Fluid For C/S,FLUID,1000,t
+1550,Abdominal Fluid For Gram Stain,FLUID,240,t
+1551,Absolute Values/Cell Counts,3 CC BLOOD IN EDTA,240,t
+1552,ACE Level,3-5 CC CLOTTED BLOOD / SERUM,3000,t
+1553,Acetyl Choline Receptor antibody,3-5 CC CLOTTED BLOOD / SERUM,3900,t
+1554,Acid Phosphatase (Tl/Prostate),3-5 CC CLOTTED BLOOD / SERUM,1800,t
+1555,Acid Phosphate,3-5 CC CLOTTED BLOOD / SERUM,1800,t
+1556,ACTH,3-5 CC BLOOD IN EDTA,2700,t
+1557,ADA Levels in ASCITIC FLUID,FLUID,5500,t
+1558,ADA LEVELS IN CSF FLUID,FLUID,5500,t
+1559,Ada levels in pleural fluid,FLUID,5500,t
+1560,ADH PROFILE,"plasma,serum",2450,t
+1561,AFB C/S,SPUTUM,1200,t
+1562,AFB Stian (3 Days Sputum),SPUTUM,480,t
+1563,Albumin (24 Hrs Urine),24 HRS URINE,540,t
+1564,Albumin (Serum),3-5 CC CLOTTED BLOOD / SERUM,300,t
+1565,Albumin (Spot Urine),SPOT URINE,200,t
+1566,Albumin / Creatinine Ratio.,SPOT URINE,1000,t
+1567,Aldolase(Serum),3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1568,Aldosterone,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1569,Alpha 1-Anti Trypsin Level,3-5 CC CLOTTED BLOOD / SERUM,1850,t
+1570,Alpha Fetoprotein,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1571,Ammonia,3-5 CC BLOOD IN EDTA,1200,t
+1572,Amphetamines,24 HOUR URINE,1320,t
+1573,Amylase (24Hrs Urine),24 HOUR URINE,500,t
+1574,Amylase (Fluid),RANDOM URINE,500,t
+1575,Amylase (Serum),3-5 CC CLOTTED BLOOD / SERUM,750,t
+1576,Amylase (Spot Urine),SPOT URINE,500,t
+1577,ANA,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1578,ANA PROFILE,3-5 CC CLOTTED BLOOD / SERUM,7500,t
+1579,ANA Quantitative,3-5 CC CLOTTED BLOOD / SERUM,1080,t
+1580,Anaerobic Culture,NONE,600,t
+1581,ANCA,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1582,ANCA - C,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1583,ANCA - P,3-5cc CLOTTED BLOOD/SERUM,2500,t
+1584,Androgen (Serum),3-5cc CLOTTED BLOOD/SERUM,1680,t
+1585,Androstenidione Level,3-5 CC CLOTTED BLOOD / SERUM,1680,t
+1586,ANF,3-5 CC CLOTTED BLOOD / SERUM,600,t
+1587,ANF ICT,3-5 CC CLOTTED BLOOD / SERUM,600,t
+1588,ANF QUANTITIVE,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1589,Angiotensin Converting En,3-5 CC CLOTTED BLOOD / SERUM,1440,t
+1590,Anti Cardiolipin Ab,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1591,Anti Cardiolipin IgG,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1592,Anti Cardiolipin IgM,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1593,Anti CCP,3-5 CC CLOTTED BLOOD / SERUM,1800,t
+1594,Anti Centromer Abs,3-5 CC CLOTTED BLOOD / SERUM,1100,t
+1595,Anti Centromers Anti Bodies,3-5 CC CLOTTED BLOOD / SERUM,1620,t
+1596,Anti Cytoplasma Abs,3-5 CC CLOTTED BLOOD / SERUM,1620,t
+1597,Anti Cytoplsama Abs,3-5 CC CLOTTED BLOOD / SERUM,1620,t
+1598,Anti Delta Virus,3-5 CC CLOTTED BLOOD / SERUM,1400,t
+1599,Anti Delta Virus AKUH,3-5 CC CLOTTED BLOOD / SERUM,1560,t
+1600,Anti ds DNA,3-5 CC CLOTTED BLOOD / SERUM,1300,t
+1601,Anti Endomyesial Abs,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1602,Anti Endomyesial IgA,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1603,Anti Endomyesial IgG,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1604,Anti Epstein Barr Virus Igg (Ebv),3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1605,Anti Epstein Barr Virus Igm (EBV),3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1606,Anti Gliadin Abs,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1607,Anti Gliadin IgA,3-5 CC CLOTTED BLOOD / SERUM,2200,t
+1608,Anti Gliadin IgG,3-5 CC CLOTTED BLOOD / SERUM,2200,t
+1609,Anti Gliadin IgM,3-5 CC CLOTTED BLOOD / SERUM,2200,t
+1610,Anti H pylori Antibodies,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1611,Anti H pylori IgA,3-5 CC CLOTTED BLOOD / SERUM,1100,t
+1612,Anti H pylori IgG,3-5 CC CLOTTED BLOOD / SERUM,1100,t
+1613,Anti H pylori IgM,3-5 CC CLOTTED BLOOD / SERUM,1100,t
+1614,Anti HBC (Total),3-5 CC CLOTTED BLOOD / SERUM,1860,t
+1615,Anti Hbc IgG,BIOPSY TISSUE BLOCK,2000,t
+1616,Anti Hbc IgM,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1617,Anti HBe,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1618,Anti HBs,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1619,Anti HCV,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1620,Anti HCV (Screening),3-5 CC CLOTTED BLOOD / SERUM,600,t
+1621,Anti HDV,3-5 CC CLOTTED BLOOD / SERUM,1560,t
+1622,Anti HEV IgG,3-5 CC CLOTTED BLOOD / SERUM,1400,t
+1623,Anti HEV IgM,3-5 CC CLOTTED BLOOD / SERUM,1400,t
+1624,Anti HIV (AIDS),3-5 CC CLOTTED BLOOD / SERUM,1200,t
+1625,Anti HIV ICT,3-5 CC CLOTTED BLOOD / SERUM,600,t
+1626,Anti Jo-1,3-5 CC CLOTTED BLOOD / SERUM,1560,t
+1627,Anti Microsomal Ab,3-5 CC CLOTTED BLOOD / SERUM,1800,t
+1628,Anti Mitochondrial Antibody (AMA),3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1629,Anti Mitrchondrial Antibodies,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1630,Anti Mtb Antibodies (Mycodot),3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1631,Anti Mullarian,3-5 CC CLOTTED BLOOD / SERUM,6500,t
+1632,Anti Norcotics (Drugs Profile),SPOT URINE,3000,t
+1633,Anti Nuclear Antibodies,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1634,Anti Phospholipid IgG,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1635,Anti Phospholipid IgM,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1636,Anti SCL-70,3-5 CC CLOTTED BLOOD / SERUM,1800,t
+1637,Anti Smooth Muscle Abs,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1638,Anti Sperm Antibodies,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1639,Anti SS-A,3-5 CC CLOTTED BLOOD / SERUM,1080,t
+1640,Anti Thrombin III,CITRATE TUBE (FROM LAB),2000,t
+1641,Anti thyroid Antibodies,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1642,Anti Transglutaminase Ig M,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1643,Anti Transglutaminase IgA,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1644,Anti Transglutaminase IgG,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1645,Anti-Gbm (Anti Glomerular Basement Membrane),3-5 CC CLOTTED BLOOD / SERUM,2350,t
+1646,Anti-LKM antibody,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1647,ANTIPHOSPHOLIPID ANTIBODIES,3-5 CC CLOTTED BLOOD / SERUM,3400,t
+1648,Anti-soluble liver antigen,3 CC CLOTED BLOOD,2000,t
+1649,Arterial blood gases,NONE,600,t
+1650,Ascitic Fluid C/E,FLUID,1200,t
+1651,Ascitic Fluid For Cytology,FLUID,1200,t
+1652,Ascitic Fluid For AFB C/S,FLUID,1200,t
+1653,Ascitic Fluid For AFB Stain / ZN Stain,FLUID,240,t
+1654,Ascitic Fluid For C/S,FLUID,1000,t
+1655,Ascitic Fluid For Gram Stain,FLUID,240,t
+1656,ASO Titre,3-5 CC CLOTTED BLOOD / SERUM,600,t
+1657,Aspirate For C/S,Aspirate,600,t
+1658,B2-Microglobulin,NONE,1440,t
+1659,Barbiturates (Urine),SPOT URINE,1000,t
+1660,Bence Jones Protein (Urine),RANDOM URINE,720,t
+1661,Benzodiazepines (Urine),SPOT URINE,2100,t
+1662,Beta HCG,3-5 CC CLOTTED BLOOD / SERUM,1200,t
+1663,Beta Crosslaps,3-5 CC CLOTTED BLOOD / SERUM,1800,t
+1664,Bile Acid,3-5 CC CLOTTED BLOOD / SERUM,1100,t
+1665,Bile Pigment,SPOT URINE,1080,t
+1666,Bile Salt,SPOT URINE,1080,t
+1667,Bilirubin Direct,3-5 CC CLOTTED BLOOD / SERUM,500,t
+1668,Bilirubin Indirect,3-5 CC CLOTTED BLOOD / SERUM,500,t
+1669,Biopsy (Extra Large),TISSUE WITH HISTORY,4500,t
+1670,Biopsy (Medium),TISSUE WITH HISTORY,3000,t
+1671,Biopsy (Small),TISSUE WITH HISTORY,2000,t
+1672,Biopsy 1-Block For Retrun,NONE,240,t
+1673,Biopsy 2-Block For Retrun,NONE,800,t
+1674,Biopsy Large,TISSUE WITH HISTORY,3500,t
+1675,Bleeding Time,TISSUE WITH HISTORY,120,t
+1676,Block For Review,BLOCK,2000,t
+1677,Blood C/E,3 CC BLOOD IN EDTA,600,t
+1678,Blood Cross Match With Elisa,EDTA or SERUM,4200,t
+1679,Blood Cross Match With Screening,EDTA or SERUM,3000,t
+1680,Blood For C/S,IN CULTURE VIAL,1000,t
+1681,Blood For C/S (Left & Right),IN CULTURE VIAL,1400,t
+1682,Blood Group With Cross Match,EDTA or SERUM,840,t
+1683,Blood Screening,3-5 CC CLOTTED BLOOD / SERUM,1800,t
+1684,Body Fluid For AFB Stain / ZN Stain,FLUID,240,t
+1685,Body Fluid For C/S,FLUID,1000,t
+1686,Body Fluid For AFB C/S,FLUID,1200,t
+1687,Body Fluid For Analysis,FLUID,930,t
+1688,Body Fluid For Cytology,FLUID,960,t
+1689,Body Fluid For Gram Stain,FLUID,240,t
+1690,Bone Marrow (Slides For Review),NONE,200,t
+1691,Bone Marrow Biopsy (Procedure),NONE,5400,t
+1692,Bronchial Washing Fluid For Gram Stain,FLUID,240,t
+1693,Bronchial Washing For Analysis,BRONCHIAL WASHING,960,t
+1694,Bronchial Washing For AFB C/S,BRONCHIAL WASHING,1200,t
+1695,Bronchial Washing For C/S,BRONCHIAL WASHING,600,t
+1696,Bronchial Washing For Cytology.,FLUID,960,t
+1697,Bronchial Wasing For AFB Stain / ZN Stain,NONE,240,t
+1698,Brucella Ig G,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1699,BRUCELLA ANTIBODIES,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1700,Brucella Ig M,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1701,Brucella Test,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1702,BUN,3-5 CC CLOTTED BLOOD / SERUM,300,t
+1703,BUN / Creatinine Ratio,SPOT URINE,700,t
+1704,C 3,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1705,C Peptide Level,3-5 CC CLOTTED BLOOD / SERUM,3000,t
+1706,C Peptide Urine,SPOT URINE,3000,t
+1707,C4,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1708,CA 125,3-5 CC CLOTTED BLOOD / SERUM,1600,t
+1709,CA 15-3,3-5 CC CLOTTED BLOOD / SERUM,1600,t
+1710,CA-19-9,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+1711,Calcitonin,NONE,2640,t
+1712,Calcium (24 Hrs Urine),24 HOUR URINE,480,t
+1713,Calcium (Serum),3-5 CC CLOTTED BLOOD / SERUM,300,t
+1714,Calcium/Creatinine Ratio,SPOT URINE,480,t
+1715,Calprotectin stool,3-5 CC CLOTTED BLOOD / SERUM,3500,t
+1716,Cannabinoids(Urine),SPOT URINE,1680,t
+1717,Carbamazepine(Tegretol),3-5 CC CLOTTED BLOOD / SERUM,1440,t
+1718,Cardiac Enzymes,Clotted Sample or Serum,1140,t
+1719,Catecholamines(24Hrs Urine),ug/24 hours,2475,t
+1720,Catecholamines(Serum),3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1721,CBC (Dengue),EDTA BLOOD,90,t
+1722,CEA,3-5 CLOTTED BLOOD/ SERUM,2500,t
+1723,Ceruloplasmin,3-5 CLOTTED BLOOD/ SERUM,2200,t
+1724,Chicken Pox Abs,3-5 CLOTTED BLOOD/ SERUM,1440,t
+1725,Chlamydia Test,3-5 CLOTTED BLOOD/ SERUM,2000,t
+1726,Chloride (Serum),3-5 CC CLOTTED BLOOD / SERUM,500,t
+1727,Cholesterol,3-5 CC CLOTTED BLOOD / SERUM,200,t
+1728,CK MB,3-5 CC CLOTTED BLOOD / SERUM,800,t
+1729,Clotting Time,NONE,200,t
+1730,CMV BY PCR,3-5 CC CLOTTED BLOOD / SERUM,6000,t
+1731,CMV IgM,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1732,Cocaine(Urine),SPOT URINE,1200,t
+1733,Conjunctival Swab Left C/S,Swab,700,t
+1734,Conjunctival Swab Righ C/S,Swab,700,t
+1735,Coombs Test (Direct),EDTA BLOOD,480,t
+1736,Coombs Test (Indirect),3-5 CC CLOOTTED BLOOD / SERUM,480,t
+1737,Copper (Serum),3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1738,CORNIAL SCRAPING C/S,NONE,700,t
+1739,Cortisol (AM),3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1740,Cortisol (PM),3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1741,Cortisol(SERUM) A.M,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1742,Creatinine Clearance (24 Hrs),24 Hrs Urine,600,t
+1743,CRP,3-5 CC CLOTTED BLOOD / SERUM,600,t
+1744,Cryoglobulins,NONE,1720,t
+1745,CSF Fluid For AFB C/S,Fluid,1200,t
+1746,CSF Fluid For Gram Stain,Fluid,300,t
+1747,CSF For AFB Stain / ZN Stain,CSF,300,t
+1748,CSF For Albumin,CSF,600,t
+1749,CSF For C/E,FLUID,1200,t
+1750,CSF For C/S,FLUID,900,t
+1751,CSF For Cytology,FLUID,1200,t
+1752,CSF For Measels IgG,CSF,1320,t
+1753,CSF For Measels IgM,CSF,1320,t
+1754,Cvp Tip For C/S,CVP,700,t
+1755,Cyclosporin Level,EDTA BLOOD,4000,t
+1756,Cystic Fluid For AFB Stain / ZN Stain,CYCTIC FLUID,240,t
+1757,Cystic Fluid For AFB C/S,CYCTIC FLUID,1200,t
+1758,Cystic Fluid For C/E,CYCTIC FLUID,1000,t
+1759,Cystic Fluid For C/S,CYCTIC FLUID,700,t
+1760,Cystic Fluid For Cytology,CYCTIC FLUID,1000,t
+1761,Cystic Fluid For Gram Stain,CYCTIC FLUID,1000,t
+1762,D Dimer,sodium citrate tube (PT Vial),1800,t
+1763,Dengue (IgM),3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1764,Dengue IgG,3-5 CC CLOTTED BLOOD / SERUM,2100,t
+1765,Dengue Ns1 Antigen,3-5 CC CLOTTED BLOOD / SERUM,2040,t
+1766,DHEA SO4,3-5 CC CLOTTED BLOOD / SERUM,4000,t
+1767,Dialysis Fluid For Analysis,Fluid,960,t
+1768,Digoxin,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1769,e GFR,3-5 cc Clotted Blood or Serum,700,t
+1770,Ear Swab For AFB Stain / ZN Stain,Swab,300,t
+1771,Ear Swab For C/S,FLUID,700,t
+1772,Ear Swab For Gram Stain,Swab,300,t
+1773,ENA Profile,3-5 CC CLOTTED BLOOD / SERUM,6600,t
+1774,Eosinophil Count,EDTA BLOOD,200,t
+1775,Eosinophil Count (Urine),SPOT URINE,200,t
+1776,EOSINOPHIL COUNT IN SPUTUM,SPUTUM,200,t
+1777,ER,NONE,3600,t
+1778,Erythropoietin,3-5 CC CLOTTED BLOOD / SERUM,4000,t
+1779,Estradiol,3-5 CC CLOTTED BLOOD / SERUM,1100,t
+1780,Estriol,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1781,Estriol Urine,SPOt Urine,1000,t
+1782,Estrogen,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1783,factor iX,sodium citrate tube (PT Vial),3000,t
+1784,FACTOR V LEIDEN,3 CC CLOTED BLOOD,1000,t
+1785,Factor Xi Level,sodium citrate tube (PT Vial),3000,t
+1786,Factor Xii Level,sodium citrate tube (PT Vial),3000,t
+1787,Factor Xiii Level,sodium citrate tube (PT Vial),3000,t
+1788,FDPs,sodium citrate tube (PT Vial),1500,t
+1789,FENA (Fractional excreation of sodium ),NONE,2500,t
+1790,Ferritin,3-5 CC CLOTTED BLOOD / SERUM,1100,t
+1791,Fetal Hb.Electrophoresis,3-5 CC CLOTTED BLOOD / SERUM,1200,t
+1792,Fluid C/E,FLUID,1200,t
+1793,Fluid C/S,FLUID,1000,t
+1794,Fluid For C/S,FLUID,1000,t
+1795,Fluid For Albumin,FLUID,250,t
+1796,Fluid For Analysis,FLUID,1000,t
+1797,Fluid For Analysis Bile,FLUID,1000,t
+1798,Fluid for C/S,NONE,1000,t
+1799,FNA Procedure,CONTACT TO LAB,3000,t
+1800,FNAC Slids,SLIDS,1500,t
+1801,Folic Acid (Folate Level),3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1802,Free PSA,3-5 CC CLOTTED BLOOD / SERUM,1600,t
+1803,Free T3,3-5 CC CLOTTED BLOOD / SERUM,720,t
+1804,Free T4,3-5 CC CLOTTED BLOOD / SERUM,720,t
+1805,Free Testosterone,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1806,FSH,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1807,Fungal Culture,N/A,1200,t
+1808,Fungal Stain,N/A,400,t
+1809,Fungus Culture for Nail,N/A,700,t
+1810,Fungus For Bronchial Washing,N/A,1000,t
+1811,Fungus For Fluid,N/A,1000,t
+1812,Fungus For Hair,N/A,900,t
+1813,Fungus For Nail,N/A,800,t
+1814,Fungus For Pus,N/A,1000,t
+1815,Fungus For Skin Scraping,N/A,1000,t
+1816,G6 Pd Test,EDTA BLOOD,1800,t
+1817,Gamma GT,3-5 CC CLOTTED BLOOD / SERUM,300,t
+1818,Gastrin Level,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1819,GCT (Glucose Challange Test),1-2 Separate Plasma of Fluoride Vial,1000,t
+1820,Geimsa Stain,N/A,500,t
+1821,Gram Stain,N/A,400,t
+1822,Growth Hormone,3-5 CC CLOTTED BLOO / SERUM,2500,t
+1823,GTT(Glucose Tolerance Tes),3 CC CLOTTED BLOOD / SERUM (FASTING),880,t
+1824,Haptoglobin,NONE,800,t
+1825,Hb (Hemoglobin),3 CC BLOOD IN EDTA,400,t
+1826,Hb Electrophoresis,4 CC BLOOD IN EDTA,1100,t
+1827,HbA1c,5 CC BLOOD IN EDTA,1300,t
+1828,HBeAg ICT,3-5 CC CLOTTED BLOO / SERUM,600,t
+1829,HbsAg (Screening),3-5 CC CLOTTED BLOO / SERUM,600,t
+1830,HBV DNA By Real-Time Pcr (Qualitative),3-5 CC CLOTTED BLOO / SERUM,4000,t
+1831,HBV DNA By Real-Time Pcr (Quantitative),3-5 CC CLOTTED BLOO / SERUM,6000,t
+1832,HCO3,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1833,HCV BY-REAL TIME GENOTYPING,3-5 CC CLOTTED BLOO / SERUM,6500,t
+1834,HCV RNA BY REAL-TIME PCR (QUALITATIVE),3-5 CC CLOTTED BLOO / SERUM,3800,t
+1835,HCV RNA BY REAL-TIME PCR (QUANTITATIVE),3-5 CC CLOTTED BLOO / SERUM,5600,t
+1836,Hcv Serotyping,3-5 CC CLOTTED BLOO / SERUM,4800,t
+1837,HDV RNA By Real Time PCR (Qualitative),3-5 CC CLOTTED BLOOD / SERUM,3200,t
+1838,HDV RNA By Real Time PCR (Quantitative),3-5 CC CLOTTED BLOOD / SERUM,4800,t
+1839,Helicobacter pylori Antigen (Stool),STOOL,1400,t
+1840,Herpes IgG,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1841,Herpes IgM,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1842,HLA-B27,3 CC BLOOD IN EDTA,9000,t
+1843,Homocystine Level,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1844,Homocystine Level (Urine),SPOT URINE,1560,t
+1845,Hsv IgM,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1846,HUMAN IGG4,NONE,9000,t
+1847,HVS For AFB Stain / ZN Stain,N/A,500,t
+1848,Hvs For C/S,N/A,1000,t
+1849,Hvs For Gram Stain,N/A,500,t
+1850,Hydrocele Fluid For AFB Stain / ZN Stain,FLUID,500,t
+1851,Hydrocele Fluid For AFB C/S,FLUID,1200,t
+1852,Hydrocele Fluid For C/S,FLUID,700,t
+1853,Hydrocele Fluid For Cytology,FLUID,1000,t
+1854,Hydrocele Fluid For Gram Stain,FLUID,500,t
+1855,ICT Malaria,NONE,600,t
+1856,IgA,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1857,IgE,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1858,IGF,3-5 CC CLOTTED BLOOD / SERUM,1400,t
+1859,IgG,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1860,IgM,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1861,"Immunogiobulin (Iga,Igg,Igm)",3-5 CC CLOTTED BLOOD / SERUM,3000,t
+1862,Insulin,3-5 CC CLOTTED BLOOD / SERUM,3000,t
+1863,Insulin (Fasting),3-5 CC CLOTTED BLOOD / SERUM,3000,t
+1864,Insulin (After 2 Hrs),3-5 CC CLOTTED BLOOD / SERUM,3000,t
+1865,Insulin (After 30 MINS),3-5 CC CLOTTED BLOOD / SERUM,3000,t
+1866,Insulin Growth Factor-1(Igf-1),3-5 CC CLOTTED BLOOD / SERUM,3000,t
+1867,Intact PTH,3 CC EDTA SAMPLE,2700,t
+1868,Ionized Calcium,3-5 CC CLOTTED BLOOD / SERUM,1200,t
+1869,Iron,3-5 CC CLOTTED BLOOD / SERUM,400,t
+1870,Joint Fluid For Gram Stain,FLUID,260,t
+1871,Joint Fluid For AFB C/S,FLUID,1200,t
+1872,Joint Fluid For AFB Stain / ZN Stain,FLUID,240,t
+1873,Joint Fluid For C/S,FLUID,600,t
+1874,Ketones(Blood),N/A,600,t
+1875,Ketones(Urine),SPOT URINE,1680,t
+1876,Knee Joint Fluid For AFB C/S,FLUID,1200,t
+1877,Knee Joint Fluid For C/S,FLUID,700,t
+1878,Knee Joint Fluid For AFB Stain / ZN Stain,FLUID,500,t
+1879,Knee Joint Fluid For Analysis,FLUID,1000,t
+1880,Knee Joint Fluid For Gram Stain,FLUID,500,t
+1881,Knee Joint Fluidd For Cytology,FLUID,1000,t
+1882,Lactate Level,3-5 CC CLOTTED BLOOD / SERUM,1440,t
+1883,LE Cell,3 CC EDTA SAMPLE,720,t
+1884,Lead Level,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1885,Legionella Antigen (Urine),SPOT URINE,1600,t
+1886,LEGONELLA ANTIBODIES,SERUM /URINE,1750,t
+1887,Leptospiral IgG Antibodies,3-5 CC CLOTTED BLOOD / SERUM,1560,t
+1888,Leptospiral IgM Antibodies,3-5 CC CLOTTED BLOOD / SERUM,1560,t
+1889,LH,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1890,Lipase (Serum),3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1891,Lipase (Urne),SPOT URINE,700,t
+1892,Lithium,3-5 CC CLOTTED BLOOD / SERUM,1200,t
+1893,Liver Function Test (LFT),3-5 CC CLOTTED BLOOD / SERUM,1250,t
+1894,Lupus Anticoagulant Abs.,CITRATE TUBE (FROM LAB),1900,t
+1895,Magnesium (Serum),3-5 CC CLOTTED BLOOD / SERUM,500,t
+1896,Malarial Parasite,3 CC BLOOD IN EDTA,500,t
+1897,Measels IgG,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1898,Measels IgM,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1899,Metabolic Screening / Disorders (Urine),SPOT URINE / 24 HRS URINE,1500,t
+1900,Metanephrines (Serum),SERUM,1500,t
+1901,Metanephrines (urine),urine,1500,t
+1902,Metanephrines 24 Hours (Urine),24 HOURS URINE,1500,t
+1903,Microalbuminuria (24 Hrs Urine),25 HOURS URINE,960,t
+1904,Microalbuminuria (Spot Urine),SPOT URINE,1000,t
+1905,Milk For Analysis.RT,MILK,1000,t
+1906,Milk For Gram Stain,MILK,260,t
+1907,Milk For Routine Examination.LT,MILK,660,t
+1908,Milk(Leftt) For C/S,MILK,660,t
+1909,Milk(Right) For C/S,MILK,660,t
+1910,Monospot,3-5 CC CLOTTED BLOOD / SERUM,1600,t
+1911,Morphine Derivatives(Urine),SPOT URINE,1680,t
+1912,MTB DNA by PCR,CONTACT TO LAB,3000,t
+1913,MTB DNA BY REAL TIME PCR (QUANTITATIVE),CONTACT TO LAB,6000,t
+1914,Mumps IgG,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1915,Mumps IgM,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1916,Mycodot,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1917,Mycodot IgG,3-5 CC CLOTTED BLOOD / SERUM,1100,t
+1918,Mycodot IgM,3-5 CC CLOTTED BLOOD / SERUM,1100,t
+1919,MYCOPLASMA ANTIBODIES,3-5 CC CLOTTED BLOOD / SERUM,1750,t
+1920,Myoglobin,CONTACT TO LAB,1320,t
+1921,Nail For Fungus Stain,CONTACT TO LAB,800,t
+1922,Nasal Screation C/S,CONTACT TO LAB,600,t
+1923,Nasal Secretion For AFB Stain / ZN Stain,CONTACT TO LAB,260,t
+1924,Nasal Secretion For AFB C/S,CONTACT TO LAB,1200,t
+1925,Nasal Secretion For Gram Stain,CONTACT TO LAB,260,t
+1926,NT Pro Bnp,EDTA BLOOD,2000,t
+1927,Opiates (Urine),SPOT URINE,1980,t
+1928,Osmolality (Serum),3-5 CC CLOTTED BLOOD / SERUM,1440,t
+1929,Osmolality (Urine),24 HRS. URINE / RANDOM,1440,t
+1930,Oxalate (24 Hrs Urine),24 HRS. URINE / RANDOM,2000,t
+1931,Oxalate (Spot Urine),URINE,600,t
+1932,Pap Smear,Pap Smear,1500,t
+1933,Parathyroid Hormone,3-5 CC CLOTTED BLOOD / SERUM,1350,t
+1934,PCR Herpes Qualitative,CSF,3200,t
+1935,PCR Herpes Quantitative,CSF,5000,t
+1936,Pericardial Fluid For AFB Stain / ZN Stain,FLUID,300,t
+1937,Pericardial Fluid For C/E,FLUID,1000,t
+1938,Pericardial Fluid For C/S,FLUID,700,t
+1939,Pericardial Fluid For AFB C/S,FLUID,1200,t
+1940,Pericardial Fluid For Cytology,FLUID,1000,t
+1941,Pericardial Fluid For Gram Stain,FLUID,400,t
+1942,Peripheral Blood Smears,EDTA BLOOD,400,t
+1943,Peritoneal Fluid C/E,FLUID,1000,t
+1944,Peritoneal Fluid For AFB Stain / ZN Stain,FLUID,400,t
+1945,Peritoneal Fluid For C/S,FLUID,700,t
+1946,Peritoneal Fluid For AFB C/S,FLUID,1200,t
+1947,Peritoneal Fluid For Cytology,FLUID,1000,t
+1948,Peritoneal Fluid For Gram Stain,FLUID,400,t
+1949,Ph And Reducing Substance (Stool),STOOL,500,t
+1950,Ph For Urine,SPOT URINE,200,t
+1951,Phosphate,3-5 CC CLOTTED BLOOD / SERUM,300,t
+1952,Phosphorous (Serum),3-5 CC CLOTTED BLOOD / SERUM,300,t
+1953,Plasma Renin Level,EDTA ND SERUM,7100,t
+1954,Pleural Fluid C/E,FLUID,1200,t
+1955,Pleural Fluid For AFB Stain / ZN Stain,FLUID,400,t
+1956,Pleural Fluid For AFB C/S,FLUID,1200,t
+1957,Pleural Fluid For C/S,FLUID,700,t
+1958,Pleural Fluid For Cytology,FLUID,1200,t
+1959,Pleural Fluid For Gram Stain,FLUID,400,t
+1960,Porphyrine (24Hrs),24 HOURS URINE,1000,t
+1961,Porphyrine (Spot Urine),SPOT URINE,1000,t
+1962,Potassium ( 24 Urine ),24 HOURS URINE,600,t
+1963,Potassium (Serum),3-5 CC CLOTTED BLOOD / SERUM,500,t
+1964,PR,NONE,3600,t
+1965,Pregnancy Test,SPOT URINE,200,t
+1966,Progesterone,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1967,Prolactin (Level),3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1968,protein,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1969,Protein (24 Hrs Urine),24 HRS URINE,500,t
+1970,Protein Electrophoresis,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+1971,Protein Electrophorsis (Urine),SPOT URINE,2000,t
+1972,PROTEIN S,sodium citrate(PT Vial),2000,t
+1973,Protein(Serum),SPOT URINE,200,t
+1974,Protein/Creatinine Ratio,SPOT URINE,1000,t
+1975,Protein-C,CITRATE TUBE (FROM LAB),2000,t
+1976,Protein-S,CITRATE TUBE (FROM LAB),2000,t
+1977,Prothrombin Time (Pt With Inr),CITRATE TUBE (FROM LAB),600,t
+1978,PRP,BLOOD,600,t
+1979,PSA,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+1980,PTH,3-5 CC CLOTTED BLOOD / SERUM,1700,t
+1981,Pus For AFB Stain / ZN Stain,N/A,400,t
+1982,Pus For AFB C/S,N/A,1200,t
+1983,Pus For C/S,N/A,1000,t
+1984,Pus For Cytology,N/A,1000,t
+1985,Pus For Gram Stain,N/A,400,t
+1986,Pus Swab For AFB Stain / ZN Stain,N/A,600,t
+1987,Pus Swab For C/S,N/A,700,t
+1988,Pus Swab For Gram Stain,N/A,600,t
+1989,R A Factor Quantitive,3-5 CC CLOTTED BLOOD / SERUM,1080,t
+1990,R A Factor Titre,3-5 CC CLOTTED BLOOD / SERUM,1300,t
+1991,RA Factor,3-5 CC CLOTTED BLOOD / SERUM,600,t
+1992,RBC,3 CC BLOOD IN EDTA,200,t
+1993,RBC Folate Level,4 CC BLOOD IN EDTA,2000,t
+1994,RBC Osmotic Fragility,4 CC BLOOD IN EDTA,1440,t
+1995,Reducing Substances (Urine),SPOT URINE,400,t
+1996,Renal Function Test,3 - 5 cc Serum,600,t
+1997,Rh Antibodies Titre,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+1998,Routine Culture Bile,N/A,600,t
+1999,Routine Culture For Eye Swab,SWAB,600,t
+2000,Semen For AFB Stain / ZN Stain,Semen,240,t
+2001,Semen Analysis,Semen,1000,t
+2002,Semen For C/S,Semen,700,t
+2003,Semen For Gram Stain,Semen,400,t
+2004,Sequestrum For C/S,N/A,700,t
+2005,Serum Electrolytes,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+2006,SGOT (AST),3-5 CC CLOTTED BLOOD / SERUM,250,t
+2007,SGPT (ALT),3-5 CC CLOTTED BLOOD / SERUM,250,t
+2008,SHBG,CONTACT TO LAB,2000,t
+2009,Slide For Review Cytology,CONTACT TO LAB,800,t
+2010,Slide For Review Histopathology,CONTACT TO LAB,1200,t
+2011,Sodium (24Urine),24 HOURS URINE,480,t
+2012,Sodium (Serum),3-5 CC CLOTTED BLOOD / SERUM,300,t
+2013,Specific Gravity,SPOT URINE,200,t
+2014,specimen for culture,N/A,1000,t
+2015,Sputum For AFB Stain / ZN Stain,SPUTUM,500,t
+2016,Sputum For AFB C/S,SPUTUM,1000,t
+2017,Sputum For C/S,SPUTUM,1000,t
+2018,Sputum For Cytology,Sputum,1000,t
+2019,SPUTUM FOR FUNGUS,SPUTUM,900,t
+2020,Sputum For Gram Stain,SPUTUM,500,t
+2021,Stone For C/E,STONE,1000,t
+2022,Stool For C/E,STOOL,500,t
+2023,Stool For C/S,STOOL,1000,t
+2024,Stool For Clostridium Difficile Toxin,STOOL,2000,t
+2025,Stool For Faecal Fat,STOOL,1320,t
+2026,Stool For Occult Blood,STOOL,200,t
+2027,Stool Ph,STOOL,240,t
+2028,Sugar 1 1/2 Hrs,SEPARATE PLASMA OF FLUORIDE,200,t
+2029,Sugar 1 1/2 Hrs. After 75 Grams Glucose,SEPARATE PLASMA OF FLUORIDE,200,t
+2030,Sugar 1 1/2 Hrs Abf,SEPARATE PLASMA OF FLUORIDE,200,t
+2031,Sugar 1 Hour After 50 Grams Glucose,SEPARATE PLASMA OF FLUORIDE,200,t
+2032,Sugar 1 Hour After 75 Grams Glucose,SEPARATE PLASMA OF FLUORIDE,200,t
+2033,Sugar 1 Hour Pp,SEPARATE PLASMA OF FLUORIDE,200,t
+2034,Sugar 1 Hr Abf,SEPARATE PLASMA OF FLUORIDE,200,t
+2035,Sugar 1/2 Hour,SEPARATE PLASMA OF FLUORIDE,200,t
+2036,Sugar 1/2 Hour Abf After 50 Grams Glucose,SEPARATE PLASMA OF FLUORIDE,200,t
+2037,Sugar 1/2 Hour After 75 Grams Glucose,SEPARATE PLASMA OF FLUORIDE,200,t
+2038,Sugar 2 1/2 Hrs,SEPARATE PLASMA OF FLUORIDE,200,t
+2039,Sugar 2 1/2 Hrs ABF,SEPARATE PLASMA OF FLUORIDE,200,t
+2040,Sugar 2 Hrs ABF,SEPARATE PLASMA OF FLUORIDE,200,t
+2041,Sugar 2 Hrs After 50 Grams Glucose,SEPARATE PLASMA OF FLUORIDE,200,t
+2042,Sugar 2 Hrs After 75 Grams Glucose,SEPARATE PLASMA OF FLUORIDE,200,t
+2043,Sugar 2 Hrs. PP,SEPARATE PLASMA OF FLUORIDE,200,t
+2044,Sugar 2 Hrs.(Urine),SPOT URINE,200,t
+2045,Sugar 3 Hrs Abf,SEPARATE PLASMA OF FLUORIDE,200,t
+2046,Sugar 3 Hrs.,SEPARATE PLASMA OF FLUORIDE,200,t
+2047,Sugar 4 Hrs,SEPARATE PLASMA OF FLUORIDE,200,t
+2048,Sugar 5 Hrs,SEPARATE PLASMA OF FLUORIDE,200,t
+2049,Sugar After 1 Hour,SEPARATE PLASMA OF FLUORIDE,200,t
+2050,Sugar After 1 Hrs (Urine),SPOT URINE,200,t
+2051,Sugar After 1-1/2 Hrs (Urine),SPOT URINE,200,t
+2052,Sugar After 2 Hrs,SEPARATE PLASMA OF FLUORIDE,200,t
+2053,Sugar After 3 Hrs,SEPARATE PLASMA OF FLUORIDE,200,t
+2054,Sugar After Dinner,SEPARATE PLASMA OF FLUORIDE,200,t
+2055,Sugar After Lunch,SEPARATE PLASMA OF FLUORIDE,200,t
+2056,Sugar Before Dinner,SEPARATE PLASMA OF FLUORIDE,200,t
+2057,Sugar Before Lunch,SEPARATE PLASMA OF FLUORIDE,200,t
+2058,Sugar Fasting,SEPARATE PLASMA OF FLUORIDE,200,t
+2059,Sugar Fasting (Urine),SPOT URINE,200,t
+2060,Sugar Random,SEPARATE PLASMA OF FLUORIDE,200,t
+2061,Sugar Random (Urine),SPOT URINE,200,t
+2062,Swab For C/S,SWAB,1000,t
+2063,Synovial Fluid C/E,FLUID,1000,t
+2064,Synovial Fluid For AFB Stain / ZN Stain,FLUID,500,t
+2065,Synovial Fluid For C/S,FLUID,700,t
+2066,Synovial Fluid For AFB C/S,FLUID,1200,t
+2067,Synovial Fluid For Cytology,FLUID,1000,t
+2068,Synovial Fluid For Gram Stain,FLUID,500,t
+2069,T I B C,3-5 CC CLOTTED BLOOD / SERUM,500,t
+2070,T3,3-5 CC CLOTTED BLOOD / SERUM,700,t
+2071,T4,3-5 CC CLOTTED BLOOD / SERUM,700,t
+2072,Tacrolimus Level,EDTA SAMPLE,6750,t
+2073,Testosterone,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+2074,Throad Swab For AFB Stain / ZN Stain,SWAB,500,t
+2075,Throat Swab For C/S,FLUID,1000,t
+2076,Throat Swab For Gram Stain,SWAB,500,t
+2077,Thyroglobulin Antibodies,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+2078,Thyroid Peroxidase Antibodies,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+2079,Thyroid Profile,3-5 CC CLOTTED BLOOD / SERUM,2100,t
+2080,THYROXINE LEVEL,3-5 cc clotted Blood or Serum,2000,t
+2081,Tip For C/S,N/A,1000,t
+2082,Tissue For AFB Stain / ZN Stain,TISSUE,500,t
+2083,Tissue For C/S,TISSUE,700,t
+2084,TLC,3 CC BLOOD IN EDTA,200,t
+2085,"Torch Profile IgG,IgM",3-5 CC CLOTTED BLOOD / SERUM,7500,t
+2086,3-5 CC CLOTTED BLOOD / SERUM,3-5 CC CLOTTED BLOOD / SERUM,4000,t
+2087,Torch Profile(IgG),3-5 CC CLOTTED BLOOD / SERUM,4000,t
+2088,Total Protein,3-5 CC CLOTTED BLOOD / SERUM,200,t
+2089,TPHA,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+2090,TPHA ELISA,3-5 CC CLOTTED BLOOD / SERUM,1400,t
+2091,Tracheal Secretion Tip For C/S,N/A,700,t
+2092,Triglycerides,3-5 CC CLOTTED BLOOD / SERUM,200,t
+2093,Triple Test,3-5 CC CLOTTED BLOOD / SERUM,12000,t
+2094,Troponin I,3-5 CC BLOOD IN EDTA,1500,t
+2095,Troponin-T,3-5 CC BLOOD IN EDTA,1500,t
+2096,TSH,3-5 CC CLOTTED BLOOD / SERUM,700,t
+2097,T-Spot Tb Test,CONTACT TO LAB,10000,t
+2098,Typhidot IgG,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+2099,Typhidot IgM,3-5 CC CLOTTED BLOOD / SERUM,1000,t
+2100,"Typhidot Test(IgG,IgM) Serology",3-5 CC CLOTTED BLOOD / SERUM,1000,t
+2101,Urea (Spot Urine),SPOT URINE,400,t
+2102,Urea / Creatinine Ratio,SPOT URINE,1000,t
+2103,Uretheral Swab For C/S,SWAB,700,t
+2104,Uric Acid (24 Hrs Urine),24 HOURS URINE,500,t
+2105,Uric Acid / Creatinine Ratio,SPOT URINE,1000,t
+2106,Urinary Calcium,SPOT URINE,400,t
+2107,Urinary Microalbumin,SPOT URINE,1000,t
+2108,Urine For Cytology,SPOT URINE,900,t
+2109,Urine C/E,SPOT URINE,200,t
+2110,Urine For AFB Stain / ZN Stain,SPOT URINE,500,t
+2111,Urine For AFB C/S,SPOT URINE,1200,t
+2112,Urine For C/S,SPOT URINE,700,t
+2113,Urine For Myoglobulin,SPOT URINE,1500,t
+2114,Urine For Rbc Morphology,SPOT URINE,300,t
+2115,Urine For Reducing Substance,SPOT URINE,600,t
+2116,Urine For TLC(Anti narcotics),SPOT URINE,3000,t
+2117,Urine Sugar,SPOT URINE,160,t
+2118,Valporic Acid (Epival),3-5 CC CLOTTED BLOOD / SERUM,2000,t
+2119,Valproic Acid,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+2120,Vancomycin,3-5 CC CLOTTED BLOOD / SERUM,1500,t
+2121,Varicella Zoster(Chiken Pox) IgM,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+2122,VDRL,3-5 CC CLOTTED BLOOD / SERUM,600,t
+2123,VDRL/RPR ELISA,3-5 CC CLOTTED BLOOD / SERUM,1400,t
+2124,Vit D,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+2125,Vit D3,3-5 CC CLOTTED BLOOD / SERUM,2000,t
+2126,Vitamin B12,FLUID,600,t
+2127,Vitrous Fluid For AFB C/S,FLUID,1200,t
+2128,Vitrous Fluid For Gram Stain,FLUID,500,t
+2129,Vitrous For AFB Stain / ZN Stain,FLUID,500,t
+2130,VLDL (Cholesterol),3-5 CC CLOTTED BLOOD / SERUM,300,t
+2131,VMA (24 Hrs Urine),Urine(Random/Spot),2000,t
+2132,Water For C/S,WATER,700,t
+2133,WBCs,3 CC BLOOD IN EDTA,250,t
+2134,WBCs Morphology,3 CC BLOOD IN EDTA,300,t
+2135,Wound Swab For C/S,FLUID,700,t
+2136,Wound Swab For Gram Stain,SWAB,500,t
+2137,Zinc Level,3-5 CC CLOTTED BLOOD / SERUM,2500,t
+2138,ZN Staining,3-5 CC CLOTTED BLOOD / SERUM,240,t
+2139,"14-3-3 Protein Tau/Theta with Reflex to RT-QuIC Analysis, CSF (LabCorp)",CSF,0,t
+2140,17 Hydroxy Progesterone,Clotted Blood,0,t
+2141,24 hrs. Urine Citric Acid,24 Hour Urine,0,t
+2142,24 Hrs. Urine Copper,24 Hour Urine,0,t
+2143,24 Hrs. Urine Electrolytes,24 Hour Urine,0,t
+2144,24 Hrs. Urine oxalate,24 Hour Urine,0,t
+2145,24 Hrs. Urine VMA,24 Hour Urine,0,t
+2146,"25-Hydroxy Vitamin D (D2+D3 Fractionated), LC/MS-MS (LabCorp)",Clotted Blood,0,t
+2147,25-OH Vitamin D,Clotted Blood,0,t
+2148,5' Nucleotidase (LabCorp),Clotted Blood,0,t
+2149,A.S.O.T,Clotted Blood,0,t
+2150,"a1-Antitrypsin, Fecal, Quantitative (LabCorp)",Stool,0,t
+2151,Abbreviated Blood Picture,Whole Blood-EDTA,0,t
+2152,Acarus Mite Allergy (LabCorp),Serum,0,t
+2153,Acetaminophen (Paracetamol) (LabCorp),Serum,0,t
+2154,"Acetylcholine Receptor (AChR) Antibodies, Complete Profile (LabCorp)",Serum,0,t
+2155,AcetylCholine Receptor Antibodies,Clotted Blood,0,t
+2156,"Acid Phosphatase, Total (LabCorp)",Serum,0,t
+2157,Acid-fast (Mycobacteria) Blood Culture (LabCorp),Whole Blood,0,t
+2158,ACP Stain,Tissue,0,t
+2159,Activated Protein C Resistance (APCR) (LabCorp),Plasma-Citrate,0,t
+2160,"Acylcarnitine Profile, Quantitative, Plasma (LabCorp)",Whole Blood-Heparin,0,t
+2161,ADAMTS13 Activity (LabCorp),Whole Blood-Citrate,0,t
+2162,ADAMTS-13 Antibody (LabCorp),Whole Blood-Citrate,0,t
+2163,"Adenovirus Group Antibodies, Quantitative (LabCorp)",Serum,0,t
+2164,Administration Charges,NONE,0,t
+2165,Adrenal 21-Hydroxylase Autoantibodies (LabCorp),Serum,0,t
+2166,Adrenocorticotropic Hormone (ACTH),EDTA-Plasma,0,t
+2167,AFB Culture Final Report,NONE,0,t
+2168,AFB Stain,Other,0,t
+2169,Alanine-glyoxylate aminotransferase deficiency (primary hyperoxaluria type 1) (deletion/duplication analysis on AGXT gene),Whole Blood,0,t
+2170,Albumin,Clotted Blood,0,t
+2171,Aldolase,NONE,0,t
+2172,Aldosterone Renin Ratio,EDTA Plasma & Clotted Blood,0,t
+2173,Alkaline Phosphatase Isoenzyme (LabCorp),Serum,0,t
+2174,"Alkaline Phosphatase, Bone Specific (LabCorp)",Serum,0,t
+2175,"Allergen Profile, Environmental (LabCorp)",Serum,0,t
+2176,"Allergen Profile, Food-Basic (LabCorp)",Serum,0,t
+2177,"Allergen Profile, Food-Grain (LabCorp)",Serum,0,t
+2178,Allergens Profile Food - Nuts (LabCorp),Serum,0,t
+2179,"Allergens, Perennial (LabCorp)",Serum,0,t
+2180,"Alllergen Profile, Mold (LabCorp)",Serum,0,t
+2181,Almond IgE (LabCorp),Clotted Blood,0,t
+2182,Alpha 1 Antitrypsin,Clotted Blood,0,t
+2183,Alpha Fetoprotein Tetra Profile (LabCorp),Serum,0,t
+2184,"Alpha-2-Antiplasmin, Activity (LabCorp)",Whole Blood-Citrate,0,t
+2185,"Aluminum, Plasma (LabCorp)",Whole Blood-EDTA,0,t
+2186,"Aluminum, Urine (LabCorp)","Urine, Random",0,t
+2187,"Amikacin, Serum (LabCorp)",Serum,0,t
+2188,"Amino Acid Profile, Quantitative, CSF (LabCorp)",CSF,0,t
+2189,"Amino Acid Profile, Quantitative, Urine (LabCorp)","Urine, Random",0,t
+2190,"Amino Acid Profile, Quantitative (LabCorp)",Whole Blood-Heparin,0,t
+2191,"Aminolevulinic Acid (Delta), 24-Hour Urine (LabCorp)",24 Hour Urine,0,t
+2192,"Aminolevulinic Acid (Delta), Random Urine (LabCorp)","Urine, Random",0,t
+2193,Ammonia Level,Whole Blood-EDTA,0,t
+2194,Amoebiasis Antibodies,Clotted Blood,0,t
+2195,"Amphetamine Confirmation, Urine (LabCorp)","Urine, Random",0,t
+2196,Amyloid A Level (Serum) (LabCorp),Clotted Blood,0,t
+2197,ANA (ANF) Screening,Clotted Blood,0,t
+2198,ANA Group Test,Clotted Blood,0,t
+2199,Angiotensin Converting Enzyme,Clotted Blood,0,t
+2200,"Angiotensin-converting Enzyme (ACE), CSF (LabCorp)",CSF,0,t
+2201,"Anti CPA (Cyclic Citrullinated Peptide Antibodies) IgA, IgG, ELISA (LabCorp)",Serum,0,t
+2202,Anti GBM,Clotted Blood,0,t
+2203,Anti mitochondrial Ab (AMA),Clotted Blood,0,t
+2204,Anti Smooth Muscle (ASMA) Antibody (LabCorp),Serum,0,t
+2205,"Antiadrenal Antibodies, Quantitative (LabCorp)",Serum,0,t
+2206,Anti-Centromere B Antibodies (LabCorp),Serum,0,t
+2207,Antichromatin Antibodies (LabCorp),Serum,0,t
+2208,Antidiuretic Hormone (ADH) (LabCorp),EDTA-Plasma,0,t
+2209,"Anti-DNA (Single-stranded) Antibodies, Quantitative, IgG (LabCorp)",Serum,0,t
+2210,Anti-DNase B (Streptococcal) Antibodies (LabCorp),Serum,0,t
+2211,Antiglomerular Basement Membrane Antibodies (LabCorp),Serum,0,t
+2212,Antihistone Antibodies (labCorp),Serum,0,t
+2213,Anti-HMGCR Autoantibodies (HMGCR Abs (3-Hydroxy-3-Methylglutaryl-Coenzyme A Reductase) (LabCorp),Serum,0,t
+2214,Anti-Jo-1 (LabCorp),Serum,0,t
+2215,"Antimony, Urine (LabCorp)","Urine, Random",0,t
+2216,Anti-Mullerian Hormone,Clotted Blood,0,t
+2217,"Anti-MuSK Antibodies, Serum (LabCorp)",Serum,0,t
+2218,Anti-Neutrophil Cytoplasmic Ab,Clotted Blood,0,t
+2219,Antinuclear Antibodies (ANA By IFA) (LabCorp),Serum,0,t
+2220,Antipancreatic Islet Cells (LabCorp),Serum,0,t
+2221,Antiparietal Cell Antibody (LabCorp),Serum,0,t
+2222,"Antiphosphatidylserine, IgA, IgG, IgM (LabCorp)",Serum,0,t
+2223,Anti-SARS-CoV-2 antibodies (Covid-19),Clotted Blood,0,t
+2224,Anti-SARS-CoV-2 antibodies (Covid-19) (Spike Protein antibodies),Clotted Blood,0,t
+2225,"Antiskin Autoantibodies (Pemphigus), Quantitative (LabCorp)",Serum,0,t
+2226,Anti-Sm,Clotted Blood,0,t
+2227,Anti-Spermatozoa Antibodies (LabCorp),Serum,0,t
+2228,Antistriated Muscle Antibodies (LabCorp),Clotted Blood,0,t
+2229,Anti-Tg,Clotted Blood,0,t
+2230,Anti-thrombin,Plasma-Citrate,0,t
+2231,Antithrombin Antigen (LabCorp),Plasma-Citrate,0,t
+2232,Antithrombin Deficiency Profile (LabCorp),Whole Blood-Citrate,0,t
+2233,Antitopoisomerase antibody (Anti Scleroderma 70 QN) (LabCorp),Serum,0,t
+2234,Anti-TPO,Clotted Blood,0,t
+2235,Any Additional Slide For H/E,Tissue,0,t
+2236,APEXIFICATION CA(OH)2 with MTA,NONE,0,t
+2237,APICOECTOMY - ANTERIOR,NONE,0,t
+2238,APICOECTOMY - PREMOLAR/ MOLAR,NONE,0,t
+2239,Apolipoprotein A-1 (LabCorp),Serum,0,t
+2240,Apolipoprotein B,Clotted Blood,0,t
+2241,aPTT,NONE,0,t
+2242,"Arsenic Exposure Profile, Urine (LabCorp)","Urine, Random",0,t
+2243,"Arsenic, Plasma (LabCorp)",Whole Blood-EDTA,0,t
+2244,Arylsulfatase A Deficiency (LabCorp),Whole Blood,0,t
+2245,Ascaris IgE (LabCorp),Clotted Blood,0,t
+2246,Ascitic Fluid R/E,Ascitic Fluid,0,t
+2247,"Aspergillus Antibodies, Quantitative, Double immunodiffusion (DID) (LabCorp)",Serum,0,t
+2248,Aspergillus flavus Antibodies IgG (LabCorp),Serum,0,t
+2249,"Aspergillus Fumigatus Precipitating Antibodies, IgG (LabCorp)",Serum,0,t
+2250,"Aspergillus Niger Precipitating Antibodies, IgG (LabCorp)",Serum,0,t
+2251,AudioGram,NONE,0,t
+2252,Audiometry,NONE,0,t
+2253,B 12 & Folic Acid,Clotted Blood,0,t
+2254,B.N.P,Whole Blood-EDTA,0,t
+2255,B12,Clotted Blood,0,t
+2256,B2 Microglobulin,Clotted Blood,0,t
+2257,"Barium, Plasma (LabCorp)",EDTA-Plasma,0,t
+2258,Basic Foods Allergen Profile (Beef; chocolate; corn; egg (whole); fish/shell mix; milk (cow); peanut; soybean; wheat) (LabCorp),Serum,0,t
+2259,BCL 11 Polymorphism,Whole Blood-EDTA,0,t
+2260,BCR ABL by FISH (NIBD),Whole Blood- Na Heparin,0,t
+2261,BCR ABL BY PCR QUALITATIVE (NIBD),Whole Blood-EDTA,0,t
+2262,"BCR ABL BY PCR,QUANTITATIVE (NIBD)",Whole Blood-EDTA,0,t
+2263,BCR ABL MUTATION ANALYSIS,Whole Blood-EDTA,0,t
+2264,BCR-ABL by GENE XPERT (NIBD),Whole Blood-EDTA,0,t
+2265,"BCR-ABL,  Quantitative (P210 & P190) (NIBD)",Whole Blood-CP,0,t
+2266,"BCR-ABL, Qualitative (NIBD)",Whole Blood-CP,0,t
+2267,Bence Jones Protein,Urine,0,t
+2268,"Benzodiazepine Screen and Confirmation, Urine (LabCorp)","Urine, Random",0,t
+2269,"Benzodiazepines Screening, Whole Blood (LabCorp)",Whole Blood-EDTA,0,t
+2270,"Berrylium, Plasma (LabCorp)",Whole Blood-EDTA,0,t
+2271,Beta Lactoglobulin IgE (LabCorp),Clotted Blood,0,t
+2272,bHCG,Clotted Blood,0,t
+2273,"Bile Acids, Serum (LabCorp)",Serum,0,t
+2274,Bioavailable Testosterone,Clotted Blood,0,t
+2275,Bioavailable Tstosterone (Free and Weakly Bound Testosterone) (LabCorp),Serum,0,t
+2276,Biophysical Profile,NONE,0,t
+2277,BIOPSY (L) Slide Review,Tissue,0,t
+2278,BIOPSY (L) with IHC,Tissue,0,t
+2279,BIOPSY (M) with IHC,Tissue,0,t
+2280,BIOPSY (S) Slide Review,Tissue,0,t
+2281,BIOPSY (S) with IHC,Tissue,0,t
+2282,Biothesiometer Anaylasis,NONE,0,t
+2283,"BK Virus Quantitation, Urine, Real-time PCR (LabCorp)","Urine, Random",0,t
+2284,BKV PCR QUANTITATIVE,Whole Blood-EDTA,0,t
+2285,Blood Alcohol,Clotted Blood,0,t
+2286,Blood Bag Screening,Clotted Blood,0,t
+2287,Blood Culture,Whole Blood,0,t
+2288,Blood Group,Whole Blood-EDTA,0,t
+2289,Blood Urea,Clotted Blood,0,t
+2290,Bone Marrow Aspiration,Bone Marrow,0,t
+2291,Bone Marrow Culture,Bone Marrow,0,t
+2292,Bone Marrow for Chromosomal Breakage,Bone Marrow,0,t
+2293,Bone Marrow Harvest,Whole Blood-EDTA,0,t
+2294,Bone Marrow Procedure,NONE,0,t
+2295,Bone Marrow Trephine (Biopsy),Bone Marrow,0,t
+2296,Bone Profile Extended,Clotted Blood,0,t
+2297,"Bordetella pertussis Antibodies, IgA, IgG, IgM (LabCorp)",Serum,0,t
+2298,"Bordetella pertussis Antibodies, IgG, IgM (LabCorp)",Serum,0,t
+2299,BRAF Gene Mutation (NIBD),Tissue,0,t
+2300,BRCA 1 and BRCA 2 Gene Mutation (Centogene),Whole Blood-CP,0,t
+2301,Bronchial Washing for Fungal Hyphae,Bronchial Washing,0,t
+2302,Brucella Antibodies,Clotted Blood,0,t
+2303,"Brucella Antibody IgG, EIA (LabCorp)",Serum,0,t
+2304,"Brucella Antibody IgM, EIA (LabCorp)",Serum,0,t
+2305,Bullous Pemphigoid 180 and 230 (LabCorp),Clotted Blood,0,t
+2306,C.R.P.,Clotted Blood,0,t
+2307,C3,Clotted Blood,0,t
+2308,C3 Nephretic Factor (LabCorp),Serum,0,t
+2309,CA 19-9,Clotted Blood,0,t
+2310,"Cadmium, Blood (LabCorp)",Whole Blood-EDTA,0,t
+2311,"Cadmium, Urine (LabCorp)","Urine, Random",0,t
+2312,"Calcitriol (1,25 di-OH Vitamin D) (LabCorp)",Serum,0,t
+2313,Calcium,Clotted Blood,0,t
+2314,Calprotectin,Stool,0,t
+2315,Calreticulin (CALR) Mutation Analysis (NIBD),Whole Blood-EDTA,0,t
+2316,CALRETICULIN MUTATION ANALYSIS,Whole Blood-EDTA,0,t
+2317,Campylobacter Jejuni Antibody (LabCorp),Serum,0,t
+2318,Cancer Antigen (CA) 27.29 (LabCorp),Serum,0,t
+2319,"Candida albicans and Candida glabrata, NAA (LabCorp)",Vaginal Swab,0,t
+2320,Candida Antibodies IgA (LabCorp),Serum,0,t
+2321,Candida antibodies IgM (LabCorp),Serum,0,t
+2322,"Candida Antibodies, IgA, IgG, IgM, ELISA (LabCorp)",Clotted Blood,0,t
+2323,Candida IgG (LabCorp),Serum,0,t
+2324,Carbamazepine (Tegretol),Clotted Blood,0,t
+2325,Cardaic Consultancy fee,NONE,0,t
+2326,"Carnitine, Total and Free (LabCorp)","Plasma, Heparin",0,t
+2327,"Carotene, Beta (LabCorp)",Serum,0,t
+2328,Carotid Doppler,NONE,0,t
+2329,Cashew Nut IgE (LabCorp),Clotted Blood,0,t
+2330,"Catecholamines, Fractionated, Urinary Free, 24 Hour Urine (LabCorp)",24 Hour Urine,0,t
+2331,"Catecholamines, Fractionated, Urinary Free, Random Urine (LabCorp))","Urine, Random",0,t
+2332,"Catecholamines, Plasma (LabCorp)","Plasma, Heparin",0,t
+2333,"Celiac Disease Antibody Profile I (tissue transglutaminase (tTG), IgA; tissue transglutaminase (tTG), IgG (LabCorp)",Serum,0,t
+2334,Celiac Profile,Clotted Blood,0,t
+2335,Cento DX Screening (Centogene),NONE,0,t
+2336,Centosome (Whole Exome Sequencing) (Centogene),Whole Blood,0,t
+2337,Chem 7 (Fasting),Clotted Blood,0,t
+2338,Chem 7 (Random),Clotted Blood,0,t
+2339,CHIMERISM,Whole Blood-EDTA & BUCCAL CELLs,0,t
+2340,"Chlamydia Antibodies, IgG (LabCorp)",Serum,0,t
+2341,"Chlamydia trachomatis Antibodies, IgM (LabCorp)",Serum,0,t
+2342,"Chlamydia trachomatis, NAA (LabCorp)",Cervical Cells,0,t
+2343,"Chlamydia trachomatis, Neisseria gonorrhoeae, Trichomonas vaginalis, and Herpes Simplex Virus (HSV) Types 1 and 2, NAA (LabCorp)",Cervical Cells,0,t
+2344,"Chlamydia trachomatis, Neisseria gonorrhoeae, and Trichomonas vaginalis, NAA (LabCorp)",Cervical Cells,0,t
+2345,"Chlamydia/Gonococcus, NAA (PCR) (LabCorp)",Cervical Cells,0,t
+2346,"Cholinesterase, RBC (LabCorp)",Whole Blood-EDTA,0,t
+2347,"Cholinesterase, Serum (LabCorp)",Serum,0,t
+2348,"Chromium, Plasma (LabCorp)",Whole Blood-EDTA,0,t
+2349,"Chromium, Urine (LabCorp)","Urine, Random",0,t
+2350,Chromogranin A (LabCorp),Serum,0,t
+2351,Clonazepam (LabCorp),Serum,0,t
+2352,CMV BY PCR (QUANTITATIVE),Whole Blood-EDTA,0,t
+2353,CMV Qualitative DNA Detection,Whole Blood-EDTA,0,t
+2354,CMV Quantitative DNA detection,Whole Blood-EDTA,0,t
+2355,"Cobalt, Plasma (LabCorp)",Whole Blood-EDTA,0,t
+2356,"Cocaine Metabolite Confirmation, Urine (LabCorp)","Urine, Random",0,t
+2357,Coconut IgE (LabCorp),Clotted Blood,0,t
+2358,"Coenzyme Q10, Total (LabCorp)",Plasma - Heparin,0,t
+2359,"Complement (CH50), Total (LabCorp)",Serum,0,t
+2360,Complement 6 Level (LabCorp),EDTA-Plasma,0,t
+2361,Complement C1 Esterase Inhibitor (LabCorp),Serum,0,t
+2362,"Complement C1q, Quantitative (LabCorp)",Serum,0,t
+2363,Complement C2 (LabCorp),Serum,0,t
+2364,Complement C5 Functional (LabCorp),Serum,0,t
+2365,Complement C7 Level (LabCorp),EDTA-Plasma,0,t
+2366,Congo Red,Tissue,0,t
+2367,Coombs Direct,Whole Blood-EDTA,0,t
+2368,Coombs Indirect,Clotted Blood,0,t
+2369,"Copper, Liver (LabCorp)",Tissue/Block,0,t
+2370,"Copper, Plasma (LabCorp)",EDTA-Plasma,0,t
+2371,Corticosterone (LabCorp),Serum,0,t
+2372,Corticotropin Releasing Factor/Hormone (LabCorp),EDTA-Plasma,0,t
+2373,"Cortisol, Free, Serum (LabCorp)",Serum,0,t
+2374,"Cortisol, Urinary Free (LabCorp)",24 Hour Urine,0,t
+2375,Covid-19 Antibody IgG,NONE,0,t
+2376,Covid-19 Antibody IgM,NONE,0,t
+2377,COVID-19 PCR Qualitative,"Nasopharyngeal Swab, Oropharyngeal Swab, Sputum, bronchial secretions",0,t
+2378,COVID-19 PCR Qualitative.,"Nasopharyngeal Swab, Oropharyngeal Swab, Sputum, bronchial secretions",0,t
+2379,Coxsackie Virus Group B Antibodies (LabCorp),Serum,0,t
+2380,CP for Dengue,Whole Blood-EDTA,0,t
+2381,C-Peptide Level,Clotted Blood,0,t
+2382,"Creatine Kinase (CK), Total Plus Isoenzymes (LabCorp)",Serum,0,t
+2383,Cross Match,Clotted Blood,0,t
+2384,Cryptosporidium,Stool,0,t
+2385,CSF for Culture,CSF,0,t
+2386,CSF IgG,CSF,0,t
+2387,CSF IgM,CSF,0,t
+2388,CSF Protein,CSF,0,t
+2389,CSF R.E,CSF,0,t
+2390,CT ABDOMEN AND PELVIS WITH CONTRAST,NONE,0,t
+2391,CT ABDOMEN WITH CONTRAST,NONE,0,t
+2392,CT ABDOMEN WITHOUT CONTRAST,NONE,0,t
+2393,CT ALL JOINTS 3-D WITHOUT CONTRAST (PLEASE SPECIFY THE REGION IN REMARKS),NONE,0,t
+2394,CT ANGIO UPPER EXTREMETY,NONE,0,t
+2395,CT ANGIOGRAM (ABDOMINAL AORTA AND PELVIS),NONE,0,t
+2396,CT ANGIOGRAM (EXTRACRANIAL/NECK/CAROTID),NONE,0,t
+2397,CT ANGIOGRAM (RENAL/MESNETERIC/HEPATIC),NONE,0,t
+2398,CT ANGIOGRAM (THORACIC AORTA AND CHEST),NONE,0,t
+2399,"CT AORTOGRAM RUNOFF (ABDOMEN,PELVIS AND BILATERAL EXTREMITY)",NONE,0,t
+2400,"CT BIPHASIC, CCT LIVER (SPECIALLY FOR HCC)",NONE,0,t
+2401,CT BRAIN AND ORBITS WITH CONTRAST,NONE,0,t
+2402,CT BRAIN AND ORBITS WITHOUT CONTRAST,NONE,0,t
+2403,CT BRAIN CTV,NONE,0,t
+2404,CT BRAIN WITH CONTRAST,NONE,0,t
+2405,CT BRAIN WITHOUT CONTRAST,NONE,0,t
+2406,CT CHEST + LIVER TRIPHACE WITH CONTRAST,NONE,0,t
+2407,CT Chest without contrast,NONE,0,t
+2408,CT CHEST & ABDOMEN + PELVIS WITH CONTRAST,NONE,0,t
+2409,CT CHEST & ABDOMEN WITH CONTRAST,NONE,0,t
+2410,CT CHEST & ABDOMEN WITHOUT CONTRAST,NONE,0,t
+2411,CT CHEST HIGH RESOLUTION (HRCT CHEST),NONE,0,t
+2412,CT CHEST THORAX WITH CONTRAST,NONE,0,t
+2413,CT CHEST THORAX WITHOUT CONTRAST,NONE,0,t
+2414,"CT CHEST, ABDOMEN & PELVIS WITH & WITHOUT CONTRAST",NONE,0,t
+2415,CT CORONARY ANGIO,NONE,0,t
+2416,CT CORONARY CALCIUM SCORING,NONE,0,t
+2417,CT DUPLICATE FILM (PER COPY),NONE,0,t
+2418,CT FACE WITH CONTRAST,NONE,0,t
+2419,CT FACE WITHOUT CONTRAST,NONE,0,t
+2420,CT HEAD AND FACE WITH CONTRAST,NONE,0,t
+2421,CT HEAD AND FACE WITHOUT CONTRAST,NONE,0,t
+2422,CT HEAD AND NECK WITH CONTRAST,NONE,0,t
+2423,CT HEAD AND NECK WITHOUT CONTRAST,NONE,0,t
+2424,CT INNER EAR WITH CONTRAST,NONE,0,t
+2425,CT INNER EAR WITHOUT CONTRAST,NONE,0,t
+2426,CT INTRANCRANIAL ANGIOGRAM,NONE,0,t
+2427,CT KUB without contrast,NONE,0,t
+2428,CT LIVER TRIPHACE (FOR TRANSPLANT DONER),NONE,0,t
+2429,CT LOWER EXTREMITY WITH CONTRAST,NONE,0,t
+2430,CT LOWER LIMB WITHOUT CONTRAST (SPECIFY THE REGION IN REMARKS),NONE,0,t
+2431,CT NECK AND CHEST WITH CONTRAST,NONE,0,t
+2432,CT NECK AND CHEST WITHOUT CONTRAST,NONE,0,t
+2433,CT NECK WITH CONTRAST,NONE,0,t
+2434,CT NECK WITHOUT CONTRAST,NONE,0,t
+2435,"CT NECK, CHEST, ABDOMEN AND PELVIS WITH CONTRAST",NONE,0,t
+2436,"CT NECK, CHEST, ABDOMEN AND PELVIS WITHOUT CONTRAST",NONE,0,t
+2437,CT PANCREAS DYNAMIC 3 PHASE,NONE,0,t
+2438,CT PARANASAL SINUSES WITH CONTRAST,NONE,0,t
+2439,CT PARANASAL SINUSES WITHOUT CONTRAST ONLY,NONE,0,t
+2440,CT PELVIMETERY PLANNING,NONE,0,t
+2441,CT PELVIS WITH CONTRAST,NONE,0,t
+2442,CT PELVIS WITHOUT CONTRAST,NONE,0,t
+2443,CT PITUITARY FOSSA WITH CONTRAST,NONE,0,t
+2444,CT PITUITARY FOSSA WITHOUT CONTRAST,NONE,0,t
+2445,CT PULMONARY ANGIOGRAM WITH CONTRAST,NONE,0,t
+2446,CT PULMONARY ANGIOGRAM+CHEST WITH CONTRAST,NONE,0,t
+2447,CT RENAL ANGIOGRAM (FORE TRANSPLANT DONER),NONE,0,t
+2448,CT Scan,NONE,0,t
+2449,CT Scan Calcium Scoring for coronary,NONE,0,t
+2450,CT SCAN REPORTING ONLY (PER STUDY),NONE,0,t
+2451,CT SPINE WITHOUT CONTRAST (SPECIFY THE REGION IN REMARKS),NONE,0,t
+2452,CT TRIPHASIC CCT LIVER (SPECIALLY FOR LIVER),NONE,0,t
+2453,CT UPPER LIMB WITH CONTRAST,NONE,0,t
+2454,CT UROGRAPHY WITH CONTRAST,NONE,0,t
+2455,CT UROGRAPHY WITHOUT CONTRAST ONLY,NONE,0,t
+2456,C-Telopeptide (LabCorp),Serum,0,t
+2457,ctKRAS Mutation Assay (NIBD),Whole Blood-EDTA,0,t
+2458,Culture of Fluid,Fluid,0,t
+2459,Culture of Swab,NONE,0,t
+2460,"Cyanide, Occupational Exposure (LabCorp)",Whole Blood-EDTA,0,t
+2461,Cyclosporine,Whole Blood-EDTA,0,t
+2462,Cystatin C (LabCorp),Serum,0,t
+2463,Cystic Fibrosis 508 Mutation,Whole Blood-EDTA,0,t
+2464,"Cysticercosis Ab, IgG (LabCorp)",Serum,0,t
+2465,"Cysticercosis Ab,IgG,ELISA,CSF (LabCorp)",CSF,0,t
+2466,CYTOGENETICS FOR PHILADELPHIA CHROMOSOME (NIBD),Whole Blood- Na Heparin,0,t
+2467,Cytogenetics from Bone Marrow (NIBD),Bone Marrow,0,t
+2468,Cytogenetics/Karyotyping from Blood (NIBD),Whole Blood- Na Heparin,0,t
+2469,Cytology,Other,0,t
+2470,Cytology Slide Review,Slides,0,t
+2471,Cytology Stain Per Slide,Tissue,0,t
+2472,"Cytomegalovirus (CMV), Qualitative, PCR (LabCorp)",Whole Blood-EDTA,0,t
+2473,"Cytomegalovirus (CMV), Quantitative, Plasma, PCR (LabCorp)",EDTA-Plasma,0,t
+2474,"Cytomegalovirus (CMV), Quantitative, Urine, PCR (LabCorp)","Urine, Random",0,t
+2475,Date IgE (LabCorp),Clotted Blood,0,t
+2476,D-Dimer.,Whole Blood-Citrate,0,t
+2477,Dehydroepiandrosterone (DHEA) (LabCorp),Serum,0,t
+2478,DEL 11q BY FISH (NIBD),Whole Blood-Na Heparin,0,t
+2479,DEL 17p53 by FISH (NIBD),Whole Blood- Na Heparin,0,t
+2480,DEL 5q by FISH (NIBD),Whole Blood- Na Heparin,0,t
+2481,Delta –Beta Thalessmia (NIBD),Whole Blood-EDTA,0,t
+2482,Dengue NS-1 Antigen,Clotted Blood,0,t
+2483,Dengue Virus IgM (Quantitative),Clotted Blood,0,t
+2484,Deoxycorticosterone (LabCorp),Serum,0,t
+2485,"Deoxycortisol, LC/MS-MS (LabCorp)",Serum,0,t
+2486,Detection of Quantitative HIV by PCR (LabCorp),EDTA-Plasma,0,t
+2487,Dexa Scan,NONE,0,t
+2488,"Dexamethasone, Plasma (LabCorp)",Whole Blood-EDTA,0,t
+2489,DHEA-SO4,Clotted Blood,0,t
+2490,Digoxin (Lanoxin),Clotted Blood,0,t
+2491,Dihydrotestosterone (DHT) (LabCorp),Serum,0,t
+2492,Direct Bilirubin,Clotted Blood,0,t
+2493,DMD/BMD BY PCR,Whole Blood-EDTA,0,t
+2494,DNA MUTATION DELTA/BETA THALASSEMIA,Whole Blood-EDTA,0,t
+2495,DNA Mutations Analysis for Alpha Thalessmia (NIBD),Whole Blood-EDTA,0,t
+2496,DNA Mutations Analysis for Beta Thalessmia (NIBD),Whole Blood-EDTA,0,t
+2497,DNA Sampling for Cellmark,Others,0,t
+2498,DNA Sampling for Kings College,Buccal Swab,0,t
+2499,"Dopamine, Urine (LabCorp)",24 Hour Urine,0,t
+2500,Doppler Abdominal Aorta and llic Vessels,NONE,0,t
+2501,Doppler Fetal Umbilical Artery and MCA Ltd,NONE,0,t
+2502,Doppler IVC and Renal Veins,NONE,0,t
+2503,Doppler Lower Extremity Arterial Both,NONE,0,t
+2504,Doppler Lower Extremity Arterial Single,NONE,0,t
+2505,Doppler Lower Extremity Vein Maping,NONE,0,t
+2506,Doppler Lower Extremity Venous Both,NONE,0,t
+2507,Doppler Lower Extremity Venous Single,NONE,0,t
+2508,Doppler Mesenteric Vessels,NONE,0,t
+2509,Doppler Portal and Hepatic Veins,NONE,0,t
+2510,Doppler Renal Artey Stenosis Evaluation,NONE,0,t
+2511,Doppler Upper Extremity Arterial Both,NONE,0,t
+2512,Doppler Upper Extremity Arterial Single,NONE,0,t
+2513,Doppler Upper Extremity Vein Maping,NONE,0,t
+2514,Doppler Upper Extremity Venous Both,NONE,0,t
+2515,Doppler Upper Extremity Venous Single,NONE,0,t
+2516,DOWNS SYNDROME BY PCR,Whole Blood-EDTA,0,t
+2517,"Drug Abuse Profile, Urine (Seven Drugs + Alcohol) (LabCorp)",Urine Random,0,t
+2518,Ear Swab Culture,Ear Swab,0,t
+2519,EBNA IgG,Clotted Blood,0,t
+2520,EBV PCR QUANTITATIVE,Whole Blood-EDTA,0,t
+2521,EBV Viral Capsid Antigen (VCA) IgM,Clotted Blood,0,t
+2522,E-Cadherin,NONE,0,t
+2523,ECG,NONE,0,t
+2524,ECG from Dr. Nadeem,NONE,0,t
+2525,ECG with Cardiologist review,NONE,0,t
+2526,Echinococcus IgG,Clotted Blood,0,t
+2527,ECHO,NONE,0,t
+2528,ENDO-Hemisectioning & preparation for crown (not including RCT),NONE,0,t
+2529,Endomysial Ab Titer IgA + IgG (LabCorp),Serum,0,t
+2530,Endomysial IgA,Clotted Blood,0,t
+2531,Epidermal Growth Factor Receptor (EGFR) Gene Mutation (NIBD),Tissue,0,t
+2532,"Epstein-Barr Virus (EBV), Quantitative, PCR (LabCorp)",EDTA-Plasma,0,t
+2533,Epstein-Barr Virus Acute Infection Antibodies Profile (LabCorp),Serum,0,t
+2534,"ER, PR, HER2 Neu",Tissue,0,t
+2535,"Erythropoietin (EPO), Serum (LabCorp)",Serum,0,t
+2536,Erythropoietin Level,Clotted Blood,0,t
+2537,Estimated Glomerular Filtration Rate,Clotted Blood,0,t
+2538,"Estradiol (E2), Sensitive, LC/MS (LabCorp)",Serum,0,t
+2539,"Estriol, Serum (LabCorp)",Serum,0,t
+2540,Estrogen Progesterone Receptor,Tissue,0,t
+2541,Estrogen Receptor,Tissue,0,t
+2542,Euglobulin Lysis Time - ELT (LabCorp),Plasma-Citrate,0,t
+2543,Everolimus (Certican),Whole Blood-EDTA,0,t
+2544,F.D.P.,Whole Blood-Citrate,0,t
+2545,"Factor II (Prothrombin), DNA Analysis (LabCorp)",Whole Blood-EDTA,0,t
+2546,Factor IX Activity (LabCorp),Plasma-Citrate,0,t
+2547,Factor IX Antigen (LabCorp),Plasma-Citrate,0,t
+2548,Factor V Activity (Proaccelerin) (LabCorp),Plasma-Citrate,0,t
+2549,Factor V Leiden,Citrate - Plasma,0,t
+2550,Factor VII Activity (Proconvertin) (LabCorp),Plasma-Citrate,0,t
+2551,Factor VIII,Whole Blood-Citrate,0,t
+2552,Factor VIII Antigen (LabCorp),Plasma-Citrate,0,t
+2553,Factor X Antigen (LabCorp),Plasma-Citrate,0,t
+2554,Factor XI Activity (LabCorp),Plasma-Citrate,0,t
+2555,Factor XII Activity (LabCorp),Plasma-Citrate,0,t
+2556,Factor XIII Activity (LabCorp),Plasma-Citrate,0,t
+2557,Fanconi Anaemia Cytogenetics / Chromosomal Breakages (NIBD),Whole Blood- Na Heparin,0,t
+2558,Filaria IgG4 Antibodies (LabCorp),Serum,0,t
+2559,Fluid A/G Ratio,Fluid,0,t
+2560,Fluid ADA (Adenosine Deaminase),Fluid,0,t
+2561,Fluid Albumin,Fluid,0,t
+2562,Fluid Amylase,Fluid,0,t
+2563,Fluid for Cell Count,Fluid,0,t
+2564,Fluid for Crystals,Fluid,0,t
+2565,Fluid For Fungal Hyphae,Fluid,0,t
+2566,Fluid Glucose,Fluid,0,t
+2567,Fluid LDH,Fluid,0,t
+2568,Fluid Lipase,Fluid,0,t
+2569,Fluid pH,Fluid,0,t
+2570,Fluid Protein,Fluid,0,t
+2571,Fluid R.E,Fluid,0,t
+2572,Fluid RBC,Fluid,0,t
+2573,Fluorescent Treponemal Antibody (FTA-ABS) by Absorption (LabCorp),Serum,0,t
+2574,Folic Acid,Clotted Blood,0,t
+2575,"Fragile X Syndrome, PCR (LabCorp)",Whole Blood-EDTA,0,t
+2576,"Free Fatty Acid, (Non-esterified) (LabCorp)",Serum,0,t
+2577,"Free Kappa and Lambda Light Chains Plus Ratio, Quantitative (LabCorp)",Serum,0,t
+2578,"Free Light Chains Plus Ratio, Quantitative, Urine (LabCorp)","Urine, Random",0,t
+2579,Free T-3,Clotted Blood,0,t
+2580,Free T-4,Clotted Blood,0,t
+2581,Fresh Frozen Plasma (Fresh),Whole Blood,0,t
+2582,Fresh Frozen Plasma (STORED),Whole Blood,0,t
+2583,Fructosamine (LabCorp),Serum,0,t
+2584,"Fungal Antibodies, Quantitative (LabCorp)",Clotted Blood - Serum,0,t
+2585,Fungal Culture (LabCorp),Stool,0,t
+2586,Garlic IgE (LabCorp),Clotted Blood,0,t
+2587,"Ghrelin Total, Plasma (LabCorp)",Whole Blood - GI,0,t
+2588,Giemsa,Tissue,0,t
+2589,Gliadin (Deamidated) IgA,Clotted Blood,0,t
+2590,Gliadin (Deamidated) IgG,Clotted Blood,0,t
+2591,Globulin,Clotted Blood,0,t
+2592,"Glucagon, Plasma (LabCorp)",Plasma with Trasylol®,0,t
+2593,Glucose (2Hrs) Post Dinner,Whole Blood,0,t
+2594,Glucose (2Hrs) Post Lunch,Whole Blood,0,t
+2595,Glucose (Fasting),Whole Blood,0,t
+2596,Glucose (R) Pre Dinner,Whole Blood,0,t
+2597,Glucose (R) Pre Lunch,Whole Blood,0,t
+2598,Glucose (Random),Clotted Blood,0,t
+2599,Glucose 2hrpp,Clotted Blood,0,t
+2600,Glucose Random 1 Hr,Clotted Blood,0,t
+2601,Glucose Tolerance Test (100g),Whole Blood,0,t
+2602,Glucose Tolerance Test (75g),Whole Blood,0,t
+2603,Glutamic Acid Decarboxylase (GAD) Autoantibody (LabCorp),Serum,0,t
+2604,Gluten Allergy (LabCorp),Serum,0,t
+2605,Glycogen Storage Disease 1a (LabCorp),Whole Blood-EDTA,0,t
+2606,Glycosylated Hb (HbA1C),Whole Blood-EDTA,0,t
+2607,"GM1 Antibody IgG, IgM (LabCorp)",Serum,0,t
+2608,GMS,Tissue,0,t
+2609,GQ1b Antibody IgG (LabCorp),Serum,0,t
+2610,Green Bean IgE (LabCorp),Clotted Blood,0,t
+2611,H. Pylori (Stool) Antigen-Quantitative,Stool,0,t
+2612,H. Pylori IgG (Quantitative),Clotted Blood,0,t
+2613,"H. Pylori Antibodies, IgA, IgG, IgM (LabCorp)",Serum,0,t
+2614,"H. pylori, IgM Ab (LabCorp)",Serum,0,t
+2615,"Haemophilus influenzae B, IgG (LabCorp)",Serum,0,t
+2616,Hair for Fungal Hyphae,Hair,0,t
+2617,"Haloperidol (Haldol), Serum (LabCorp)",Serum,0,t
+2618,Haptoglobin (LabCorp),Serum,0,t
+2619,Hb Abnormality Evaluation and Consultation,Whole Blood-EDTA,0,t
+2620,HBsAg & HCVAb,Clotted Blood,0,t
+2621,HBV DNA Qualitative Assay,Clotted Blood - PCR,0,t
+2622,HBV DNA Quantitative Assay,Clotted Blood - PCR,0,t
+2623,HCV Ab,Clotted Blood,0,t
+2624,HCV RNA Qualitative Assay,Clotted Blood - PCR,0,t
+2625,HCV RNA Quantitative Assay,Clotted Blood - PCR,0,t
+2626,HDL Cholesterol,Clotted Blood,0,t
+2627,HDV BY PCR,Whole Blood-EDTA,0,t
+2628,HDV RNA (Qualitative),Clotted Blood,0,t
+2629,HDV RNA (Quantitative),Clotted Blood,0,t
+2630,Hematocrit,Whole Blood-EDTA,0,t
+2631,HEMOCHROMATOSIS GENE (HFE),Whole Blood-EDTA,0,t
+2632,Hemoglobin,Whole Blood-EDTA,0,t
+2633,Hemoglobinopathy Fractionation Profile (LabCorp),Whole Blood-EDTA,0,t
+2634,Hemoglobinopathy Fractionation Profile Without Solubility (LabCorp),Whole Blood-EDTA,0,t
+2635,Hemopoietic Progenitor Cells,Whole Blood-EDTA,0,t
+2636,Hep A Virus IgG,Clotted Blood,0,t
+2637,Hep A Virus IgM,Clotted Blood,0,t
+2638,Hep B Core IgM,Clotted Blood,0,t
+2639,Hep B Core Total,Clotted Blood,0,t
+2640,Hep Be Antibody,Clotted Blood,0,t
+2641,Hep Be Antigen,Clotted Blood,0,t
+2642,Hep Bs Ag (Qualitative),Clotted Blood,0,t
+2643,Hep Bs Antibody,Clotted Blood,0,t
+2644,Hep. B Profile,Clotted Blood,0,t
+2645,Heparin-induced Platelet Antibody (HIPA) (LabCorp),Serum,0,t
+2646,Hepatitis D IgM (LabCorp),Serum,0,t
+2647,Hepatitis Delta Virus (HDV) Antibodies,Clotted Blood,0,t
+2648,Hepatitis E virus IgG,Clotted Blood,0,t
+2649,Hepatitis E virus IgM,Clotted Blood,0,t
+2650,"Hepatitis.D Virus RNA,Qualitative RT PCR (LabCorp)",Serum,0,t
+2651,"HepB, HCV, HIV",Clotted Blood,0,t
+2652,Hereditary Angioedema (HAE) (LabCorp),Serum,0,t
+2653,"Hereditary Hemochromatosis, DNA Analysis (LabCorp)",Whole Blood-EDTA,0,t
+2654,"Herpes Simplex Virus (HSV) Type 2-Specific Antibodies, IgG (LabCorp)",Serum,0,t
+2655,"Herpes Simplex Virus (HSV) Types 1 and 2, IgM Antibodies, Indirect (LabCorp)",Serum,0,t
+2656,"Herpes Simplex Virus (HSV) Types 1 and 2, NAA (LabCorp)",Cervical Cells,0,t
+2657,"Herpes Simplex Virus (HSV) Types 1/2, DNA PCR (LabCorp)",Whole Blood-EDTA,0,t
+2658,"Herpes Simplex Virus (HSV) Types 1-/2-Specific Antibodies, IgG (LabCorp)",Serum,0,t
+2659,HERPES SIMPLEX VIRUS BY PCR,Whole Blood-EDTA,0,t
+2660,Hexagonal Phase Phospholipid (LabCorp),"Plasma, Citrate",0,t
+2661,High Sensitive CRP,Clotted Blood,0,t
+2662,High Sensitive Troponin I,Clotted Blood,0,t
+2663,High-risk HPV With HPV Genotypes 16 and 18 (Cobas®) (LabCorp),Cervical Cells,0,t
+2664,"Histamine Determination, Whole Blood (LabCorp)",Whole Blood-Heparin,0,t
+2665,"Histoplasma Galactomannan Antigen EIA, Serum (LabCorp)",Serum,0,t
+2666,HIV Antigen/Antibody I&II,Clotted Blood,0,t
+2667,HLA B27 PCR,Whole Blood-EDTA,0,t
+2668,HLA CLASS I,Whole Blood-EDTA,0,t
+2669,HLA CLASS I & II (PACKAGE),Whole Blood-EDTA,0,t
+2670,HLA Class I &II Antibody Screen (LabCorp),Serum,0,t
+2671,HLA CLASS II,Whole Blood-EDTA,0,t
+2672,HLA D/R,Whole Blood-EDTA,0,t
+2673,HLA DQ2-DQ8 (NIBD),Whole Blood-EDTA,0,t
+2674,"HLA DRB1,3,4,5 Intermediate Resolution (LabCorp)",Whole Blood-EDTA,0,t
+2675,HLA I & II by PCR (NIBD),Whole Blood-EDTA,0,t
+2676,HLA-A Intermediate Resolution (LabCorp),Whole Blood-EDTA,0,t
+2677,HLA-B Intermediate Resolution (LabCorp),Whole Blood-EDTA,0,t
+2678,Home Collection Charges,NONE,0,t
+2679,Homocysteine,Clotted Blood,0,t
+2680,"Homocystine Quantitative, Urine (LabCorp)","Urine, Random",0,t
+2681,"Homovanillic Acid (HVA), 24-Hour Urine (LabCorp)",24 Hour Urine,0,t
+2682,HPV BY GENE XPERT,VIGINAL SWAB,0,t
+2683,HS1+HS2+VZV COMBO BY PCR (QUALITATIVE),Whole Blood-EDTA,0,t
+2684,HSV I&II by PCR,CSF,0,t
+2685,HSV I/II IgM,Clotted Blood,0,t
+2686,Human Papillomavirus (HPV) High- and Low-risk DNA Detection (LabCorp),Cervical Cells,0,t
+2687,Human Papillomavirus (HPV) High-risk DNA Detection (LabCorp),Cervical Cells,0,t
+2688,Human Placental Lactogen (HPL) (LabCorp),Serum,0,t
+2689,"Human T-Cell Lymphotropic Virus 1, 2 (HTLV-1/HTLV-2) Antibodies (LabCorp)",Serum,0,t
+2690,Huntington Disease Mutation (LabCorp),Whole Blood-EDTA,0,t
+2691,HVS C/S with procedure,NONE,0,t
+2692,HVS for Culture,NONE,0,t
+2693,Hydrafacial plain,NONE,0,t
+2694,Hydrafacial with serum,NONE,0,t
+2695,"Hydroxypregnenolone, Mass Spectrometry (LabCorp)",Serum,0,t
+2696,IA-2 Autoantibodies (LabCorp),Serum,0,t
+2697,ICT MP,Whole Blood-EDTA,0,t
+2698,ICT TB,Clotted Blood,0,t
+2699,"IgA, IgE, IgG, IgM",Clotted Blood,0,t
+2700,IHC-AE1/AE3,Tissue,0,t
+2701,IHC-AFP (Alpha Feto Protein),Tissue,0,t
+2702,IHC-ASMA,Tissue,0,t
+2703,IHC-BCL-2,Tissue,0,t
+2704,IHC-bHCG,Tissue,0,t
+2705,IHC-CA125,Tissue,0,t
+2706,IHC-Calritinin,Tissue,0,t
+2707,IHC-CD-10,Tissue,0,t
+2708,IHC-CD-117,Tissue,0,t
+2709,IHC-CD-15,Tissue,0,t
+2710,IHC-CD-2,Tissue,0,t
+2711,IHC-CD-20,Tissue,0,t
+2712,IHC-CD-3,Tissue,0,t
+2713,IHC-CD-30,Tissue,0,t
+2714,IHC-CD-34,Tissue,0,t
+2715,IHC-CD-45,Tissue,0,t
+2716,IHC-CD-5,Tissue,0,t
+2717,IHC-CD-56,Tissue,0,t
+2718,IHC-CD-66e (CEA),Tissue,0,t
+2719,IHC-CD-68,Tissue,0,t
+2720,IHC-CD-99,Tissue,0,t
+2721,IHC-CDX2,Tissue,0,t
+2722,IHC-Chromogranin,Tissue,0,t
+2723,IHC-CHROMOGRANIN,Tissue,0,t
+2724,IHC-CK20,Tissue,0,t
+2725,IHC-CK7,Tissue,0,t
+2726,IHC-CyclinD 1,Tissue,0,t
+2727,IHC-Desmin,Tissue,0,t
+2728,IHC-EMA,Tissue,0,t
+2729,IHC-GFAP,Tissue,0,t
+2730,IHC-HEP PAR1,Tissue,0,t
+2731,IHC-HER2 Neu,NONE,0,t
+2732,IHC-HMB 45,Tissue,0,t
+2733,IHC-Immuno Stain (One Only),Tissue,0,t
+2734,IHC-Immunohisto IHCPR,Tissue,0,t
+2735,IHC-INHIBIN,Tissue,0,t
+2736,IHC-KAPA LCHAIN,Tissue,0,t
+2737,IHC-KAPPA,Tissue,0,t
+2738,IHC-Ki-67 (MIB-1),Tissue,0,t
+2739,IHC-LAMBDA,Tissue,0,t
+2740,IHC-MELAN-A,Tissue,0,t
+2741,IHC-MYOGENIN,Tissue,0,t
+2742,IHC-Needle Biopsy With IHC,NONE,0,t
+2743,IHC-P-63,Tissue,0,t
+2744,IHC-PSA,Tissue,0,t
+2745,IHC-RCC (Renal cell carcinoma marker),Tissue,0,t
+2746,IHC-S-100 Protein,Tissue,0,t
+2747,IHC-Synaptophysin,Tissue,0,t
+2748,IHC-TdT,Tissue,0,t
+2749,IHC-TTF-1 (Thyroid Transcription Factor 1),Tissue,0,t
+2750,IHC-Vimentin,Tissue,0,t
+2751,IHC-WT1,Tissue,0,t
+2752,Immature Platelets Fraction,Whole Blood-EDTA,0,t
+2753,"Immunofixation (IFE), Urine (LabCorp)","Urine, Random",0,t
+2754,"Immunofixation (Immunoelectrophoresis), Serum (LabCorp)",Serum,0,t
+2755,"Immunofixation and Protein Electrophoresis, Random Urine (LabCorp)","Urine, Random",0,t
+2756,"Immunofixation,Serum",Clotted Blood,0,t
+2757,"Immunoglobulin D, Quantitative (LabCorp)",Serum,0,t
+2758,Immunoglobulin G (IgG) Index (LabCorp),Serum and cerebrospinal fluid (CSF),0,t
+2759,Immunoglobulin G (IgG4) Subclass 4 (LabCorp),Serum,0,t
+2760,"Immunoglobulin G, Subclass 2 (LabCorp)",Serum,0,t
+2761,"Immunoglobulin G, Subclasses (1-4) (LabCorp)",Serum,0,t
+2762,India Ink for CSF,CSF,0,t
+2763,Indirect Bilirubin,Clotted Blood,0,t
+2764,"Infectious Mononucleosis Antibodies, Qualitative (LabCorp)",Serum,0,t
+2765,"Influenza A and B Antibodies, Quantitative (LabCorp)",Serum,0,t
+2766,"Inhibin A, Ultrasensitive (LabCorp)",Serum,0,t
+2767,Inhibin B (LabCorp),Serum,0,t
+2768,Insulin Autoantibodies (LabCorp),Serum,0,t
+2769,Insulin like growth factor IgF-1,Clotted Blood,0,t
+2770,"Insulin Resistance (HOMA-IR Calculation), Serum (LabCorp)",Serum,0,t
+2771,Insulin-like Growth Factor-binding Protein 3 (LabCorp),Serum,0,t
+2772,Interleukin 6 (LabCorp),Serum,0,t
+2773,Interleukin-2 Receptor Alpha (LabCorp),Serum,0,t
+2774,Interleukin-6,Clotted Blood,0,t
+2775,Intrinsic Factor Antibody,Clotted Blood,0,t
+2776,Intrinsic Factor Blocking Antibodies (LabCorp),Serum,0,t
+2777,"Iodine, Plasma (LabCorp)",Whole Blood-EDTA,0,t
+2778,"Iodine, Urine (LabCorp)","Urine, Random",0,t
+2779,Iron Stain,Tissue,0,t
+2780,JAK-II (V617F) Mutation (NIBD),Whole Blood-EDTA,0,t
+2781,JAK-II Exon 12 Mutation (NIBD),Whole Blood-EDTA,0,t
+2782,"JC Virus DNA, PCR, CSF (LabCorp)",CSF,0,t
+2783,KRAS Gene Mutation (NIBD),Tissue,0,t
+2784,Lacosamide (LabCorp),Serum,0,t
+2785,"Lactic Acid, CSF (LabCorp)",CSF,0,t
+2786,"Lactic Acid, Plasma (LabCorp)",Plasma,0,t
+2787,"Lactoferrin, Fecal, Quantitative (LabCorp)",Stool,0,t
+2788,"Lamotrigine (Lamictal), Serum (LabCorp)",Serum,0,t
+2789,LDH,Clotted Blood,0,t
+2790,LDL Cholesterol,Clotted Blood,0,t
+2791,LE Cells,Whole Blood-Heparin,0,t
+2792,Lead (Blood),Whole Blood-Heparin,0,t
+2793,"Lead, (LabCorp)",Whole Blood-EDTA,0,t
+2794,"Lead, Urine (LabCorp)",24 Hour Urine,0,t
+2795,"Leber's Hereditary Optic Neuropathy (LHON, 3 frequent mutations)",Whole Blood,0,t
+2796,"Leflunomide, Serum (LabCorp)",Serum,0,t
+2797,Legionella pneumophila Antibody (LabCorp),Serum,0,t
+2798,Leishmania Donovani,Bone Marow,0,t
+2799,Leishmania Tropica,Wound Discharge,0,t
+2800,"Leptin, Serum (LabCorp)",Serum,0,t
+2801,Levetiracetam Serum (LabCorp),Serum,0,t
+2802,Lipase,Clotted Blood,0,t
+2803,Lipid-associated Sialic Acid (LabCorp),Serum,0,t
+2804,Lipoprotein (a),Clotted Blood,0,t
+2805,Liver Function Tests,Clotted Blood,0,t
+2806,Liver Kidney Microsomal Ab,Clotted Blood,0,t
+2807,Lupus Anticoagulant Comprehensive (LabCorp),Plasma-Citrate,0,t
+2808,"Lyme, Total Antibodies (LabCorp)",Serum,0,t
+2809,Lysosomal and Peroxisomal Storage Disorders Screen (LabCorp),Dry Blood Spots,0,t
+2810,"Lysozyme, Serum (LabCorp)",Clotted Blood Serum,0,t
+2811,Magnesium,Clotted Blood,0,t
+2812,"Magnesium, RBC (LabCorp)",Whole Blood-Heparin,0,t
+2813,Malarial Parasite (Thick Film),Whole Blood-EDTA,0,t
+2814,"Manganese, Plasma (LabCorp)",EDTA-Plasma,0,t
+2815,Mango IgE (LabCorp),Clotted Blood,0,t
+2816,Mantoux Test,Other,0,t
+2817,Mean platelet volume (MPV),Whole Blood-EDTA,0,t
+2818,"Measles (Rubeola) Antibodies IgG, CSF (LabCorp)",CSF,0,t
+2819,"Measles (Rubeola) Antibodies, IgM (LabCorp)",Serum,0,t
+2820,"Measles (Rubeola) Antibodies, IgM, CSF (LabCorp)",CSF,0,t
+2821,"Measles Antibodies (Rubeola Antibodies, IgG) (LabCorp)",Serum,0,t
+2822,"Measles, Mumps, Rubella (MMR) Immunity Profile (LabCorp)",Serum,0,t
+2823,Melanocyte Stimulating Hormone (LabCorp),Plasma with Trasylol®,0,t
+2824,"Mercury, Blood (LabCorp)",Whole Blood-EDTA,0,t
+2825,"Mercury, Urine (LabCorp)","Urine, Random",0,t
+2826,"Metanephrines, Fractionated, Plasma Free (LabCorp)","Plasma, EDTA",0,t
+2827,"Metanephrines, Fractionated, Quantitative, 24-Hour Urine (LabCorp)",24 Hour Urine,0,t
+2828,"Metanephrines, Pheochromocytoma Evaluation (LabCorp)",Urine (First Morning),0,t
+2829,"Methadone, Screen Only, Urine (LabCorp)","Urine, Random",0,t
+2830,Methamphetamine Confirmation (LabCorp),Whole Blood,0,t
+2831,"Methaqualone Screen and Confirmation, Urine (LabCorp)","Urine, Random",0,t
+2832,"Methotrexate (MTX), Serum (LabCorp)",Serum,0,t
+2833,"Methylenetetrahydrofolate Reductase (MTHFR) Thermolabile Variant, DNA Analysis (LabCorp)",Whole Blood-EDTA,0,t
+2834,Methylmalonic Acid (LabCorp),Serum,0,t
+2835,Microalbuminuria (Spot),Urine,0,t
+2836,Microfilariae,Whole Blood-EDTA,0,t
+2837,Microsatellite Instability Analysis (LabCorp),Parafin Block / Slides,0,t
+2838,Milk IgE (LabCorp),Serum,0,t
+2839,MLL Gene by FISH (NIBD),Whole Blood- Na Heparin,0,t
+2840,"Molybdenum, Plasma (LabCorp)",EDTA-Plasma,0,t
+2841,MPL MUTATION,Whole Blood-EDTA,0,t
+2842,MPN PROFILE,Whole Blood-EDTA,0,t
+2843,MRI,NONE,0,t
+2844,MTB DNA DETECTION BY PCR,Sputum,0,t
+2845,"Mucopolysaccharides Screen - Electrophoresis & Quantitation, Urine (LabCorp)","Urine, Random",0,t
+2846,"Multiple Sclerosis (MS) Profile, Serum and CSF (LabCorp)",Serum and cerebrospinal fluid (CSF),0,t
+2847,Myasthenia Gravis Complete Antibody Profile (LabCorp),Serum,0,t
+2848,Mycophenolic Acid and Metabolite (LabCorp),EDTA-Plasma,0,t
+2849,"Mycoplasma pneumoniae Antibodies, IgG (LabCorp)",Serum,0,t
+2850,"Mycoplasma pneumoniae Antibodies, IgG, IgM (LabCorp)",Serum,0,t
+2851,"Mycoplasma pneumoniae Antibodies, IgM (LabCorp)",Serum,0,t
+2852,"Myelin Basic Protein (MBP), Cerebrospinal Fluid (LabCorp)",CSF,0,t
+2853,"Myoglobin, Quantitative, Random Urine (LabCorp)","Urine, Random",0,t
+2854,"Myoglobin, Serum (LabCorp)",Serum,0,t
+2855,"Myositis-Specific Antibodies (Jo-1, Mi-2, PL-7, PL12, P155/140, EJ, SRP, OJ) Panel (LabCorp)",Serum,0,t
+2856,Nail Clipping for Fungal Hyphae,Nail,0,t
+2857,Nasal Swab Culture,NONE,0,t
+2858,Nasoendoscopy,NONE,0,t
+2859,"Neisseria gonorrhoeae, NAA (LabCorp)",Cervical Cells,0,t
+2860,"Neuromyelitis Optica (Aquaporin-4), IgG Autoantibodies (LabCorp)",Serum,0,t
+2861,"Neuronal Nuclear Antibodies (Hu, Ri, Yo) IgG by Immunoblot (LabCorp)",Whole Blood-EDTA,0,t
+2862,"Neuron-specific Enolase, Serum (LabCorp)",Serum,0,t
+2863,NGS BRCA I/II (NIBD),Whole Blood-EDTA,0,t
+2864,NGS Cancer Germline,Whole Blood-EDTA,0,t
+2865,NGS Cancer Somatic,Whole Blood-EDTA,0,t
+2866,NGS Cardiac (NIBD),Whole Blood-EDTA,0,t
+2867,NGS INHERITED (NIBD),Whole Blood-EDTA,0,t
+2868,NGS MYELOID (NIBD),Whole Blood-EDTA,0,t
+2869,NGS Tumor 15,Whole Blood-EDTA,0,t
+2870,"Nickel, Plasma (LabCorp)",EDTA-Plasma,0,t
+2871,"Nickel, Urine (LabCorp)",24 Hour Urine,0,t
+2872,"Nicotine and Metabolite, Quantitative (LabCorp)",Whole Blood-EDTA,0,t
+2873,"Nicotine Metabolite, Screening, Urine (LabCorp)","Urine, Random",0,t
+2874,NMR LipoProfile® (With Graph) (LabCorp),EDTA-Plasma,0,t
+2875,Non-Invasive Prenatal Testing (Centogene),Whole Blood,0,t
+2876,NPM1 MUTATION,Whole Blood-EDTA,0,t
+2877,NRAS-BRAF Mutation (NIBD),Tissue,0,t
+2878,"N-Telopeptide Cross-links (NTx), Serum (LabCorp)",Serum,0,t
+2879,"N-Telopeptide Cross-links (NTx), Urine (LabCorp)","Urine, Random",0,t
+2880,"Occult Blood, Fecal, Immunoassay (LabCorp)",Stool,0,t
+2881,Oligoclonal Bands,CSF and Serum,0,t
+2882,Olive Black IgE (LabCorp),Clotted Blood,0,t
+2883,Onion IgE (LabCorp),Clotted Blood,0,t
+2884,"Opiate Confirmation, Urine (LabCorp)","Urine, Random",0,t
+2885,Organic Acid Analysis (LabCorp),"Urine, Random",0,t
+2886,"Orotic Acid, Urine (LabCorp)","Urine, Random",0,t
+2887,Osmotic Fragility,Whole Blood-Heparin,0,t
+2888,"Osteocalcin, Serum (LabCorp)",Serum,0,t
+2889,Oxcarbazepine (Trileptal) Serum (LabCorp),Serum,0,t
+2890,P.D.G.E.R by FISH (NIBD),Whole Blood- Na Heparin,0,t
+2891,PACKED RBCs,Whole Blood,0,t
+2892,Pancreatic Amylase (LabCorp),Serum,0,t
+2893,"Pancreatic Elastase, Fecal (LabCorp)",Stool,0,t
+2894,Pancreatic Polypeptide (LabCorp),Serum,0,t
+2895,PAP Smear,NONE,0,t
+2896,PAP Stain Per Slide,Tissue,0,t
+2897,"PAP Test, Liquid-based Preparation (LabCorp)",Cervical Cells,0,t
+2898,"PAP Test, Liquid-based Preparation With Reflex to Human Papillomavirus (HPV) High-risk DNA Detection (LabCorp)",Cervical Cells,0,t
+2899,"PAP Test (Image-guided), Liquid-based Preparation (LabCorp)",Cervical Cells,0,t
+2900,Paraneoplastic Profile 1 (LabCorp),Serum,0,t
+2901,Parathyroid Hormone (PTH) - Intact,Clotted Blood,0,t
+2902,Parathyroid Hormone –related Peptide (LabCorp),EDTA-Plasma,0,t
+2903,"Parvovirus B19 (Human), IgG, IgM (LabCorp)",Serum,0,t
+2904,"Parvovirus B19, DNA PCR, (LabCorp)",Whole Blood,0,t
+2905,PAS Stain,Tissue,0,t
+2906,PASD,Tissue,0,t
+2907,PCV (Hematocrit),Whole Blood-EDTA,0,t
+2908,Peanut IgE (LabCorp),Clotted Blood,0,t
+2909,Peripheral Smear,Whole Blood-EDTA,0,t
+2910,"Phencyclidine (PCP), Screen and Confirmation, Urine (LabCorp)","Urine, Random",0,t
+2911,Phenobarbital,Clotted Blood,0,t
+2912,Phenol Exposure Profile (LabCorp),"Urine, Random",0,t
+2913,"Phenylalanine, Quantitative, Plasma (LabCorp)","Plasma, Heparin",0,t
+2914,Phenytoin / Dilantin.,Clotted Blood,0,t
+2915,"Phospholipase A2 Receptor Autoantibodies, IgG (LabCorp)",Clotted Blood,0,t
+2916,Phosphorous,Clotted Blood,0,t
+2917,"Pigeon Serum Precipitating Antibodies, IgG (Hypersensitivity Pneumonitis) (LabCorp)",Clotted Blood,0,t
+2918,"Pine Nut, Pingoles IgE (LabCorp)",Clotted Blood,0,t
+2919,Plasma Renin,EDTA Plasma,0,t
+2920,Plasminogen Activator Inhibitor 1 (PAI-1) Activity (LabCorp),Plasma-Citrate,0,t
+2921,Plasminogen Activator Inhibitor 1 (PAI-1) Antigen (LabCorp),Plasma-Citrate,0,t
+2922,Platelet Antibody Profile (LabCorp),Serum,0,t
+2923,Platelet Factor 4 (LabCorp),Plasma,0,t
+2924,Platelets,Whole Blood-EDTA,0,t
+2925,Platelets Rich Plasma,Whole Blood-Citrate,0,t
+2926,Pleural Fluid R.E,Fluid,0,t
+2927,PML RAR ALPHA BY FISH (NIBD),Whole Blood-EDTA,0,t
+2928,"PML RAR Alpha by PCR, Qualitative (NIBD)",Whole Blood,0,t
+2929,Poliovirus Antibodies (LabCorp),Serum,0,t
+2930,"Porphobilinogen, Quantitative, Random Urine (LabCorp)","Urine, Random",0,t
+2931,"Porphyrins, Fecal (LabCorp)",Stool,0,t
+2932,"Porphyrins, Quantitative, 24-Hour Urine (LabCorp)",24 Hour Urine,0,t
+2933,"Porphyrins, Quantitative, Random Urine (LabCorp)","Urine, Random",0,t
+2934,"Porphyrins, Total Plasma (LabCorp)","Plasma, Heparin",0,t
+2935,Potato White IgE (LabCorp),Clotted Blood,0,t
+2936,"Prader-Willi and Angelman Syndromes, DNA Analysis (LabCorp)",Whole Blood-EDTA,0,t
+2937,Prealbumin (LabCorp),Serum,0,t
+2938,"Pregnenolone, (LabCorp)",Serum,0,t
+2939,Pro C Global,Plasma - Citrate,0,t
+2940,Pro-BNP,Clotted Blood,0,t
+2941,Procalcitonin,Clotted Blood,0,t
+2942,Progesterone Receptor,Whole Blood-Citrate,0,t
+2943,Proinsulin (LabCorp),Serum,0,t
+2944,Prolactin,Clotted Blood,0,t
+2945,"Propoxyphene Screen and Confirmation, Urine (LabCorp)","Urine, Random",0,t
+2946,"Prostaglandin E2, Urine (LabCorp)",24 Hour Urine,0,t
+2947,Prostate Specific Antigen,Clotted Blood,0,t
+2948,Prostatic Acid Phosphatase (PAP) (LabCorp),Serum,0,t
+2949,Protein C Assay,Whole Blood-Citrate,0,t
+2950,"Protein Electrophoresis, 24-Hour Urine (LabCorp)",24 Hour Urine,0,t
+2951,Protein S Assay,Whole Blood-Citrate,0,t
+2952,Prothrombin Time,NONE,0,t
+2953,Pulmonary Funtion Test,NONE,0,t
+2954,"Pyrroles, Urine (LabCorp)","Urine, Random",0,t
+2955,Pyruvate Kinase (LabCorp),Whole Blood CP,0,t
+2956,"Q Fever Antibodies, IgG (LabCorp)",Serum,0,t
+2957,QuantiFERON TB Gold (IGRA),Whole Blood-Heparin,0,t
+2958,R.P.R. (V.D.R.L.) Titer,Clotted Blood,0,t
+2959,Rabies Neut.AntibodiesTitration (RFFIT) (LabCorp),Serum,0,t
+2960,RADIOLOGY - INTRAROL X-RAY,NONE,0,t
+2961,RADIOLOGY - PANORAMIC FILM/CEPHOLO X-Ray,NONE,0,t
+2962,RBC Count,Whole Blood-EDTA,0,t
+2963,RBC Folate,Clotted Blood & Whole Blood - EDTA,0,t
+2964,RBC Morphology in Urine,Urine,0,t
+2965,RBC Phenotyping (NIBD),Whole Blood,0,t
+2966,Renal Doppler Native Kidney,NONE,0,t
+2967,Renal Doppler Transplant Kidney,NONE,0,t
+2968,Respiratory Syncytial Virus Antibodies (LabCorp),Serum,0,t
+2969,Reticulin IgA Antibodies (LabCorp),Serum,0,t
+2970,Reticulocyte Count,Whole Blood-EDTA,0,t
+2971,Reverse T3 (LabCorp),Serum,0,t
+2972,Rh Antibody,Clotted Blood,0,t
+2973,Rheumatoid Factor,Clotted Blood,0,t
+2974,Rice IgE (LabCorp),Clotted Blood,0,t
+2975,RNA Polymerase III IgG Aantibodies (LabCorp),Serum,0,t
+2976,"Rocky Mountain Spotted Fever (RMSF), Rickettsia rickettsii IgG (LabCorp)",Serum,0,t
+2977,"Rocky Mountain Spotted Fever (RMSF), Rickettsia rickettsii IgM (LabCorp)",Serum,0,t
+2978,Rubella IgG (Antibody),Clotted Blood,0,t
+2979,SAAG Profile,Ascitic Fluid & Serum,0,t
+2980,Saccharomyces Cerevisiae Profile (ASCA) (LabCorp),Serum,0,t
+2981,"Salicylate, Serum (LabCorp)",Serum,0,t
+2982,Scrotal Doppler,NONE,0,t
+2983,"Selenium, Plasma (LabCorp)",EDTA-Plasma,0,t
+2984,Semen for Culture,Semen,0,t
+2985,Seminal Fluid Examination,Semen,0,t
+2986,SEQUENCING FOR FIBRINOGEN,Whole Blood-EDTA,0,t
+2987,SEQUENCING FOR GLANZMANN THROMBUSTHENIA,Whole Blood-EDTA,0,t
+2988,SEQUENCING FOR SIBLING,Whole Blood-EDTA,0,t
+2989,SEQUENCING FOR VITAMIN K (VKORC),Whole Blood-EDTA,0,t
+2990,SEQUENCING FOR VITAMIN K DEFICIENCY (VKDFD),Whole Blood-EDTA,0,t
+2991,SEQUENCING FOR VWD (EXTENDED SEQUENCING),Whole Blood-EDTA,0,t
+2992,SEQUENCING OF BETA THALASSAEMIA (NIBD),Whole Blood-EDTA,0,t
+2993,SEQUENCING OF FACTOR 10,Whole Blood-EDTA,0,t
+2994,SEQUENCING OF FACTOR 10 (FAMILY STUDIES),Whole Blood-EDTA,0,t
+2995,SEQUENCING OF FACTOR 13 / CVS,Whole Blood-EDTA,0,t
+2996,SEQUENCING OF FACTOR 7 (FAMILY STUDIES),Whole Blood-EDTA,0,t
+2997,SEQUENCING OF FACTOR 7 (NIBD),Whole Blood,0,t
+2998,SEQUENCING OF FACTOR 8,Whole Blood-EDTA,0,t
+2999,SEQUENCING OF FACTOR 9,Whole Blood-EDTA,0,t
+3000,SEQUENCING OF FACTOR 9 (FAMILY STUDIES),Whole Blood-EDTA,0,t
+3001,SEQUENCING OF VWD (INITIAL SCREENING),Whole Blood-EDTA,0,t
+3002,SEQUENCING OF VWD FOR FAMILY (INITIAL SCREENING),Whole Blood-EDTA,0,t
+3003,SEQUENCING OF VWD FOR FAMILY STUDIES (EXTENDED),Whole Blood-EDTA,0,t
+3004,Serotonin (LabCorp),Serum,0,t
+3005,Serum ADA (Adenosine Deaminase),Clotted Blood,0,t
+3006,Serum Cortisol (AM),Clotted Blood,0,t
+3007,Serum Cortisol (PM),Clotted Blood,0,t
+3008,Serum Creatinine,Clotted Blood,0,t
+3009,Serum Creatinine for CT Scan,Whole Blood,0,t
+3010,Serum Gastrin Level,Clotted Blood,0,t
+3011,Serum Insulin,Clotted Blood,0,t
+3012,Serum Ketone (Beta-Hydroxybutyrate) (LabCorp),Serum,0,t
+3013,Sex Hormone Binding Globulin,Clotted Blood,0,t
+3014,Sickling,Whole Blood-EDTA,0,t
+3015,SIMPLE FLAP SURGERY + ROOT PLANNING (PER QUADRANT),NONE,0,t
+3016,"Sirolimus, Whole Blood (LabCorp)",Whole Blood-EDTA,0,t
+3017,"Sjogren's Ab, Anti-SS-A (Anti-Ro)/Anti-SS--B (Anti-La) (LabCorp)",Serum,0,t
+3018,Skin Scraping for Fungal Hyphae,Skin Scraping,0,t
+3019,Smith Antibodies (LabCorp),Serum,0,t
+3020,SOCKET PRESERVATION (SOCKET REPAIR MEMBRANE + BONE GRAFT),NONE,0,t
+3021,Solid Tumor Panel (Centogene),Tissue,0,t
+3022,Soluble Liver Antigen (SLA) IgG Antibody (LabCorp),Serum,0,t
+3023,Soluble Transferrin Receptor (LabCorp),Serum,0,t
+3024,"Somatostatin, Plasma (LabCorp)",EDTA-Plasma,0,t
+3025,Soybean IgE (LabCorp),Clotted Blood,0,t
+3026,Special Stain on Bone Marrow,Bone Marrow,0,t
+3027,Spot Urine Calcium,Urine,0,t
+3028,Spot Urine Cortisol,Urine,0,t
+3029,Spot Urine Creatinine,Urine,0,t
+3030,Spot Urine Electrolytes,Urine,0,t
+3031,Spot Urine for Phosphorous,Urine,0,t
+3032,Spot Urine for Urea,Urine,0,t
+3033,Spot Urine for Uric Acid,Urine,0,t
+3034,Spot Urine Magnesium,Urine,0,t
+3035,Spot Urine Protein (Quantitative),Urine,0,t
+3036,Sputum Culture,NONE,0,t
+3037,Sputum for AFB Stain,Sputum,0,t
+3038,Sputum for Fungal Hyphae,Sputum,0,t
+3039,"ß2-Glycoprotein 1 Antibodies, IgA, IgG, IgM (LabCorp)",Serum,0,t
+3040,"ß2-Glycoprotein 1 Antibodies, IgG, IgM (LabCorp)",Serum,0,t
+3041,ß2-Microglobulin (LabCorp),Serum,0,t
+3042,"ß2-Microglobulin, Urine (LabCorp)","Urine, Random",0,t
+3043,Step One Screening Program (Neonatal Screening for 52 Genetic Disorders) (LabCorp),Dry Blood Spots,0,t
+3044,Stone Analysis,Stone,0,t
+3045,Stone Analysis (LabCorp),Stone,0,t
+3046,Stool Culture,NONE,0,t
+3047,Stool For Fat Globules,NONE,0,t
+3048,Stool for PH,Stool,0,t
+3049,Stool for Reducing Substance,Stool,0,t
+3050,Stool Occult Blood,Stool,0,t
+3051,Stool Routine Examination,Stool,0,t
+3052,Stool with Conc. Method,Stool,0,t
+3053,Strongyloides IgG Antibody (LabCorp),Serum,0,t
+3054,Sudun Black Staining,NONE,0,t
+3055,"Sulfate, Quantitative, 24-Hour Urine",24 Hour Urine,0,t
+3056,"Sulfate, Quantitative, 24-Hour Urine (LabCorp)",24 Hour Urine,0,t
+3057,Sweet Potato IgE (LabCorp),Clotted Blood,0,t
+3058,Synovial Fluid R.E,Fluid,0,t
+3059,Syphilis TP Antibody,Clotted Blood,0,t
+3060,"T3, Free, Dialysis, LC/MS-MS (LabCorp)",Serum,0,t
+3061,t4:14 by FISH (NIBD),Whole Blood- Na Heparin,0,t
+3062,Tacrolimus,Whole Blood-EDTA,0,t
+3063,"Tay-Sachs, Biochemical, Serum (LabCorp)",Serum,0,t
+3064,TB by ELISA (IgG & IgM),Clotted Blood,0,t
+3065,TEMPORARY CROWN / UNIT -CHAIRSIDE,NONE,0,t
+3066,"Testosterone, Free, Direct (LabCorp)",Serum,0,t
+3067,Tetanus Antitoxoid IgG Antibodies,Serum,0,t
+3068,Tetanus Antitoxoid IgG Antibodies (LabCorp),Serum,0,t
+3069,Tetanus/Diphtheria Antibody Profile (LabCorp),Serum,0,t
+3070,THALASSEMIA GENETIC PROFILE (NIBD),Whole Blood-EDTA,0,t
+3071,Thalessemia Genetic Profile (NIBD),Whole Blood-EDTA,0,t
+3072,"Thallium, Plasma (LabCorp)",EDTA-Plasma,0,t
+3073,"Theoplhylline, Serum (LabCorp)",Serum,0,t
+3074,Thiopurine Metabolites (6-Mercaptopurine & 6-Thioguanine Nucleotides) (LabCorp),Whole Blood-EDTA,0,t
+3075,"Thiopurine Methyltransferase (TPMT), Enzyme Activity, Erythrocytes (LabCorp)",Whole Blood-EDTA,0,t
+3076,Throat Swab Culture,NONE,0,t
+3077,Throxin Binding Globulin (Thyroid Transporting Protein) (LabCorp),Serum,0,t
+3078,Thyroglobulin,Clotted Blood,0,t
+3079,Thyroid Antibodies,Clotted Blood,0,t
+3080,Thyroid Function Tests,Clotted Blood,0,t
+3081,Thyroid-stimulating Immunoglobulin (TSI) (LabCorp),Serum,0,t
+3082,"Thyroxine (T4), Free, Dialysis / Mass Spectrometry (LabCorp)",Serum,0,t
+3083,TIBC,Clotted Blood,0,t
+3084,Tissue Processing,Tissue,0,t
+3085,Tissue processing (Eight Blocks),Tissue,0,t
+3086,Tissue processing (Five blocks),Tissue,0,t
+3087,Tissue processing (Four blocks),NONE,0,t
+3088,Tissue processing (Nine blocks),Tissue,0,t
+3089,Tissue processing (One block),Tissue,0,t
+3090,Tissue processing (Seven blocks),Tissue,0,t
+3091,Tissue processing (Six blocks),Tissue,0,t
+3092,Tissue processing (Ten blocks),Tissue,0,t
+3093,Tissue processing (Three Blocks),Tissue,0,t
+3094,Tissue processing (Two blocks),Slide/Block,0,t
+3095,TKI DOMAIN MUTATION ANALYSIS (NIBD),Whole Blood-EDTA,0,t
+3096,"Topiramate, Serum (LabCorp)",Serum,0,t
+3097,Torch Profile,Clotted Blood,0,t
+3098,Total Bilirubin,Clotted Blood,0,t
+3099,Total Eosinophil Count,Whole Blood-EDTA,0,t
+3100,Total Glutathione (LabCorp),Whole Blood,0,t
+3101,Total Lipids,Clotted Blood,0,t
+3102,Total Neutrophil Count,Whole Blood-EDTA,0,t
+3103,"Toxoplasma gondii Antibodies, IgG (LabCorp)",Serum,0,t
+3104,"Toxoplasma gondii Antibodies, Quantitation, IgM (LabCorp)",Serum,0,t
+3105,"Toxoplasma Gondii, PCR, (LabCorp)",Whole Blood-EDTA,0,t
+3106,Toxoplasma IgG (Antibody),Clotted Blood,0,t
+3107,Toxoplasma IgM (Antibody),Clotted Blood,0,t
+3108,TPMT (GENETIC POLYMORPHISM),Whole Blood-EDTA,0,t
+3109,"Trichomonas vaginalis, NAA (LabCorp)",Cervical Cells,0,t
+3110,Trichrome,Tissue,0,t
+3111,Troponin T,Whole Blood-EDTA,0,t
+3112,Tru Cut Biopsy,Tissue,0,t
+3113,"Tryptase, Serum (LabCorp)",Serum,0,t
+3114,"TSH Receptor Antibody (TRAb), Serum (LabCorp)",Serum,0,t
+3115,T-Transglutaminase IgA,Clotted Blood,0,t
+3116,T-Transglutaminase IgG,Clotted Blood,0,t
+3117,Tumor Necrosis Factor-Alpha (LabCorp),Serum,0,t
+3118,TWO CANAL RCT (SIMPLE),NONE,0,t
+3119,Two sites ultrasound guided FNAC,NONE,0,t
+3120,Typanometry,NONE,0,t
+3121,UIBC,Clotted Blood,0,t
+3122,Ultrasound,NONE,0,t
+3123,Ultrasound Abdomin And Pelvis,NONE,0,t
+3124,Ultrasound Bladder (Prostate) Pre & Post Void,NONE,0,t
+3125,Ultrasound Breast & Axilla (Bilateral),NONE,0,t
+3126,Ultrasound Complete Study on CD,NONE,0,t
+3127,Ultrasound Eye / B-Scan,NONE,0,t
+3128,Ultrasound Fetal Wellbeing Scan (24-42 W),NONE,0,t
+3129,Ultrasound guided FNAC,NONE,0,t
+3130,Ultrasound Intant hip,NONE,0,t
+3131,"Ultrasound Kidney, Ureter, Bladder",NONE,0,t
+3132,Ultrasound Kidneys Only,NONE,0,t
+3133,Ultrasound Liver And Gallbladder,NONE,0,t
+3134,Ultrasound Marking for Fluid Aspiration,NONE,0,t
+3135,Ultrasound Neonatal Head,NONE,0,t
+3136,Ultrasound Parotid Gland,NONE,0,t
+3137,Ultrasound Scrotum,NONE,0,t
+3138,Ultrasound Single Organ,NONE,0,t
+3139,Ultrasound Soft Tissues- Limited Study,NONE,0,t
+3140,Ultrasound Thoracic Cavity,NONE,0,t
+3141,Ultrasound Thyroid Gland,NONE,0,t
+3142,"Ultrasound, Follicular Monitoring",NONE,0,t
+3143,"Ultrasound, Obstetrics, Multiple Gestation",NONE,0,t
+3144,Urethral Swab Culture,NONE,0,t
+3145,Uric Acid,Clotted Blood,0,t
+3146,Urinary Amphetamine,Urine,0,t
+3147,Urinary Benzodiazepine,Urine,0,t
+3148,Urinary Cannabinoids,Urine,0,t
+3149,Urinary Cocaine,Urine,0,t
+3150,Urinary Opiates,Urine,0,t
+3151,Urine Amylase,Urine,0,t
+3152,Urine Barbiturates,Urine,0,t
+3153,Urine Bile Salts,Urine,0,t
+3154,Urine Culture,Urine,0,t
+3155,Urine for AFB Stain,Urine,0,t
+3156,Urine Hemoglobin,Urine,0,t
+3157,Urine Hemosiderin,Urine,0,t
+3158,Urine Ketone,Urine,0,t
+3159,Urine Osmolality,"Urine, Random",0,t
+3160,Urine PH,Urine,0,t
+3161,Urine Protein (Qualitative),Urine,0,t
+3162,Urine Protein Creatinine Ratio,Urine,0,t
+3163,Urine Protein Electrophoresis,Urine,0,t
+3164,Urine Reducing Substance,Urine,0,t
+3165,Urine Routine Examination,Urine,0,t
+3166,Urine Specific Gravity,Urine,0,t
+3167,USING MTA (PLUS PROCEDURES),NONE,0,t
+3168,Valproic Acid (Epilim),Clotted Blood,0,t
+3169,"Vanadium, Urine (LabCorp)","Urine, Random",0,t
+3170,"Vancomycin, Serum (LabCorp)",Serum,0,t
+3171,"Vanillylmandelic Acid (VMA), 24-Hour Urine (LabCorp)",24 Hour Urine,0,t
+3172,"Vanillylmandelic Acid (VMA), Random Urine (LabCorp)","Urine, Random",0,t
+3173,Varicella,NONE,0,t
+3174,"Varicella Zoster Virus (VZV) Antibodies, IgG (LabCorp)",Serum,0,t
+3175,"Varicella Zoster Virus (VZV) Antibodies, Quantitative, IgM (LabCorp)",Serum,0,t
+3176,"Varicella Zoster Virus (VZV), DNA PCR (LabCorp)",CSF,0,t
+3177,Varicella Zoster Virus Antibodies (IgG).,Clotted Blood,0,t
+3178,Vascular Endothelial Growth Factor (LabCorp),Clotted Blood,0,t
+3179,"Vasoactive Intestinal Polypeptide (VIP), Plasma (LabCorp)",Plasma with Trasylol®,0,t
+3180,"VDRL, Cerebrospinal Fluid (LabCorp)",CSF,0,t
+3181,VENEER (RESIN) CHAIRSIDE,NONE,0,t
+3182,VENEER (RESIN) Lab-Fabricated,NONE,0,t
+3183,Very Long Chain Fatty Acid (VLCFA) (LabCorp),"Plasma, EDTA",0,t
+3184,"Vitamin A (Retinol, Serum) (LabCorp)",Serum,0,t
+3185,Vitamin B1 (Thiamine) (LabCorp),Whole Blood-EDTA,0,t
+3186,Vitamin B2 (Riboflavin) (LabCorp),Whole Blood-EDTA,0,t
+3187,Vitamin B3 (Niacin) (LabCorp),Serum,0,t
+3188,Vitamin B5 (Pantothenic Acid) (LabCorp),Serum,0,t
+3189,"Vitamin B6, Plasma (Pyridoxine) (LabCorp)",EDTA-Plasma,0,t
+3190,"Vitamin B7 (Biotin, Serum) (LabCorp)",Serum,0,t
+3191,Vitamin C (Ascorbic Acid) (LabCorp),Serum,0,t
+3192,"Vitamin E (Alpha and Gamma Tocopherol), (LabCorp)",Serum,0,t
+3193,Vitamin K Gene Sequencing,Whole Blood-EDTA,0,t
+3194,Vitamin K1 (Phylloquinone) (LabCorp),EDTA-Plasma,0,t
+3195,Von Willebrand Factor,Whole Blood-Citrate,0,t
+3196,von Willebrand Factor Activity (LabCorp),Plasma-Citrate,0,t
+3197,von Willebrand Factor Antigen (LabCorp),Plasma-Citrate,0,t
+3198,W02,NONE,0,t
+3199,"Warfarin (Coumadin), Serum (LabCorp)",Serum,0,t
+3200,Water Culture,NONE,0,t
+3201,WBC Count,Whole Blood-EDTA,0,t
+3202,Wet Smear,Cervical Cells,0,t
+3203,Wheat IgE (LabCorp),Clotted Blood,0,t
+3204,White Fish IgE (LabCorp),Clotted Blood,0,t
+3205,Widal,Clotted Blood,0,t
+3206,Wright Stain,NONE,0,t
+3207,XMN POLYMORPHISM (NIBD),Whole Blood-EDTA,0,t
+3208,"X-Ray Abdomen Spine, Ap",NONE,0,t
+3209,X-Ray Abdomen-Erect,NONE,0,t
+3210,X-Ray Abdomen-Spine,NONE,0,t
+3211,"X-Ray Acromioclavicular Joint, - Complete",NONE,0,t
+3212,"X-Ray Adenoides, Lat",NONE,0,t
+3213,X-Ray Adenoids (Neck Lat View) Child,NONE,0,t
+3214,X-Ray Ankle AP,NONE,0,t
+3215,X-Ray Ankle Ap/LT,NONE,0,t
+3216,"X-Ray Ankle Joint, Ap & Lat",NONE,0,t
+3217,X-Ray Ankle LT,NONE,0,t
+3218,X-Ray Arm Ap/Lat,NONE,0,t
+3219,X-Ray B/L Tempro Mendibular Joint (T.M.J) open or close mouth,NONE,0,t
+3220,X-Ray Barium Meal,NONE,0,t
+3221,X-Ray Barium Meal Follow Through,NONE,0,t
+3222,X-Ray Barium Swallow,NONE,0,t
+3223,X-Ray Barium Swallow Meal Follow Through,NONE,0,t
+3224,X-Ray Both Hand Ap & Lt,NONE,0,t
+3225,"X-Ray Both Hip Joint, Ap",NONE,0,t
+3226,"X-Ray Both Knee Joint, Ap & Lat",NONE,0,t
+3227,X-Ray Both Wrist Ap& LT,NONE,0,t
+3228,X-Ray Calacaneus Lateral + Axial,NONE,0,t
+3229,"X-Ray Calcaneus AP, Lat (Heel)",NONE,0,t
+3230,X-Ray Calcaneus Lateral,NONE,0,t
+3231,X-Ray Cervical Spine Ap & Lat,NONE,0,t
+3232,"X-Ray Cervical Spine, - Ap + lateral + odontoid",NONE,0,t
+3233,"X-Ray Cervical Spine, Ap, Lat & Oblq",NONE,0,t
+3234,X-Ray Chest Ap View,NONE,0,t
+3235,X-Ray Chest Lat (Left or right),NONE,0,t
+3236,X-Ray Chest Lordotic View,NONE,0,t
+3237,X-Ray Chest Oblique (Rt or Lt),NONE,0,t
+3238,X-Ray Chest Oblique (Rt),NONE,0,t
+3239,X-Ray Chest PA View,NONE,0,t
+3240,"X-Ray Chest, - PA + Lateral + Apical",NONE,0,t
+3241,"X-Ray Chest, Apical View",NONE,0,t
+3242,"X-Ray Chest, PA & Lat",NONE,0,t
+3243,"X-Ray Clavical Complete, Ap + Oblique",NONE,0,t
+3244,"X-Ray Clavicle, - Basic",NONE,0,t
+3245,"X-Ray Clavicle, Ap",NONE,0,t
+3246,"X-Ray Clavicle, Complete",NONE,0,t
+3247,"X-Ray Coccyx - Complete, Ap + Lateral",NONE,0,t
+3248,X-Ray Duplicate film,NONE,0,t
+3249,X-Ray Elbow Ap,NONE,0,t
+3250,X-Ray Elbow LT,NONE,0,t
+3251,"X-Ray Elbow, Ap & Lat",NONE,0,t
+3252,"X-Ray Entire Infant Spine - Complete, Ap + Lateral",NONE,0,t
+3253,X-Ray Facial bones Ap & Lat,NONE,0,t
+3254,X-Ray Facial Bones Ap & Lat,NONE,0,t
+3255,X-Ray Femur Ap/Lat,NONE,0,t
+3256,"X-Ray Femur, Ap",NONE,0,t
+3257,"X-Ray Femur, Lat",NONE,0,t
+3258,"X-Ray Finger, Ap & Lat",NONE,0,t
+3259,X-ray Foor Ap,NONE,0,t
+3260,X-Ray Foor LT,NONE,0,t
+3261,"X-Ray Foot, - Complete, Ap + Lateral + Oblique",NONE,0,t
+3262,"X-Ray Foot, Ap & Lat",NONE,0,t
+3263,"X-Ray for Ingested foreign Body, Child - Complete, Ap From Nose To Rectum + lateral From Nose to Rectum",NONE,0,t
+3264,X-Ray forarm Ap/Lat,NONE,0,t
+3265,X-Ray Forearm AP,NONE,0,t
+3266,X-Ray Forearm LT,NONE,0,t
+3267,X-Ray Hand AP,NONE,0,t
+3268,X-Ray Hand LT,NONE,0,t
+3269,"X-Ray Hand, - Complete, PA + Oblique LT + Right",NONE,0,t
+3270,"X-Ray Hand, - Left, PA + Oblique",NONE,0,t
+3271,"X-Ray Hand, - PA + oBlique",NONE,0,t
+3272,"X-Ray Hand, - Right, PA + Oblique",NONE,0,t
+3273,"X-Ray Hand, Ap & Lat",NONE,0,t
+3274,"X-Ray Hip, - Basic, AP",NONE,0,t
+3275,"X-Ray Hip,- Single Side Complete 1, Ap + Lauenstein",NONE,0,t
+3276,"X-Ray Hips Both Hip Joint, - Ap&Lt",NONE,0,t
+3277,"X-Ray Humerus, Ap",NONE,0,t
+3278,"X-Ray Humerus, Ap + Lat",NONE,0,t
+3279,"X-Ray Humerus, Lat",NONE,0,t
+3280,X-Ray Hysterosalpingography,NONE,0,t
+3281,X-Ray Intravenous Urogram (IVU),NONE,0,t
+3282,X-Ray Knee (Both),NONE,0,t
+3283,X-Ray Knee Ap + Lat,NONE,0,t
+3284,"X-Ray Kub, Adult - Complete",NONE,0,t
+3285,"X-Ray KUB, Ap",NONE,0,t
+3286,"X-Ray Kub, Child - Complete",NONE,0,t
+3287,X-Ray Leg Ap/Lat,NONE,0,t
+3288,"X-Ray Leg, Ap",NONE,0,t
+3289,"X-Ray Lower Extremity, Infant - Complete, Ap + Lateral",NONE,0,t
+3290,X-Ray Lumber Spine Ap & Lat,NONE,0,t
+3291,"X-Ray Lumbo Sacral Spine, Ap & Lat",NONE,0,t
+3292,"X-Ray Lumbosacral Spine - Basic, Ap + Lateral",NONE,0,t
+3293,"X-Ray Lumbosacral Spine - Complete, Ap + Lateral + Right Posterior Oblique+ Left Posterior Oblique",NONE,0,t
+3294,X-Ray Mandible - Complete,NONE,0,t
+3295,"X-Ray Mastoid, Both",NONE,0,t
+3296,X-Ray Nasal Bones - Complete,NONE,0,t
+3297,"X-Ray Neck AP, Lat (Soft Tissue neck)",NONE,0,t
+3298,"X-Ray Neck for Soft Tissue - Basic, Lateral",NONE,0,t
+3299,"X-Ray Neck for Soft Tissue - Complete, Ap + Lateral",NONE,0,t
+3300,X-Ray Orbits - Basic,NONE,0,t
+3301,X-Ray Orbits PA (Eyes),NONE,0,t
+3302,"X-Ray Paranasal Sinuses - Basic, Waters",NONE,0,t
+3303,"X-Ray Paranasal Sinuses - Complete, Water + Lateral",NONE,0,t
+3304,"X-Ray Patella, - Complete, Ap + lateral + Skyline",NONE,0,t
+3305,X-Ray Pelvis,NONE,0,t
+3306,"X-Ray Pelvis - Basic, Ap",NONE,0,t
+3307,"X-Ray Pelvis - Complete, Ap + lateral + Inlet",NONE,0,t
+3308,X-Ray PNSs,NONE,0,t
+3309,X-Ray Report on CD,NONE,0,t
+3310,"X-Ray Ribs - Complete, Ap + Anterior Oblique+ posterior Oblique+ chest PA View",NONE,0,t
+3311,"X-Ray Right Hip Joint, Ap",NONE,0,t
+3312,"X-Ray Right Hip Joint, Lat",NONE,0,t
+3313,"X-Ray Right Knee Joint, Ap & Lat",NONE,0,t
+3314,X-Ray Sacro Coccee Bone Ap & Lat,NONE,0,t
+3315,X-Ray Sacro Illiac Joint (S.I Joint Complete) Anterior Oblique(30 Degrees)+ Ap,NONE,0,t
+3316,X-Ray Sacro illiac joint (S.I joint),NONE,0,t
+3317,"X-Ray Sacro Illiac Joint (S.I Joint), Anterior Oblique(30 Degrees)",NONE,0,t
+3318,"X-Ray Sacroillac Joint Complete, Oblique(Rt + Lt)",NONE,0,t
+3319,"X-Ray Sacrum - Complete, Ap + Lateral",NONE,0,t
+3320,X-Ray Scaphoid Bone Ap,NONE,0,t
+3321,X-Ray Scaphoid Bone Lt,NONE,0,t
+3322,"X-Ray Scapula, - Complete 1, Ap + Lateral",NONE,0,t
+3323,"X-Ray Shoulder, Ap",NONE,0,t
+3324,"X-Ray Shoulder, Ap & Lat",NONE,0,t
+3325,"X-Ray Shoulder, Lat",NONE,0,t
+3326,"X-Ray Si Joint, - Basic",NONE,0,t
+3327,"X-Ray Si Joint, - Complete 1",NONE,0,t
+3328,"X-Ray Si Joint, Complete 2",NONE,0,t
+3329,X-Ray Skull Ap & Lat,NONE,0,t
+3330,"X-Ray Skull, Ap",NONE,0,t
+3331,"X-Ray Skull, Lat",NONE,0,t
+3332,X-Ray Sky line view of Knee cap (Pattela),NONE,0,t
+3333,"X-Ray Sternoclavicular Joint, - Complete, AP",NONE,0,t
+3334,"X-Ray Sternum - Complete, PA + Lateral",NONE,0,t
+3335,X-Ray Temporomandibular Joint - Complete,NONE,0,t
+3336,X-Ray Temporomandibular Joint - Left,NONE,0,t
+3337,X-Ray Temporomandibular Joint - Right,NONE,0,t
+3338,"X-Ray Thoracic Inlet - Complete, PA + Lateral",NONE,0,t
+3339,X-Ray Thoracic Inlet - Lateral,NONE,0,t
+3340,X-Ray Thoracic Spine - Basic,NONE,0,t
+3341,"X-Ray Thoracic Spine - Complete, Ap + Lateral + Swimmer's View",NONE,0,t
+3342,"X-Ray Thoracic, Ap & Lat",NONE,0,t
+3343,X-Ray Thoraco lumber spine Ap & Lat,NONE,0,t
+3344,X-Ray Thoraco spine Ap & Lat,NONE,0,t
+3345,"X-Ray Tibia And Fibula, - Complete, Ap + Lateral",NONE,0,t
+3346,"X-Ray Toe, Any Single Digit - Complete, Ap + Lateral",NONE,0,t
+3347,X-Ray Wrist Ap,NONE,0,t
+3348,X-Ray Wrist Lt,NONE,0,t
+3349,"X-Ray Wrist, - Basic - Left, Ap + Lateral",NONE,0,t
+3350,"X-Ray Wrist, - Complete, Ap + Lateral + UL0R Deviation",NONE,0,t
+3351,"X-Ray Wrist, Ap & Lat",NONE,0,t
+3352,"X-Ray Wrist, Child for Bone Age - Complete, PA Left Wrist + Hand",NONE,0,t
+3353,Yeast IgE (LabCorp),Clotted BLood,0,t
+3354,Zinc (Plasma),Whole Blood-Heparin,0,t
+3355,ZN (AFB),Tissue,0,t
+3356,ZNT8 Antibodies (LabCorp),Serum,0,t

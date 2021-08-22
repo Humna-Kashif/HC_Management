@@ -1,0 +1,62 @@
+.react-calendar {
+    width: 350px;
+    max-width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.500em;
+    border-width: 5;
+    border-color: #d9d2d2 !important;
+    border-radius: 4px !important;
+    padding: 5px !important;
+  }
+  .react-calendar__tile--active {
+    background: #e3474d;
+    color: white;
+    border-radius: 4px;
+}
+.react-calendar__tile--now {
+    background: #afaeae;
+    border-radius: 4px;
+}
+.react-calendar__tile--active:enabled:focus {
+    background: #e0004d;
+}
+.react-calendar__tile--now:enabled:hover,.react-calendar__tile--active:enabled:hover{
+    background: #e0004d;
+}
+.react-calendar__navigation {
+  height: 44px;
+  margin-bottom: 1em;
+  border-bottom: 1px solid #efefef;
+}
+.highlight
+{
+  border: 1px solid #bababa !important;
+    border-radius: 30px !important;
+    font-weight: 550;
+
+  }
+
+  .EventHighlight {
+    color:#1d38a2 !important;
+    font-weight: bold !important;
+    cursor: pointer !important;
+    -webkit-animation-duration: 10s;
+    animation-duration: 10s; 
+    animation: pulse 1s infinite;
+    animation-timing-function: linear; 
+}
+
+@keyframes pulse {
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1);}
+  100% { transform: scale(1); }
+  }
+
+
+.tada { 
+  -webkit-animation-name: tada; 
+  animation-name: tada; 
+}
+.square-mark {
+    border-radius: 0;
+}

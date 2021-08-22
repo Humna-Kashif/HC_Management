@@ -1,0 +1,7 @@
+.docTable{
+  border: 2px solid black;
+
+}
+.docTable tr td{
+  padding: 10px;
+}

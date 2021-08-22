@@ -1,0 +1,22 @@
+.logo {
+  margin-left: 1%;
+  color: #00000000 !important;
+}
+.Notifications {
+  margin-right: 2%;
+  color: white;
+}
+
+.AccountCircle {
+  margin-right: 2%;
+  color: white;
+}
+.navbar {
+  z-index: 100;
+  border-bottom: 1px #00000000 solid;
+  background-color: "white";
+}
+.navbar,
+.navbar-default {
+  background-color: #00000000 !important; /* override background image gradient w/ flat color */
+}
